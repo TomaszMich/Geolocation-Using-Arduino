@@ -24,25 +24,25 @@ Promotor pracy inżynierskiej
 
 Osoby dorosłe w różnym wieku – intuicyjny i czytelny interfejs na urządzeniach mobilnych wymagający jedynie podstawowych umiejętności obsługi smartfonów.
 
-Cel i zakres projektu
+### Cel i zakres projektu
 
 Umożliwienie lokalizacji w czasie rzeczywistym znanych nam osób.
 
-Ograniczenia
+### Ograniczenia
 
 Ze względu na wielkość modułu Arduino może być niekiedy niemożliwe, aby mieć go przy sobie.
 
-Inne współpracujące systemy
+### Inne współpracujące systemy
 
 Moduł Arduino
 
 System map na licencji Open Source
 
-Termin
+### Termin
 
 Koniec semestru zimowego 2020/2021
 
-Główne etapy projektu
+### Główne etapy projektu
 
 1.  Identyfikacja i zebranie potrzebnych informacji z literatury źródłowej.
     
@@ -56,21 +56,22 @@ Główne etapy projektu
 4.  Sporządzenie pracy pisemnej na podstawie zebranych informacji.
     
 
-Interesariusze i użytkownicy, persony
+## Interesariusze i użytkownicy, persony
 
-Persona A
+### Persona A
 
 Dorota ma 42 lata i jest samotną matką syna Roberta, który ma 12 lat. Rodzina mieszka daleko od dużego miasta, do którego muszą dojeżdżać autobusem do szkoły i pracy. Robert samemu jeździ autobusem, często wracając do domu już po zmroku. Zaniepokojona matka chce mieć pod kontrolą to czy syn bezpiecznie zmierza do domu. Szuka, więc produktu, który pozwoli jej mieć pod kontrolą aktualne położenie nieletniego syna.
 
-Persona B
+### Persona B
 
 aa
 
-Zespół
+## Zespół
 
-Tomasz Michalski nr tel adres umiejętności
+### Tomasz Michalski
+ nr tel adres umiejętności
 
-Jakub Włostowski
+### Jakub Włostowski
 
 Nr tel.: 726164770
 
@@ -80,7 +81,7 @@ Umiejętności: praca w zespole, programowanie na dobrym poziomie, analityczne m
 
 Projekt będziemy realizować w rozproszeniu przy użyciu narzędzi typu Git.
 
-Komunikacja w zespole i z interesariuszami
+## Komunikacja w zespole i z interesariuszami
 
 W zespole komunikować będziemy się przy użyciu komunikatorów internetowych typu Messenger. Spotykać będziemy się w piątek co 2 tygodnie na wydziale ETI o godzinie 13 w celu przedyskutowania dotychczasowych postępów prac. Oprócz tego w każdy weekend będziemy przeprowadzać przynajmniej dwugodzinne sesje na platformie Skype lub Discord.
 
@@ -98,5 +99,5 @@ Wytwarzanie – Python HOW
 
 Testowanie -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc0NzkyMTddfQ==
+eyJoaXN0b3J5IjpbLTE0MDE0Njk3NTJdfQ==
 -->
