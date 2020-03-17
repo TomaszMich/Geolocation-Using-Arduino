@@ -87,9 +87,9 @@ W zespole komunikować będziemy się przy użyciu komunikatorów internetowych 
 
 Z promotorem komunikować będziemy się przy użyciu emaili.
 
-Współdzielenie dokumentów i kodu
+## Współdzielenie dokumentów i kodu
 
-Narzędzia
+## Narzędzia
 
 Komunikacja w zespole – Skype ssie i Discord git
 
@@ -99,5 +99,5 @@ Wytwarzanie – Python HOW
 
 Testowanie -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE0Njk3NTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjIwMTcwMDZdfQ==
 -->
