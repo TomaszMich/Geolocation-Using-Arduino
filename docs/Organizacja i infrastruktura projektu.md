@@ -85,19 +85,19 @@ Projekt będziemy realizować w rozproszeniu przy użyciu narzędzi typu Git.
 
 W zespole komunikować będziemy się przy użyciu komunikatorów internetowych typu Messenger. Spotykać będziemy się w piątek co 2 tygodnie na wydziale ETI o godzinie 13 w celu przedyskutowania dotychczasowych postępów prac. Oprócz tego w każdy weekend będziemy przeprowadzać przynajmniej dwugodzinne sesje na platformie Skype lub Discord.
 
-Z promotorem komunikować będziemy się przy użyciu emaili.
+Z promotorem komunikować będziemy się osobiście i  przy użyciu poczty elektronicznej.
 
 ## Współdzielenie dokumentów i kodu
 
 ## Narzędzia
 
-Komunikacja w zespole – Skype ssie i Discord git
+Komunikacja w zespole – Discord i Messenger
 
-Organiacja projektu i zarządzanie nim -
+Organizacja projektu i zarządzanie nim -
 
-Wytwarzanie – Python HOW
+Wytwarzanie – C++
 
 Testowanie -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjIwMTcwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjAyMzIxNiwtMTg2MjAxNzAwNl19
 -->
