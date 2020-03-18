@@ -87,10 +87,12 @@ Do współdzielenia kodu wykorzystamy narzędzie *Git* oraz serwis *GitHub*.
 Link do repozytorium projektu: [Geolocation-Using-Arduino](https://github.com/TomaszMich/Geolocation-Using-Arduino)
 
 ## Narzędzia
-
-Komunikacja w zespole – Messenger, Discord, Skype
-Organizacja projektu i zarządzanie nim - Coś do Scruma
-Tworzenie dokumentów - 
+##### Komunikacja w zespole
+Messenger, Discord, Skype
+##### Organizacja projektu i zarządzanie nim
+Coś do Scruma
+##### Tworzenie dokumentów
+StackEdit, GitHub
 Wytwarzanie – JetBrains CLion IDE
 
 Testowanie - 
@@ -109,7 +111,7 @@ IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
 JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
 IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
 B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
-OTV9fSwiaGlzdG9yeSI6Wy01MzE2NTYzMzUsNTU0NDEyNDg5LD
-EyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2
-MjAxNzAwNl19
+OTV9fSwiaGlzdG9yeSI6Wy0xNTUyNzk4Nzk4LDU1NDQxMjQ4OS
+wxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4
+NjIwMTcwMDZdfQ==
 -->
