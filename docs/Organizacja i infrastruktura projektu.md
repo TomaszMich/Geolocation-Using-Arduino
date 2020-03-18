@@ -83,7 +83,7 @@ Z promotorem komunikować będziemy się osobiście i  przy użyciu poczty elekt
 ## Współdzielenie dokumentów i kodu
 Dokumenty będziemy rozwijać kooperacyjnie używając serwisu [https://stackedit.io/](https://stackedit.io/), który umożliwia zespołowe tworzenie plików markdown z automatyczną synchronizacją na połączonym repozytorium w serwie GitHub. Dokumenty będą się znajdować w podfolderze *docs/* głównego folderu projektu.
 
-Do współd
+Do współdzielenia kodu wykorzystamy narzędzie *Git* oraz serwis *GitHub*. Link do repozytorium projektu: [https://github.com/TomaszMich/Geolocation-Using-Arduino](https://github.com/TomaszMich/Geolocation-Using-Arduino)
 
 ## Narzędzia
 
@@ -109,7 +109,7 @@ IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
 JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
 IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
 B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
-OTV9fSwiaGlzdG9yeSI6Wy04NjQ0MTM2MTQsNTU0NDEyNDg5LD
-EyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2
-MjAxNzAwNl19
+OTV9fSwiaGlzdG9yeSI6Wy0xMDc2MzAwNzg2LDU1NDQxMjQ4OS
+wxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4
+NjIwMTcwMDZdfQ==
 -->
