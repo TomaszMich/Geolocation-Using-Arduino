@@ -76,7 +76,7 @@ Projekt będziemy realizować w rozproszeniu przy użyciu narzędzi typu Git.
 
 ## Komunikacja w zespole i z interesariuszami
 
-W zespole komunikować będziemy się przy użyciu komunikator typu Messenger. Spotykać będziemy się w piątek co 2 tygodnie na wydziale ETI o godzinie 13 w celu przedyskutowania dotychczasowych postępów prac. Oprócz tego w każdy weekend będziemy przeprowadzać przynajmniej dwugodzinne sesje na platformie Skype lub Discord.
+W zespole na co dzień komunikować będziemy się przy użyciu komunikatora tekstowego Messenger . Spotykać będziemy się w piątek co 2 tygodnie na wydziale ETI o godzinie 13 w celu przedyskutowania dotychczasowych postępów prac. Oprócz tego, w każdy weekend będziemy przeprowadzać przynajmniej dwugodzinne sesje na platformie Skype lub Discord.
 
 Z promotorem komunikować będziemy się osobiście i  przy użyciu poczty elektronicznej.
 
@@ -106,7 +106,7 @@ IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
 JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
 IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
 B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
-OTV9fSwiaGlzdG9yeSI6WzE1ODU3MTg5MTMsNTU0NDEyNDg5LD
-EyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2
-MjAxNzAwNl19
+OTV9fSwiaGlzdG9yeSI6Wy0xNTkxNzg1MjE5LDU1NDQxMjQ4OS
+wxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4
+NjIwMTcwMDZdfQ==
 -->
