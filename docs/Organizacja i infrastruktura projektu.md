@@ -40,22 +40,14 @@ System map na licencji Open Source
 
 ### Termin
 
-Stycze 2020/2021
+Styczeń 2021
 
 ### Główne etapy projektu
 
 1.  Identyfikacja i zebranie potrzebnych informacji z literatury źródłowej.
-    
-
 2.  Skonstruowanie modułu geolokalizacji przy pomocy modułu Arduino.
-    
-
 3.  Implementacja potrzebnego oprogramowania na urządzenia mobilne.
-    
-
 4.  Sporządzenie pracy pisemnej na podstawie zebranych informacji.
-    
-
 ## Interesariusze i użytkownicy, persony
 
 ### Persona A
@@ -64,7 +56,7 @@ Dorota ma 42 lata i jest samotną matką syna Roberta, który ma 12 lat. Rodzina
 
 ### Persona B
 
-aa
+
 
 ## Zespół
 
@@ -107,7 +99,7 @@ In19LCJjb21tZW50cyI6eyJoMXIzeWJ1dXdXamZONkMzIjp7Im
 Rpc2N1c3Npb25JZCI6Im5zbGo4aDlhWE4xZWFUbGwiLCJzdWIi
 OiJnaDoyMzU1NTk3MyIsInRleHQiOiJDemVtdSBvcGlzdWplc3
 ogdHUgaW50ZXJmZWpzPyIsImNyZWF0ZWQiOjE1ODQ1NDY0MTMy
-Njd9fSwiaGlzdG9yeSI6WzE1NDI5MDkyNjYsMTI4MTg1Njg0OS
-wtMTQ2MjM3MTAyMSwtMTU2MDIzMjE2LC0xODYyMDE3MDA2XX0=
+Njd9fSwiaGlzdG9yeSI6WzU1NDQxMjQ4OSwxMjgxODU2ODQ5LC
+0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4NjIwMTcwMDZdfQ==
 
 -->
