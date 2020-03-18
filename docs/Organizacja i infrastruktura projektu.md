@@ -81,7 +81,8 @@ W zespole na co dzień komunikować będziemy się przy użyciu komunikatora tek
 Z promotorem komunikować będziemy się osobiście i  przy użyciu poczty elektronicznej.
 
 ## Współdzielenie dokumentów i kodu
-Dokumenty będziemy rozwijać kooperacyjnie używając serwisu [https://stackedit.io/](https://stackedit.io/), który umożliwia zespołowe tworzenie plików markdown z automatyczną synchronizacją ich na 
+Dokumenty będziemy rozwijać kooperacyjnie używając serwisu [https://stackedit.io/](https://stackedit.io/), który umożliwia zespołowe tworzenie plików markdown z automatyczną synchronizacją na połączonym repozytorium w serwie GitHub. Dokumenty będą się znajdować w podfolderze docs/
+
 ## Narzędzia
 
 Komunikacja w zespole – Discord i Messenger
@@ -106,7 +107,7 @@ IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
 JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
 IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
 B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
-OTV9fSwiaGlzdG9yeSI6Wy05NzA4OTI5NjAsNTU0NDEyNDg5LD
+OTV9fSwiaGlzdG9yeSI6WzE2MDg2MTI0NDksNTU0NDEyNDg5LD
 EyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2
 MjAxNzAwNl19
 -->
