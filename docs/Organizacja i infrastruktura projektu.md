@@ -56,11 +56,12 @@ Dorota ma 42 lata i jest samotną matką syna Roberta, który ma 12 lat. Rodzina
 
 ### Persona B
 
-Paweł lat 27 jest miłośnikiem klasyków motoryzacji. Niestety, starsze samochody mają bardzo słabe systemy antykradzieżowe i istnieje duże ryzyko ich przywłaszczenia sobie przez złodzieja. Paweł chce zainstalować moduł geolokalizacji do swojego samochodu, aby w razie kradzieży móc łatwo namieżyć .
+Paweł lat 27 jest miłośnikiem klasyków motoryzacji. Niestety, starsze samochody mają bardzo słabe systemy antykradzieżowe i istnieje duże ryzyko przywłaszczenia ich sobie przez złodzieja. Paweł chce zainstalować moduł geolokalizacji do swojego samochodu, aby w razie kradzieży móc łatwo namierzyć pojazd i odzyskać go z rąk złodzieja.
 
 ## Zespół
 
 ### Tomasz Michalski
+Nr t
  nr tel adres umiejętności
 
 ### Jakub Włostowski
@@ -95,11 +96,17 @@ eyJkaXNjdXNzaW9ucyI6eyJuc2xqOGg5YVhOMWVhVGxsIjp7In
 N0YXJ0Ijo1MTgsImVuZCI6NjQwLCJ0ZXh0IjoiaW50dWljeWpu
 eSBpIGN6eXRlbG55IGludGVyZmVqcyBuYSB1cnrEhWR6ZW5pYW
 NoIG1vYmlsbnljaCB3eW1hZ2FqxIVjeSBqZWR5bmllIHBv4oCm
-In19LCJjb21tZW50cyI6eyJoMXIzeWJ1dXdXamZONkMzIjp7Im
-Rpc2N1c3Npb25JZCI6Im5zbGo4aDlhWE4xZWFUbGwiLCJzdWIi
-OiJnaDoyMzU1NTk3MyIsInRleHQiOiJDemVtdSBvcGlzdWplc3
-ogdHUgaW50ZXJmZWpzPyIsImNyZWF0ZWQiOjE1ODQ1NDY0MTMy
-Njd9fSwiaGlzdG9yeSI6WzExMTE1MDAyMDksNTU0NDEyNDg5LD
+In0sInpxUVhEZnZGZFl5eTM4WkwiOnsic3RhcnQiOjIzMjEsIm
+VuZCI6MjM1MywidGV4dCI6IkFkcmVzOiBSYWRpb3dhIDU1QSA4
+MC0yOTggR2RhxYRzayJ9fSwiY29tbWVudHMiOnsiaDFyM3lidX
+V3V2pmTjZDMyI6eyJkaXNjdXNzaW9uSWQiOiJuc2xqOGg5YVhO
+MWVhVGxsIiwic3ViIjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiQ3
+plbXUgb3Bpc3VqZXN6IHR1IGludGVyZmVqcz8iLCJjcmVhdGVk
+IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
+JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
+IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
+B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
+OTV9fSwiaGlzdG9yeSI6WzE3OTA1Njk0OTUsNTU0NDEyNDg5LD
 EyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2
 MjAxNzAwNl19
 -->
