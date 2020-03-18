@@ -31,7 +31,7 @@ Umożliwienie lokalizacji w czasie rzeczywistym osób i obiektów.
 ### Ograniczenia
 
 Ze względu na wielkość modułu Arduino może być niekiedy niemożliwe, aby mieć go przy sobie.
-Urządzęnie będzie miało problem z lokalizacją w miejscach 
+Urządzenie będzie miało problem z lokalizacją w budynkach, czy na parkingu podziemnym, ze względu na ograniczony zasięg anteny.
 ### Inne współpracujące systemy
 
 Moduł Arduino
@@ -40,7 +40,7 @@ System map na licencji Open Source
 
 ### Termin
 
-Koniec semestru zimowego 2020/2021
+Stycze 2020/2021
 
 ### Główne etapy projektu
 
@@ -107,7 +107,7 @@ In19LCJjb21tZW50cyI6eyJoMXIzeWJ1dXdXamZONkMzIjp7Im
 Rpc2N1c3Npb25JZCI6Im5zbGo4aDlhWE4xZWFUbGwiLCJzdWIi
 OiJnaDoyMzU1NTk3MyIsInRleHQiOiJDemVtdSBvcGlzdWplc3
 ogdHUgaW50ZXJmZWpzPyIsImNyZWF0ZWQiOjE1ODQ1NDY0MTMy
-Njd9fSwiaGlzdG9yeSI6WzEzNjE4ODI4MjksMTI4MTg1Njg0OS
+Njd9fSwiaGlzdG9yeSI6WzE1NDI5MDkyNjYsMTI4MTg1Njg0OS
 wtMTQ2MjM3MTAyMSwtMTU2MDIzMjE2LC0xODYyMDE3MDA2XX0=
 
 -->
