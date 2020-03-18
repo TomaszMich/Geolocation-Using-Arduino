@@ -56,7 +56,7 @@ Dorota ma 42 lata i jest samotną matką syna Roberta, który ma 12 lat. Rodzina
 
 ### Persona B
 
-Paweł lat 27 jest miłośnikiem klasyków motoryzacji. Niestety, starsze samochody mają bardzo słabe systemy antykradzieżwochce zainstalować moduł geolokalizacji swojego samochodu, aby zabiezpieczyć się w razie kradzieży.
+Paweł lat 27 jest miłośnikiem klasyków motoryzacji. Niestety, starsze samochody mają bardzo słabe systemy antykradzieżowe i istnieje duże ryzyko ich przywłaszczenia sobie przez złodzieja. Paweł chce zainstalować moduł geolokalizacji do swojego samochodu, aby w razie kradzieży móc łatwo namieżyć .
 
 ## Zespół
 
@@ -99,7 +99,7 @@ In19LCJjb21tZW50cyI6eyJoMXIzeWJ1dXdXamZONkMzIjp7Im
 Rpc2N1c3Npb25JZCI6Im5zbGo4aDlhWE4xZWFUbGwiLCJzdWIi
 OiJnaDoyMzU1NTk3MyIsInRleHQiOiJDemVtdSBvcGlzdWplc3
 ogdHUgaW50ZXJmZWpzPyIsImNyZWF0ZWQiOjE1ODQ1NDY0MTMy
-Njd9fSwiaGlzdG9yeSI6Wy0xMTA2OTk1NjU4LDU1NDQxMjQ4OS
-wxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4
-NjIwMTcwMDZdfQ==
+Njd9fSwiaGlzdG9yeSI6WzExMTE1MDAyMDksNTU0NDEyNDg5LD
+EyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2
+MjAxNzAwNl19
 -->
