@@ -93,9 +93,10 @@ Messenger, Discord, Skype
 Coś do Scruma
 ##### Tworzenie dokumentów
 StackEdit, GitHub
-Wytwarzanie – JetBrains CLion IDE
-
-Testowanie - 
+##### Wytwarzanie
+GiJetBrains CLion IDE, C++
+##### Testowanie
+TBD
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJuc2xqOGg5YVhOMWVhVGxsIjp7In
 N0YXJ0Ijo1MTgsImVuZCI6NjQwLCJ0ZXh0IjoiaW50dWljeWpu
@@ -111,7 +112,7 @@ IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
 JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
 IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
 B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
-OTV9fSwiaGlzdG9yeSI6Wy0xNTUyNzk4Nzk4LDU1NDQxMjQ4OS
-wxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4
-NjIwMTcwMDZdfQ==
+OTV9fSwiaGlzdG9yeSI6WzEwNjk2OTY2MDksNTU0NDEyNDg5LD
+EyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2
+MjAxNzAwNl19
 -->
