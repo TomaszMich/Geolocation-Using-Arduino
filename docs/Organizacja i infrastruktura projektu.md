@@ -61,12 +61,12 @@ Paweł lat 27 jest miłośnikiem klasyków motoryzacji. Niestety, starsze samoch
 ## Zespół
 
 ### Tomasz Michalski
-Nr t
- nr tel adres umiejętności
+Nr tel.: 537 596 556
+TBD
 
 ### Jakub Włostowski
 
-Nr tel.: 726164770
+Nr tel.: 726 164 770
 
 Adres: Radiowa 55A 80-298 Gdańsk
 
@@ -76,7 +76,7 @@ Projekt będziemy realizować w rozproszeniu przy użyciu narzędzi typu Git.
 
 ## Komunikacja w zespole i z interesariuszami
 
-W zespole komunikować będziemy się przy użyciu komunikatorów internetowych typu Messenger. Spotykać będziemy się w piątek co 2 tygodnie na wydziale ETI o godzinie 13 w celu przedyskutowania dotychczasowych postępów prac. Oprócz tego w każdy weekend będziemy przeprowadzać przynajmniej dwugodzinne sesje na platformie Skype lub Discord.
+W zespole komunikować będziemy się przy użyciu komunikator typu Messenger. Spotykać będziemy się w piątek co 2 tygodnie na wydziale ETI o godzinie 13 w celu przedyskutowania dotychczasowych postępów prac. Oprócz tego w każdy weekend będziemy przeprowadzać przynajmniej dwugodzinne sesje na platformie Skype lub Discord.
 
 Z promotorem komunikować będziemy się osobiście i  przy użyciu poczty elektronicznej.
 
@@ -96,8 +96,8 @@ eyJkaXNjdXNzaW9ucyI6eyJuc2xqOGg5YVhOMWVhVGxsIjp7In
 N0YXJ0Ijo1MTgsImVuZCI6NjQwLCJ0ZXh0IjoiaW50dWljeWpu
 eSBpIGN6eXRlbG55IGludGVyZmVqcyBuYSB1cnrEhWR6ZW5pYW
 NoIG1vYmlsbnljaCB3eW1hZ2FqxIVjeSBqZWR5bmllIHBv4oCm
-In0sInpxUVhEZnZGZFl5eTM4WkwiOnsic3RhcnQiOjIzMjEsIm
-VuZCI6MjM1MywidGV4dCI6IkFkcmVzOiBSYWRpb3dhIDU1QSA4
+In0sInpxUVhEZnZGZFl5eTM4WkwiOnsic3RhcnQiOjIzMTYsIm
+VuZCI6MjM0OCwidGV4dCI6IkFkcmVzOiBSYWRpb3dhIDU1QSA4
 MC0yOTggR2RhxYRzayJ9fSwiY29tbWVudHMiOnsiaDFyM3lidX
 V3V2pmTjZDMyI6eyJkaXNjdXNzaW9uSWQiOiJuc2xqOGg5YVhO
 MWVhVGxsIiwic3ViIjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiQ3
@@ -106,7 +106,7 @@ IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
 JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
 IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
 B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
-OTV9fSwiaGlzdG9yeSI6WzE3OTA1Njk0OTUsNTU0NDEyNDg5LD
+OTV9fSwiaGlzdG9yeSI6WzE1ODU3MTg5MTMsNTU0NDEyNDg5LD
 EyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2
 MjAxNzAwNl19
 -->
