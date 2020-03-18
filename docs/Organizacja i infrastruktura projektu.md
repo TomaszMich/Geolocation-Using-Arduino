@@ -83,15 +83,16 @@ Z promotorem komunikować będziemy się osobiście i  przy użyciu poczty elekt
 ## Współdzielenie dokumentów i kodu
 Dokumenty będziemy rozwijać kooperacyjnie używając serwisu [https://stackedit.io/](https://stackedit.io/), który umożliwia zespołowe tworzenie plików markdown z automatyczną synchronizacją na połączonym repozytorium w serwie GitHub. Dokumenty będą się znajdować w podfolderze *docs/* głównego folderu projektu.
 
-Do współdzielenia kodu wykorzystamy narzędzie *Git* oraz serwis *GitHub*. Link do repozytorium projektu: [https://github.com/TomaszMich/Geolocation-Using-Arduino](https://github.com/TomaszMich/Geolocation-Using-Arduino)
+Do współdzielenia kodu wykorzystamy narzędzie *Git* oraz serwis *GitHub*. 
+Link do repozytorium projektu: [Geolocation-Using-Arduino](https://github.com/TomaszMich/Geolocation-Using-Arduino)
 
 ## Narzędzia
 
-Komunikacja w zespole – Discord i Messenger
+Komunikacja w zespole – Messenger, Discord, Skype
 
-Organizacja projektu i zarządzanie nim -
+Organizacja projektu i zarządzanie nim - 
 
-Wytwarzanie – C++
+Wytwarzanie – JetBrains CLion IDE
 
 Testowanie -
 <!--stackedit_data:
@@ -109,7 +110,7 @@ IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
 JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
 IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
 B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
-OTV9fSwiaGlzdG9yeSI6Wy0xMDc2MzAwNzg2LDU1NDQxMjQ4OS
+OTV9fSwiaGlzdG9yeSI6Wy0xMTgxMjY1MzMzLDU1NDQxMjQ4OS
 wxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4
 NjIwMTcwMDZdfQ==
 -->
