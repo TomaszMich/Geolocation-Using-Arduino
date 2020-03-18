@@ -89,12 +89,11 @@ Link do repozytorium projektu: [Geolocation-Using-Arduino](https://github.com/To
 ## Narzędzia
 
 Komunikacja w zespole – Messenger, Discord, Skype
-
-Organizacja projektu i zarządzanie nim - 
-
+Organizacja projektu i zarządzanie nim - Coś do Scruma
+Tworzenie dokumentów - 
 Wytwarzanie – JetBrains CLion IDE
 
-Testowanie -
+Testowanie - 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJuc2xqOGg5YVhOMWVhVGxsIjp7In
 N0YXJ0Ijo1MTgsImVuZCI6NjQwLCJ0ZXh0IjoiaW50dWljeWpu
@@ -110,7 +109,7 @@ IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
 JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
 IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
 B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
-OTV9fSwiaGlzdG9yeSI6Wy0xMTgxMjY1MzMzLDU1NDQxMjQ4OS
-wxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4
-NjIwMTcwMDZdfQ==
+OTV9fSwiaGlzdG9yeSI6Wy01MzE2NTYzMzUsNTU0NDEyNDg5LD
+EyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2
+MjAxNzAwNl19
 -->
