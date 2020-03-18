@@ -13,10 +13,10 @@ Brak możliwości rejestrowania miejsca przebywania bliskich osób, które mogą
 ### Obszar zastosowania
 Zastosowanie prywatne w codziennym życiu.
 ### Rynek
-
+?
 ### Interesariusze
 
-Klienci
+Osoby prywatne zainteresowane produktem
 
 Promotor pracy inżynierskiej
 
@@ -99,6 +99,6 @@ Wytwarzanie – C++
 
 Testowanie -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMT
-g2MjAxNzAwNl19
+eyJoaXN0b3J5IjpbMTI4MTg1Njg0OSwtMTQ2MjM3MTAyMSwtMT
+U2MDIzMjE2LC0xODYyMDE3MDA2XX0=
 -->
