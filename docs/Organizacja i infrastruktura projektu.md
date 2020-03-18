@@ -2,7 +2,7 @@
 
 ## Opis projektu i produktu
 
-### Nazwa projektu/produktu
+### Nazwa projektu
 
 System geolokalizacji z wykorzystaniem modułu Arduino.
 
@@ -11,7 +11,7 @@ System geolokalizacji z wykorzystaniem modułu Arduino.
 Brak możliwości rejestrowania miejsca przebywania bliskich osób, które mogą nie być w stanie same o siebie zadbać.
 
 ### Obszar zastosowania
-
+Zastosowanie prywatne w codziennym życiu.
 ### Rynek
 
 ### Interesariusze
@@ -99,5 +99,6 @@ Wytwarzanie – C++
 
 Testowanie -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAyMzIxNiwtMTg2MjAxNzAwNl19
+eyJoaXN0b3J5IjpbLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMT
+g2MjAxNzAwNl19
 -->
