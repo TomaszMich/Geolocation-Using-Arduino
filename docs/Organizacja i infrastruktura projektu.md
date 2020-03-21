@@ -16,7 +16,7 @@ Zastosowanie komercyjne przez firmy i korporacje.
 Na rynku istnieje np. geolokalizacja przy użyciu aplikacji Find My iPhone na urządzenia Apple, które jednak zwykle są znacznie droższe od innych smartfonów. W internecie można również znaleźć szereg modułów GPS przeznaczonych dla pojazdów ciężarowych i osobowych, oraz dla kontenerów transportowych.
 ### Interesariusze
 
-Osoby prywatne zainteresowane produktem
+Klienci zainteresowani produktem
 
 Promotor pracy inżynierskiej
 
@@ -99,10 +99,10 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU2MTk1MzMsNzA0NjQzNDg5LDE4MT
-kzODcwNTUsMTc5MTkwODQ1NSw5MDMxMDEyNjksMTMxNDk3Mjgx
-NSwtNTQyMDQzODIsMTA3MDE5ODQwMiwtOTQ2NjExNTkyLC03Nz
-UyNzg5NTQsLTE2NDEzOTk1ODcsNTU0NDEyNDg5LDEyODE4NTY4
-NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2MjAxNzAwNl
-19
+eyJoaXN0b3J5IjpbLTQ1NTcxNjM0LDcwNDY0MzQ4OSwxODE5Mz
+g3MDU1LDE3OTE5MDg0NTUsOTAzMTAxMjY5LDEzMTQ5NzI4MTUs
+LTU0MjA0MzgyLDEwNzAxOTg0MDIsLTk0NjYxMTU5MiwtNzc1Mj
+c4OTU0LC0xNjQxMzk5NTg3LDU1NDQxMjQ4OSwxMjgxODU2ODQ5
+LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4NjIwMTcwMDZdfQ
+==
 -->
