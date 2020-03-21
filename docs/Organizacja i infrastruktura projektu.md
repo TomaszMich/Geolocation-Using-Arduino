@@ -8,7 +8,7 @@ System geolokalizacji z wykorzystaniem modułu Arduino.
 
 ### Adresowany problem
 
-Brak możliwości rejestrowania miejsca przebywania bliskich osób, które mogą nie być w stanie same o siebie zadbać.
+Brak możliwości rejestrowania miejsca przebywania bliskich osób, które mogą nie być w stanie same o siebie zadbać oraz przedmiotów nieożywionych, które chcemy mieć pod stałą kontrolą.
 
 ### Obszar zastosowania
 Zastosowanie prywatne w codziennym życiu.
@@ -100,7 +100,7 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjcxNTY2LDE4MTkzODcwNTUsMTc5MT
+eyJoaXN0b3J5IjpbNzA0NjQzNDg5LDE4MTkzODcwNTUsMTc5MT
 kwODQ1NSw5MDMxMDEyNjksMTMxNDk3MjgxNSwtNTQyMDQzODIs
 MTA3MDE5ODQwMiwtOTQ2NjExNTkyLC03NzUyNzg5NTQsLTE2ND
 EzOTk1ODcsNTU0NDEyNDg5LDEyODE4NTY4NDksLTE0NjIzNzEw
