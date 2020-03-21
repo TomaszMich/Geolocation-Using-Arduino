@@ -83,6 +83,7 @@ Dokumenty będziemy rozwijać kooperacyjnie używając serwisu [https://stackedi
 
 Do współdzielenia kodu wykorzystamy narzędzie *Git* oraz serwis *GitHub*. 
 Link do repozytorium projektu: [Geolocation-Using-Arduino](https://github.com/TomaszMich/Geolocation-Using-Arduino)
+Osoba odpowiedzialna za konfigurację i utrzymanie repozytorium: Tomasz Michalski
 
 ## Narzędzia
 ##### Komunikacja w zespole
@@ -96,8 +97,8 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjA0MzgyLDEwNzAxOTg0MDIsLTk0Nj
-YxMTU5MiwtNzc1Mjc4OTU0LC0xNjQxMzk5NTg3LDU1NDQxMjQ4
-OSwxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLT
-E4NjIwMTcwMDZdfQ==
+eyJoaXN0b3J5IjpbLTExMjE2NzI1MDYsLTU0MjA0MzgyLDEwNz
+AxOTg0MDIsLTk0NjYxMTU5MiwtNzc1Mjc4OTU0LC0xNjQxMzk5
+NTg3LDU1NDQxMjQ4OSwxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC
+0xNTYwMjMyMTYsLTE4NjIwMTcwMDZdfQ==
 -->
