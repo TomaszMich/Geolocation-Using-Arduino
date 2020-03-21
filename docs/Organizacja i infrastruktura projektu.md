@@ -4,10 +4,7 @@
 
 ### Nazwa projektu
 
-
-<div style="text-align: center">System geolokalizacji z wykorzystaniem modułu Arduino. </div>
-
-
+System geolokalizacji z wykorzystaniem modułu Arduino.
 ### Adresowany problem
 
 Brak możliwości rejestrowania miejsca przebywania bliskich osób, które mogą nie być w stanie same o siebie zadbać oraz przedmiotów nieożywionych, które chcemy mieć pod stałą kontrolą.
@@ -102,10 +99,10 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTAyNzc0Miw3MDQ2NDM0ODksMTgxOT
-M4NzA1NSwxNzkxOTA4NDU1LDkwMzEwMTI2OSwxMzE0OTcyODE1
-LC01NDIwNDM4MiwxMDcwMTk4NDAyLC05NDY2MTE1OTIsLTc3NT
-I3ODk1NCwtMTY0MTM5OTU4Nyw1NTQ0MTI0ODksMTI4MTg1Njg0
-OSwtMTQ2MjM3MTAyMSwtMTU2MDIzMjE2LC0xODYyMDE3MDA2XX
-0=
+eyJoaXN0b3J5IjpbLTEwMzU2MTk1MzMsNzA0NjQzNDg5LDE4MT
+kzODcwNTUsMTc5MTkwODQ1NSw5MDMxMDEyNjksMTMxNDk3Mjgx
+NSwtNTQyMDQzODIsMTA3MDE5ODQwMiwtOTQ2NjExNTkyLC03Nz
+UyNzg5NTQsLTE2NDEzOTk1ODcsNTU0NDEyNDg5LDEyODE4NTY4
+NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2MjAxNzAwNl
+19
 -->
