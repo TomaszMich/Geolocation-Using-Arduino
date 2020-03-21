@@ -23,7 +23,7 @@ Promotor pracy inżynierskiej
 ### Użytkownicy i ich potrzeby
 
 Osoby dorosłe w różnym wieku – intuicyjny i czytelny interfejs na urządzeniach mobilnych wymagający jedynie podstawowych umiejętności obsługi smartfonów.
-Firmy transportowe i wynajmujące dy - szybki i responsywny interfejs użytkownika, działanie modułu w trudnych warunkach pogodowych oraz w miejscach 
+Firmy transportowe i wynajmujące dy - szybki i responsywny interfejs użytkownika, działanie modułu w trudnych warunkach pogodowych oraz w miejscach bez zasięgu GSM
 
 ### Cel i zakres projektu
 
@@ -99,9 +99,9 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTM4NzA1NSwyMTMxODU0OTkxLDE3OT
-E5MDg0NTUsOTAzMTAxMjY5LDEzMTQ5NzI4MTUsLTU0MjA0Mzgy
-LDEwNzAxOTg0MDIsLTk0NjYxMTU5MiwtNzc1Mjc4OTU0LC0xNj
-QxMzk5NTg3LDU1NDQxMjQ4OSwxMjgxODU2ODQ5LC0xNDYyMzcx
-MDIxLC0xNTYwMjMyMTYsLTE4NjIwMTcwMDZdfQ==
+eyJoaXN0b3J5IjpbLTIwNDM4NzEwMTMsMTgxOTM4NzA1NSwxNz
+kxOTA4NDU1LDkwMzEwMTI2OSwxMzE0OTcyODE1LC01NDIwNDM4
+MiwxMDcwMTk4NDAyLC05NDY2MTE1OTIsLTc3NTI3ODk1NCwtMT
+Y0MTM5OTU4Nyw1NTQ0MTI0ODksMTI4MTg1Njg0OSwtMTQ2MjM3
+MTAyMSwtMTU2MDIzMjE2LC0xODYyMDE3MDA2XX0=
 -->
