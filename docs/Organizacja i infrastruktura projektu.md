@@ -62,7 +62,7 @@ Paweł lat 27 jest miłośnikiem klasyków motoryzacji. Niestety, starsze samoch
 
 ### Tomasz Michalski
 Nr tel.: 537 596 556
-TBD brak XD
+ brak XDUmiejętności: 
 
 ### Jakub Włostowski
 
@@ -94,10 +94,10 @@ StackEdit, GitHub
 ##### Wytwarzanie
 Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
-JetBrains CLion IDE, C++
+JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwODc5NDUsLTk0NjYxMTU5MiwtNzc1Mj
-c4OTU0LC0xNjQxMzk5NTg3LDU1NDQxMjQ4OSwxMjgxODU2ODQ5
-LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4NjIwMTcwMDZdfQ
-==
+eyJoaXN0b3J5IjpbLTEwODc1MzQ4NzksNzQwODc5NDUsLTk0Nj
+YxMTU5MiwtNzc1Mjc4OTU0LC0xNjQxMzk5NTg3LDU1NDQxMjQ4
+OSwxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLT
+E4NjIwMTcwMDZdfQ==
 -->
