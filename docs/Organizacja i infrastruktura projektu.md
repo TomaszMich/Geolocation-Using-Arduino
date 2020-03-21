@@ -25,7 +25,7 @@ Promotor pracy inżynierskiej
 Osoby dorosłe w różnym wieku – intuicyjny i czytelny interfejs na urządzeniach mobilnych wymagający jedynie podstawowych umiejętności obsługi smartfonów.
 Firmy transportowe i wynajmujące pojazdy - szybki i responsywny interfejs użytkownika, działanie modułu w trudnych warunkach pogodowych oraz w miejscach bez zasięgu GSM
 
-### Cel i zakres projektu
+### Cel projektu
 
 Umożliwienie lokalizacji w czasie rzeczywistym osób i obiektów.
 
@@ -36,9 +36,8 @@ Urządzenie będzie miało problem z lokalizacją w budynkach, czy na parkingu p
 ### Inne współpracujące systemy
 
 Arduino z modułem geolokalizacji
-
 System map na licencji Open Source
-
+Android
 ### Termin
 
 Grudzień 2020
@@ -99,10 +98,10 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTcxNjM0LDcwNDY0MzQ4OSwxODE5Mz
-g3MDU1LDE3OTE5MDg0NTUsOTAzMTAxMjY5LDEzMTQ5NzI4MTUs
-LTU0MjA0MzgyLDEwNzAxOTg0MDIsLTk0NjYxMTU5MiwtNzc1Mj
-c4OTU0LC0xNjQxMzk5NTg3LDU1NDQxMjQ4OSwxMjgxODU2ODQ5
-LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4NjIwMTcwMDZdfQ
-==
+eyJoaXN0b3J5IjpbLTEzMjc3NTk2NzYsNzA0NjQzNDg5LDE4MT
+kzODcwNTUsMTc5MTkwODQ1NSw5MDMxMDEyNjksMTMxNDk3Mjgx
+NSwtNTQyMDQzODIsMTA3MDE5ODQwMiwtOTQ2NjExNTkyLC03Nz
+UyNzg5NTQsLTE2NDEzOTk1ODcsNTU0NDEyNDg5LDEyODE4NTY4
+NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2MjAxNzAwNl
+19
 -->
