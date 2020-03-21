@@ -68,8 +68,6 @@ TBD
 
 Nr tel.: 726 164 770
 
-Adres: Radiowa 55A 80-298 Gdańsk
-
 Umiejętności: praca w zespole, programowanie na dobrym poziomie, analityczne myślenie, efektywna współpraca.
 
 Projekt będziemy realizować w rozproszeniu przy użyciu narzędzi typu Git.
@@ -98,7 +96,8 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjYxMTU5MiwtNzc1Mjc4OTU0LC0xNj
-QxMzk5NTg3LDU1NDQxMjQ4OSwxMjgxODU2ODQ5LC0xNDYyMzcx
-MDIxLC0xNTYwMjMyMTYsLTE4NjIwMTcwMDZdfQ==
+eyJoaXN0b3J5IjpbMzU1NDc4MTM5LC05NDY2MTE1OTIsLTc3NT
+I3ODk1NCwtMTY0MTM5OTU4Nyw1NTQ0MTI0ODksMTI4MTg1Njg0
+OSwtMTQ2MjM3MTAyMSwtMTU2MDIzMjE2LC0xODYyMDE3MDA2XX
+0=
 -->
