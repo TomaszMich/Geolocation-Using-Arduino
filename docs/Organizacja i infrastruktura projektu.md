@@ -13,7 +13,7 @@ Brak możliwości rejestrowania miejsca przebywania bliskich osób, które mogą
 ### Obszar zastosowania
 Zastosowanie prywatne w codziennym życiu.
 ### Rynek
-Na rynku istnieje np. geolokalizacja przy użyciu aplikacji Find My iPhone na urządzenia Apple, które jednak zwykle są znacznie droższe od innych smartfonów. Używanie funkcji wymaga wydania bardzo dużej kwoty. W internecie można również znaleźć szereg modułów GPS przeznaczonych dla pojazdów ciężarowych i osobowych, oraz dla kontenerów transportowych.
+Na rynku istnieje np. geolokalizacja przy użyciu aplikacji Find My iPhone na urządzenia Apple, które jednak zwykle są znacznie droższe od innych smartfonów. W internecie można również znaleźć szereg modułów GPS przeznaczonych dla pojazdów ciężarowych i osobowych, oraz dla kontenerów transportowych.
 ### Interesariusze
 
 Osoby prywatne zainteresowane produktem
@@ -35,7 +35,7 @@ Ze względu na wielkość modułu Arduino może być niekiedy niemożliwe, aby m
 Urządzenie będzie miało problem z lokalizacją w budynkach, czy na parkingu podziemnym, ze względu na ograniczony zasięg anteny.
 ### Inne współpracujące systemy
 
-Moduł Arduino
+Arduino z modułem geolokalizacji
 
 System map na licencji Open Source
 
@@ -80,12 +80,11 @@ W zespole na co dzień komunikować będziemy się przy użyciu komunikatora tek
 Z promotorem komunikować będziemy się osobiście i  przy użyciu poczty elektronicznej.
 
 ## Współdzielenie dokumentów i kodu
-Dokumenty będziemy rozwijać kooperacyjnie używając serwisu [https://stackedit.io/](https://stackedit.io/), który umożliwia zespołowe tworzenie plików markdown z automatyczną synchronizacją na połączonym repozytorium w serwsie GitHub. Dokumenty będą się znajdować w podfolderze *docs/* głównego folderu projektu. Zastosujemy automatyczny sposób wersjonowania narzędzia *Git*.
+Dokumenty będziemy rozwijać kooperacyjnie używając serwisu [https://stackedit.io/](https://stackedit.io/), który umożliwia zespołowe tworzenie plików markdown z automatyczną synchronizacją na połączonym repozytorium w serwisie GitHub. Dokumenty będą się znajdować w podfolderze *docs/* głównego folderu projektu. Zastosujemy automatyczny sposób wersjonowania narzędzia *Git*.
 Osoba odpowiedzialna za porządek w dokumentacji: *Jakub Włostowski*
 
 Do współdzielenia kodu wykorzystamy narzędzie *Git* oraz serwis *GitHub*. 
 Link do repozytorium projektu: [Geolocation-Using-Arduino](https://github.com/TomaszMich/Geolocation-Using-Arduino)
-
 Osoba odpowiedzialna za konfigurację i utrzymanie repozytorium: *Tomasz Michalski*
 
 ## Narzędzia
@@ -100,8 +99,9 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5MTYzOTU1LDEzMTQ5NzI4MTUsLTU0Mj
-A0MzgyLDEwNzAxOTg0MDIsLTk0NjYxMTU5MiwtNzc1Mjc4OTU0
-LC0xNjQxMzk5NTg3LDU1NDQxMjQ4OSwxMjgxODU2ODQ5LC0xND
-YyMzcxMDIxLC0xNTYwMjMyMTYsLTE4NjIwMTcwMDZdfQ==
+eyJoaXN0b3J5IjpbOTAzMTAxMjY5LDcwOTE2Mzk1NSwxMzE0OT
+cyODE1LC01NDIwNDM4MiwxMDcwMTk4NDAyLC05NDY2MTE1OTIs
+LTc3NTI3ODk1NCwtMTY0MTM5OTU4Nyw1NTQ0MTI0ODksMTI4MT
+g1Njg0OSwtMTQ2MjM3MTAyMSwtMTU2MDIzMjE2LC0xODYyMDE3
+MDA2XX0=
 -->
