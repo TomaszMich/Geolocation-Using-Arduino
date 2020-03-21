@@ -62,7 +62,7 @@ Paweł lat 27 jest miłośnikiem klasyków motoryzacji. Niestety, starsze samoch
 
 ### Tomasz Michalski
 Nr tel.: 537 596 556
- brak XDUmiejętności: 
+Umiejętności: praca w zespole, programowanie, analityczne myślenie, organizacja pracy, doświadczenie w pracy z metodyką zwinną Scrum, zarządzenie
 
 ### Jakub Włostowski
 
@@ -96,8 +96,8 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Nzk1MzM2MCwtMTA4NzUzNDg3OSwtOT
-Q2NjExNTkyLC03NzUyNzg5NTQsLTE2NDEzOTk1ODcsNTU0NDEy
-NDg5LDEyODE4NTY4NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNi
-wtMTg2MjAxNzAwNl19
+eyJoaXN0b3J5IjpbMTA3MDE5ODQwMiwtNzQ3OTUzMzYwLC05ND
+Y2MTE1OTIsLTc3NTI3ODk1NCwtMTY0MTM5OTU4Nyw1NTQ0MTI0
+ODksMTI4MTg1Njg0OSwtMTQ2MjM3MTAyMSwtMTU2MDIzMjE2LC
+0xODYyMDE3MDA2XX0=
 -->
