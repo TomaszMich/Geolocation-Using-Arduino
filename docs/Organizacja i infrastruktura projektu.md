@@ -13,7 +13,7 @@ Brak możliwości rejestrowania miejsca przebywania bliskich osób, które mogą
 ### Obszar zastosowania
 Zastosowanie prywatne w codziennym życiu.
 ### Rynek
-Na rynku istnieje np. geolokolizacja przy użyciu aplikacji Find My iPhone na urządzenia Apple, które jednak zwykle są znacznie droższe od innych smartfonów. Używanie funkcji wymaga wydania bardzo dużej kwoty.
+Na rynku istnieje np. geolokalizacja przy użyciu aplikacji Find My iPhone na urządzenia Apple, które jednak zwykle są znacznie droższe od innych smartfonów. Używanie funkcji wymaga wydania bardzo dużej kwoty.
 ### Interesariusze
 
 Osoby prywatne zainteresowane produktem
@@ -98,21 +98,7 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 TBD
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJuc2xqOGg5YVhOMWVhVGxsIjp7In
-N0YXJ0Ijo1MTgsImVuZCI6NjQwLCJ0ZXh0IjoiaW50dWljeWpu
-eSBpIGN6eXRlbG55IGludGVyZmVqcyBuYSB1cnrEhWR6ZW5pYW
-NoIG1vYmlsbnljaCB3eW1hZ2FqxIVjeSBqZWR5bmllIHBv4oCm
-In0sInpxUVhEZnZGZFl5eTM4WkwiOnsic3RhcnQiOjIzMTcsIm
-VuZCI6MjM0OSwidGV4dCI6IkFkcmVzOiBSYWRpb3dhIDU1QSA4
-MC0yOTggR2RhxYRzayJ9fSwiY29tbWVudHMiOnsiaDFyM3lidX
-V3V2pmTjZDMyI6eyJkaXNjdXNzaW9uSWQiOiJuc2xqOGg5YVhO
-MWVhVGxsIiwic3ViIjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiQ3
-plbXUgb3Bpc3VqZXN6IHR1IGludGVyZmVqcz8iLCJjcmVhdGVk
-IjoxNTg0NTQ2NDEzMjY3fSwiMVZ0SDlzN2RwTTdoS2hraSI6ey
-JkaXNjdXNzaW9uSWQiOiJ6cVFYRGZ2RmRZeXkzOFpMIiwic3Vi
-IjoiZ2g6MjM1NTU5NzMiLCJ0ZXh0IjoiVyBzdW1pZSBwbyBjby
-B0byBtYW15IGRhd2HEhyIsImNyZWF0ZWQiOjE1ODQ1NDczMzM1
-OTV9fSwiaGlzdG9yeSI6Wy0xNjQxMzk5NTg3LDU1NDQxMjQ4OS
-wxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLTE4
-NjIwMTcwMDZdfQ==
+eyJoaXN0b3J5IjpbLTc3NTI3ODk1NCwtMTY0MTM5OTU4Nyw1NT
+Q0MTI0ODksMTI4MTg1Njg0OSwtMTQ2MjM3MTAyMSwtMTU2MDIz
+MjE2LC0xODYyMDE3MDA2XX0=
 -->
