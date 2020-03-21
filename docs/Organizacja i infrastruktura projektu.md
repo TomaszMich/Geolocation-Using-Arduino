@@ -96,9 +96,9 @@ StackEdit, GitHub
 ##### Wytwarzanie
 Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
-TBD
+JetBrains CLion IDE, C++
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTI3ODk1NCwtMTY0MTM5OTU4Nyw1NT
-Q0MTI0ODksMTI4MTg1Njg0OSwtMTQ2MjM3MTAyMSwtMTU2MDIz
-MjE2LC0xODYyMDE3MDA2XX0=
+eyJoaXN0b3J5IjpbLTk0NjYxMTU5MiwtNzc1Mjc4OTU0LC0xNj
+QxMzk5NTg3LDU1NDQxMjQ4OSwxMjgxODU2ODQ5LC0xNDYyMzcx
+MDIxLC0xNTYwMjMyMTYsLTE4NjIwMTcwMDZdfQ==
 -->
