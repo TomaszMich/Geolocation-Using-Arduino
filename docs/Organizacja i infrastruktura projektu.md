@@ -90,7 +90,7 @@ Link do repozytorium projektu: [Geolocation-Using-Arduino](https://github.com/To
 ##### Komunikacja w zespole
 Messenger, Discord, Skype
 ##### Organizacja projektu i zarządzanie nim
-Coś do Scruma
+Google Jamboard
 ##### Tworzenie dokumentów
 StackEdit, GitHub
 ##### Wytwarzanie
