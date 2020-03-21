@@ -4,7 +4,9 @@
 
 ### Nazwa projektu
 
-System geolokalizacji z wykorzystaniem modułu Arduino.
+
+<div style="text-align: center">System geolokalizacji z wykorzystaniem modułu Arduino. </div>
+
 
 ### Adresowany problem
 
@@ -100,9 +102,10 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NjQzNDg5LDE4MTkzODcwNTUsMTc5MT
-kwODQ1NSw5MDMxMDEyNjksMTMxNDk3MjgxNSwtNTQyMDQzODIs
-MTA3MDE5ODQwMiwtOTQ2NjExNTkyLC03NzUyNzg5NTQsLTE2ND
-EzOTk1ODcsNTU0NDEyNDg5LDEyODE4NTY4NDksLTE0NjIzNzEw
-MjEsLTE1NjAyMzIxNiwtMTg2MjAxNzAwNl19
+eyJoaXN0b3J5IjpbLTY2OTAyNzc0Miw3MDQ2NDM0ODksMTgxOT
+M4NzA1NSwxNzkxOTA4NDU1LDkwMzEwMTI2OSwxMzE0OTcyODE1
+LC01NDIwNDM4MiwxMDcwMTk4NDAyLC05NDY2MTE1OTIsLTc3NT
+I3ODk1NCwtMTY0MTM5OTU4Nyw1NTQ0MTI0ODksMTI4MTg1Njg0
+OSwtMTQ2MjM3MTAyMSwtMTU2MDIzMjE2LC0xODYyMDE3MDA2XX
+0=
 -->
