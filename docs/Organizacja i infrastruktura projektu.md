@@ -62,12 +62,11 @@ Paweł lat 27 jest miłośnikiem klasyków motoryzacji. Niestety, starsze samoch
 
 ### Tomasz Michalski
 Nr tel.: 537 596 556
-Umiejętności: praca w zespole, programowanie, analityczne myślenie, organizacja pracy, doświadczenie w pracy z metodyką zwinną Scrum, zarządzenie
+Umiejętności: praca w zespole, programowanie, analityczne myślenie, organizacja pracy, doświadczenie w pracy z metodyką zwinną Scrum, zarządzenie zespołem
 
 ### Jakub Włostowski
 
 Nr tel.: 726 164 770
-
 Umiejętności: praca w zespole, programowanie na dobrym poziomie, analityczne myślenie, efektywna współpraca.
 
 Projekt będziemy realizować w rozproszeniu przy użyciu narzędzi typu Git.
@@ -98,10 +97,10 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc3NTk2NzYsNzA0NjQzNDg5LDE4MT
-kzODcwNTUsMTc5MTkwODQ1NSw5MDMxMDEyNjksMTMxNDk3Mjgx
-NSwtNTQyMDQzODIsMTA3MDE5ODQwMiwtOTQ2NjExNTkyLC03Nz
-UyNzg5NTQsLTE2NDEzOTk1ODcsNTU0NDEyNDg5LDEyODE4NTY4
-NDksLTE0NjIzNzEwMjEsLTE1NjAyMzIxNiwtMTg2MjAxNzAwNl
-19
+eyJoaXN0b3J5IjpbLTMzMDYyNDU5OSw3MDQ2NDM0ODksMTgxOT
+M4NzA1NSwxNzkxOTA4NDU1LDkwMzEwMTI2OSwxMzE0OTcyODE1
+LC01NDIwNDM4MiwxMDcwMTk4NDAyLC05NDY2MTE1OTIsLTc3NT
+I3ODk1NCwtMTY0MTM5OTU4Nyw1NTQ0MTI0ODksMTI4MTg1Njg0
+OSwtMTQ2MjM3MTAyMSwtMTU2MDIzMjE2LC0xODYyMDE3MDA2XX
+0=
 -->
