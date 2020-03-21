@@ -79,12 +79,12 @@ W zespole na co dzień komunikować będziemy się przy użyciu komunikatora tek
 Z promotorem komunikować będziemy się osobiście i  przy użyciu poczty elektronicznej.
 
 ## Współdzielenie dokumentów i kodu
-Dokumenty będziemy rozwijać kooperacyjnie używając serwisu [https://stackedit.io/](https://stackedit.io/), który umożliwia zespołowe tworzenie plików markdown z automatyczną synchronizacją na połączonym repozytorium w serwie GitHub. Dokumenty będą się znajdować w podfolderze *docs/* głównego folderu projektu.
+Dokumenty będziemy rozwijać kooperacyjnie używając serwisu [https://stackedit.io/](https://stackedit.io/), który umożliwia zespołowe tworzenie plików markdown z automatyczną synchronizacją na połączonym repozytorium w serwsie GitHub. Dokumenty będą się znajdować w podfolderze *docs/* głównego folderu projektu. Zastosujemy automatyczny sposób wersjonowania narzędzia *Git*.
 Osoba odpowiedzialna za porządek w dokumentacji: *Jakub Włostowski*
 
 Do współdzielenia kodu wykorzystamy narzędzie *Git* oraz serwis *GitHub*. 
 Link do repozytorium projektu: [Geolocation-Using-Arduino](https://github.com/TomaszMich/Geolocation-Using-Arduino)
-Zastosujemy automatyczny 
+
 Osoba odpowiedzialna za konfigurację i utrzymanie repozytorium: *Tomasz Michalski*
 
 ## Narzędzia
@@ -99,8 +99,8 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MDY3NDAzLC01NDIwNDM4MiwxMDcwMT
-k4NDAyLC05NDY2MTE1OTIsLTc3NTI3ODk1NCwtMTY0MTM5OTU4
-Nyw1NTQ0MTI0ODksMTI4MTg1Njg0OSwtMTQ2MjM3MTAyMSwtMT
-U2MDIzMjE2LC0xODYyMDE3MDA2XX0=
+eyJoaXN0b3J5IjpbMTMxNDk3MjgxNSwtNTQyMDQzODIsMTA3MD
+E5ODQwMiwtOTQ2NjExNTkyLC03NzUyNzg5NTQsLTE2NDEzOTk1
+ODcsNTU0NDEyNDg5LDEyODE4NTY4NDksLTE0NjIzNzEwMjEsLT
+E1NjAyMzIxNiwtMTg2MjAxNzAwNl19
 -->
