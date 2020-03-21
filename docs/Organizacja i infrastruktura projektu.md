@@ -13,7 +13,7 @@ Brak możliwości rejestrowania miejsca przebywania bliskich osób, które mogą
 ### Obszar zastosowania
 Zastosowanie prywatne w codziennym życiu.
 ### Rynek
-Na rynku istnieje np. geolokalizacja przy użyciu aplikacji Find My iPhone na urządzenia Apple, które jednak zwykle są znacznie droższe od innych smartfonów. Używanie funkcji wymaga wydania bardzo dużej kwoty. W internecie można również znaleźć szereg modułów GPS przeznaczonych dla pojazdów ciężarowych i osobowych, 
+Na rynku istnieje np. geolokalizacja przy użyciu aplikacji Find My iPhone na urządzenia Apple, które jednak zwykle są znacznie droższe od innych smartfonów. Używanie funkcji wymaga wydania bardzo dużej kwoty. W internecie można również znaleźć szereg modułów GPS przeznaczonych dla pojazdów ciężarowych i osobowych, oraz dla kontenerów transportowych.
 ### Interesariusze
 
 Osoby prywatne zainteresowane produktem
@@ -96,8 +96,8 @@ Git, GitHub, JetBrains CLion IDE, C++
 ##### Testowanie
 JetBrains CLion IDE, C++, GoogleTest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDE5ODQwMiwtNzQ3OTUzMzYwLC05ND
-Y2MTE1OTIsLTc3NTI3ODk1NCwtMTY0MTM5OTU4Nyw1NTQ0MTI0
-ODksMTI4MTg1Njg0OSwtMTQ2MjM3MTAyMSwtMTU2MDIzMjE2LC
-0xODYyMDE3MDA2XX0=
+eyJoaXN0b3J5IjpbLTU0MjA0MzgyLDEwNzAxOTg0MDIsLTk0Nj
+YxMTU5MiwtNzc1Mjc4OTU0LC0xNjQxMzk5NTg3LDU1NDQxMjQ4
+OSwxMjgxODU2ODQ5LC0xNDYyMzcxMDIxLC0xNTYwMjMyMTYsLT
+E4NjIwMTcwMDZdfQ==
 -->
