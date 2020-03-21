@@ -13,7 +13,7 @@ Brak możliwości rejestrowania miejsca przebywania bliskich osób, które mogą
 ### Obszar zastosowania
 Zastosowanie prywatne w codziennym życiu.
 ### Rynek
-?
+Na rynku istnieje np. geolokolizacja przy użyciu aplikacji Find My iPhone na urządzenia Apple, które jednak zwykle są znacznie droższe od innych smartfonów. Używanie funkcji wymaga wydania bardzo dużej kwoty.
 ### Interesariusze
 
 Osoby prywatne zainteresowane produktem
