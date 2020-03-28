@@ -14,12 +14,13 @@ Wygenerowany backlog produktu w innym narzędziu np. Excel
 
 ## Cel sprintu
 
+
 ## Backlog sprintu
 TODO:
 Wygenerowany backlog sprintu w innym narzędziu np. Jira
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODE3ODQ4NywyMTQwNTE2MTE3LC0xNj
-QzNTU4Nzg4XX0=
+eyJoaXN0b3J5IjpbLTEzNzQwNjk1MTMsMjE0MDUxNjExNywtMT
+Y0MzU1ODc4OF19
 -->
