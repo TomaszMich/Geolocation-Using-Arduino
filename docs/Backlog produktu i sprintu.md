@@ -11,8 +11,8 @@ Wygenerowany backlog produktu w innym narzędziu np. Excel
 
 
 ## Założenia i dobór zakresu sprintu
-Ogólna liczba zakładanych sprintów to 3
-
+Ogólna liczba zakładanych sprintów to 3.
+Trzy osoby będą brały udział w każdym sprincie.
 
 ## Cel sprintu
 Zbudowanie urządzenia do geolokalizacji ???
@@ -23,6 +23,6 @@ Wygenerowany backlog sprintu w innym narzędziu np. Jira
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTU5MDk0NywyMTQwNTE2MTE3LC0xNj
+eyJoaXN0b3J5IjpbLTQzMzgwMDAxNSwyMTQwNTE2MTE3LC0xNj
 QzNTU4Nzg4XX0=
 -->
