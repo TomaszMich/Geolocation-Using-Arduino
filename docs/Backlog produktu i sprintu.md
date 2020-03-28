@@ -12,6 +12,7 @@ Wygenerowany backlog produktu w innym narzędziu np. Excel
 
 ## Założenia i dobór zakresu sprintu
 Ogólna liczba zakładanych sprintów to 3.
+
 Trzy osoby będą brały udział w każdym sprincie.
 
 ## Cel sprintu
@@ -23,6 +24,6 @@ Wygenerowany backlog sprintu w innym narzędziu np. Jira
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzgwMDAxNSwyMTQwNTE2MTE3LC0xNj
-QzNTU4Nzg4XX0=
+eyJoaXN0b3J5IjpbNDEwMTEwNjg3LC00MzM4MDAwMTUsMjE0MD
+UxNjExNywtMTY0MzU1ODc4OF19
 -->
