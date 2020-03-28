@@ -15,7 +15,7 @@ Ogólna liczba zakładanych sprintów to 3.
 
 Trzy osoby będą brały udział w każdym sprincie.
 
-Wszystkie osoby w zespole są średnio zaawansowane, jeśli chodzi o wytwarzanie oprogramowania, więc 
+Wszystkie osoby w zespole są średnio zaawansowane, jeśli chodzi o wytwarzanie oprogramowania, więc prędkość wykonywania poszczególnych zadań bę
 
 ## Cel sprintu
 Zbudowanie urządzenia do geolokalizacji ???
@@ -26,6 +26,6 @@ Wygenerowany backlog sprintu w innym narzędziu np. Jira
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEwNTE5NDAsLTQzMzgwMDAxNSwyMT
-QwNTE2MTE3LC0xNjQzNTU4Nzg4XX0=
+eyJoaXN0b3J5IjpbLTgxNDEwNDgxMywtNDMzODAwMDE1LDIxND
+A1MTYxMTcsLTE2NDM1NTg3ODhdfQ==
 -->
