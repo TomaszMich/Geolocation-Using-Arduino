@@ -6,6 +6,8 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 Dorota rozmawiając z przyjaciółką dowiedziała się o nowym produkcie do geolokalizacji. Jeszcze tego samego dnia udała się do sklepu w celu zakupu urządzenia. Kiedy wróciła do domu rozpakowała sprzęt i zainstalowała darmową aplikację na swoim telefonie z systemem Android. Utworzyła nowe konto podając jedynie imię, nazwisko oraz adres e-mail. Po rejestracji aktywowała swoje urządzenie w aplikacji. Nazajutrz jej 12-letni syn Robert został zaproszony na urodziny do nowego kolegi Alka, który mieszka 20 km za miastem. Robert nigdy u niego nie był, a mama Roberta nie zna rodziców chłopca i nie może się z nimi skontaktować. Dorota wpadła, więc na pomysł, aby dać Robertowi do plecaka urządzenie do geolokalizacji, aby mieć syna pod stałą kontrolą. Szczęśliwy chłopiec wyszedł z domu i bezpiecznie dotarł w wyznaczone miejsce pod ciągłym nadzorem Doroty.
 
 ## Backlog produktu
+Skala priorytetu: od 1 do 5, gdzie 1 to najwyższy priorytet, a 5 najniższy.
+Skala złożoności/czasu: od 1 do 5, gdzie 1 to najbardziej złożona czynność, a 5 to najmniej złożona czynność.
 TODO:
 Wygenerowany backlog produktu w innym narzędziu np. Excel
 
