@@ -9,6 +9,8 @@ Dorota rozmawiając z przyjaciółką dowiedziała się o nowym produkcie do geo
 Skala priorytetu: od 1 do 5, gdzie 1 to najwyższy priorytet, a 5 najniższy.
 
 Skala złożoności/czasu: od 1 do 5, gdzie 1 to najbardziej złożona czynność, a 5 to najmniej złożona czynność.
+
+Elementy backlogu produktu posortowane są według prioytetu zadań.
 TODO:
 Wygenerowany backlog produktu w innym narzędziu np. Excel
 
