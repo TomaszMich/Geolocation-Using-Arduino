@@ -11,9 +11,8 @@ Skala priorytetu: od 1 do 5, gdzie 1 to najwyższy priorytet, a 5 najniższy.
 
 Skala złożoności/czasu: od 1 do 5, gdzie 1 to najmniej złożona czynność, a 5 to najbardziej złożona czynność.
 
-Elementy backlogu produktu posortowane są według prioytetu zadań.
-TODO:
-Wygenerowany backlog produktu w innym narzędziu np. Excel
+Elementy backlogu produktu posortowane są według priorytetu zadań.
+Wygenerowany backlog produktu z narzędzia Jira.
 
 
 ## Założenia i dobór zakresu sprintu
@@ -32,6 +31,6 @@ Wygenerowany backlog sprintu w innym narzędziu np. Jira
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTg1Nzk0MSwtOTI3ODYxNTA3LC00Mz
-M4MDAwMTUsMjE0MDUxNjExNywtMTY0MzU1ODc4OF19
+eyJoaXN0b3J5IjpbLTE1MTQ3NjIxOTQsLTkyNzg2MTUwNywtND
+MzODAwMDE1LDIxNDA1MTYxMTcsLTE2NDM1NTg3ODhdfQ==
 -->
