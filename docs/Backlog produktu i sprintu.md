@@ -23,13 +23,11 @@ Wszystkie osoby w zespole są średnio zaawansowane, jeśli chodzi o wytwarzanie
 ## Cel sprintu
 Zbudowanie urządzenia do geolokalizacji oraz zaprojektowanie systemu, wraz interfejsem użytkownika.
 
-## Backlog sprintu
-TODO:
-Wygenerowany backlog sprintu w innym narzędziu np. Jira
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzczMTc3NCwxNjgyMzA2Njg4LC00Mz
-EyNDQzNTYsLTE1MTQ3NjIxOTQsLTkyNzg2MTUwNywtNDMzODAw
-MDE1LDIxNDA1MTYxMTcsLTE2NDM1NTg3ODhdfQ==
+eyJoaXN0b3J5IjpbMTE0MTgwMzk2OSwxMjIzNzMxNzc0LDE2OD
+IzMDY2ODgsLTQzMTI0NDM1NiwtMTUxNDc2MjE5NCwtOTI3ODYx
+NTA3LC00MzM4MDAwMTUsMjE0MDUxNjExNywtMTY0MzU1ODc4OF
+19
 -->
