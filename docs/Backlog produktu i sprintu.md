@@ -14,7 +14,7 @@ Skala złożoności/czasu: od 1 do 5, gdzie 1 to najmniej złożona czynność, 
 Elementy backlogu produktu posortowane są według priorytetu zadań.
 
 ## Założenia i dobór zakresu sprintu
-Ogólna liczba zakładanych sprintów to 3.
+Ogólna liczba zakładanych sprintów to 5.
 
 Trzy osoby będą brały udział w każdym sprincie.
 
@@ -29,7 +29,7 @@ Wygenerowany backlog sprintu w innym narzędziu np. Jira
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjMwNjY4OCwtNDMxMjQ0MzU2LC0xNT
-E0NzYyMTk0LC05Mjc4NjE1MDcsLTQzMzgwMDAxNSwyMTQwNTE2
-MTE3LC0xNjQzNTU4Nzg4XX0=
+eyJoaXN0b3J5IjpbMTIyMzczMTc3NCwxNjgyMzA2Njg4LC00Mz
+EyNDQzNTYsLTE1MTQ3NjIxOTQsLTkyNzg2MTUwNywtNDMzODAw
+MDE1LDIxNDA1MTYxMTcsLTE2NDM1NTg3ODhdfQ==
 -->
