@@ -20,14 +20,16 @@ Trzy osoby będą brały udział w każdym sprincie.
 
 Wszystkie osoby w zespole są średnio zaawansowane, jeśli chodzi o wytwarzanie oprogramowania, więc prędkość wykonywania poszczególnych zadań będzie w głównej mierze zależała od rozbudowania i złożoności zadań. 
 
+Pierwszy sprint będzie ukierunkowany na projekcie systemu oraz jego budowie w celu sporządzenia odpowiednich fundamentów pod dalszą 
+
 ## Cel sprintu
 Zbudowanie urządzenia do geolokalizacji oraz zaprojektowanie systemu, wraz interfejsem użytkownika.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMwODgzNDUsMTE0MTgwMzk2OSwxMj
-IzNzMxNzc0LDE2ODIzMDY2ODgsLTQzMTI0NDM1NiwtMTUxNDc2
-MjE5NCwtOTI3ODYxNTA3LC00MzM4MDAwMTUsMjE0MDUxNjExNy
-wtMTY0MzU1ODc4OF19
+eyJoaXN0b3J5IjpbMTA0MDgwMDA3LDExNDE4MDM5NjksMTIyMz
+czMTc3NCwxNjgyMzA2Njg4LC00MzEyNDQzNTYsLTE1MTQ3NjIx
+OTQsLTkyNzg2MTUwNywtNDMzODAwMDE1LDIxNDA1MTYxMTcsLT
+E2NDM1NTg3ODhdfQ==
 -->
