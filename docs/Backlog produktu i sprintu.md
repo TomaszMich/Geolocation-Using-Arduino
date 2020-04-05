@@ -21,7 +21,7 @@ Trzy osoby będą brały udział w każdym sprincie.
 Wszystkie osoby w zespole są średnio zaawansowane, jeśli chodzi o wytwarzanie oprogramowania, więc prędkość wykonywania poszczególnych zadań będzie w głównej mierze zależała od rozbudowania i złożoności zadań.
 
 ## Cel sprintu
-Zbudowanie urządzenia do geolokalizacji ???
+Zbudowanie urządzenia do geolokalizacji oraz zaprojektowanie systemu, wraz interfejsem użytkownika.
 
 ## Backlog sprintu
 TODO:
@@ -29,7 +29,7 @@ Wygenerowany backlog sprintu w innym narzędziu np. Jira
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTI0NDM1NiwtMTUxNDc2MjE5NCwtOT
-I3ODYxNTA3LC00MzM4MDAwMTUsMjE0MDUxNjExNywtMTY0MzU1
-ODc4OF19
+eyJoaXN0b3J5IjpbMTY4MjMwNjY4OCwtNDMxMjQ0MzU2LC0xNT
+E0NzYyMTk0LC05Mjc4NjE1MDcsLTQzMzgwMDAxNSwyMTQwNTE2
+MTE3LC0xNjQzNTU4Nzg4XX0=
 -->
