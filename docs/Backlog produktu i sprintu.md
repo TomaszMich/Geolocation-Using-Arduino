@@ -18,7 +18,7 @@ Ogólna liczba zakładanych sprintów to 5.
 
 Trzy osoby będą brały udział w każdym sprincie.
 
-Wszystkie osoby w zespole są średnio zaawansowane, jeśli chodzi o wytwarzanie oprogramowania, więc prędkość wykonywania poszczególnych zadań będzie w głównej mierze zależała od rozbudowania i złożoności zadań.
+Wszystkie osoby w zespole są średnio zaawansowane, jeśli chodzi o wytwarzanie oprogramowania, więc prędkość wykonywania poszczególnych zadań będzie w głównej mierze zależała od rozbudowania i złożoności zadań. 
 
 ## Cel sprintu
 Zbudowanie urządzenia do geolokalizacji oraz zaprojektowanie systemu, wraz interfejsem użytkownika.
@@ -26,8 +26,8 @@ Zbudowanie urządzenia do geolokalizacji oraz zaprojektowanie systemu, wraz inte
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTgwMzk2OSwxMjIzNzMxNzc0LDE2OD
-IzMDY2ODgsLTQzMTI0NDM1NiwtMTUxNDc2MjE5NCwtOTI3ODYx
-NTA3LC00MzM4MDAwMTUsMjE0MDUxNjExNywtMTY0MzU1ODc4OF
-19
+eyJoaXN0b3J5IjpbLTE2MDMwODgzNDUsMTE0MTgwMzk2OSwxMj
+IzNzMxNzc0LDE2ODIzMDY2ODgsLTQzMTI0NDM1NiwtMTUxNDc2
+MjE5NCwtOTI3ODYxNTA3LC00MzM4MDAwMTUsMjE0MDUxNjExNy
+wtMTY0MzU1ODc4OF19
 -->
