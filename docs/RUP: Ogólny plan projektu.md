@@ -56,13 +56,15 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 - opracowanie nr 1
  -- plan iteracji
  -- definicja architektury oprogramowania
+ -- aktualizacja i rozwój artefaktów z fazy Inception
+ -- prototyp urządzenia
 
 
 #### Faza konstrukcji (Construction phase)
 
 #### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1OTM2MDEzLC0yNDM4NzY1NjAsLTEyMD
+eyJoaXN0b3J5IjpbLTk3NzEzMzMzMiw1NzU5MzYwMTMsLTEyMD
 E5MDI2NjEsLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQw
 ODkxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LD
 Y3MjA0NzkxXX0=
