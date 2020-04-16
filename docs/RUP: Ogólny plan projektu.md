@@ -38,6 +38,8 @@ Jakub Włostowski:
 ## Przebieg projektu
 
 ### Faza rozpoczęcia (Inception phase)
+W nawiasie podana osoba odpowiedzialna za produkt iteracji.
+
 - iteracja początkowa
  -- kontekst biznesowy
  -- repozytorium projektu
@@ -51,7 +53,7 @@ Jakub Włostowski:
 
 ### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2NzAyMTIsLTI1MTU0MDg5MSwtMzI4MT
-UxNDM3LDM3OTg4NzUwMSwtMTU0Nzk5NDg5OSw2NzIwNDc5MV19
-
+eyJoaXN0b3J5IjpbLTUzNzcxNDg5MCwzNjY3MDIxMiwtMjUxNT
+QwODkxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0ODk5
+LDY3MjA0NzkxXX0=
 -->
