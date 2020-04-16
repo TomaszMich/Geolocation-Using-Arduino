@@ -8,8 +8,7 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 
 #### Ograniczenia projektu: 
 - termin ustalony na grudzień 2020 roku
-- dostępny czas uczestników projektu
-- małe. zasoby ludzkie (dwuosobowy zespół)
+- dostępny czas uczestników projektu zasoby ludzkie (dwu osobowy zespół)
 
 ## Organizacja zespołu - role
 
@@ -29,7 +28,10 @@ Jakub Włostowski:
 - specyfikujący wymagania
 - inżynier procesu
 - kontroler jakości
-- specjalista ds. narzędzi
+- specjalista ds. narzędzi ae zasy udzkeuoooy zł
+
+## Przebieg projektu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MzU0OTA1LDY3MjA0NzkxXX0=
+eyJoaXN0b3J5IjpbMTc4MzQ0NDY2LDgxODM1NDkwNSw2NzIwND
+c5MV19
 -->
