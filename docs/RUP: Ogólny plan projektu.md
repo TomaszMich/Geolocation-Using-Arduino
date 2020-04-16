@@ -56,9 +56,9 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- plan iteracji
   -- model analityczny, projektowy, danych
  -- definicja architektury oprogramowania
-  -- model implementacyjny  -- definicja architektury oprogramowania
- czny
-   -- przypadki i skrypty testowe
+  -- model implementacyjny  
+  -- definicja architektury oprogramowania
+    -- przypadki i skrypty testowe
  -- aktualizacja i rozwój artefaktów z fazy Inception
 
 - opracowanie nr 2
@@ -88,9 +88,9 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 - przekazanie nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLT
-IzMDA0MDYwNCwtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5
-MDI2NjEsLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQwOD
-kxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LDY3
-MjA0NzkxXX0=
+eyJoaXN0b3J5IjpbMzg2MTQ1OTA1LC0xMDQwNjczODk3LC0yMD
+M2NzUwNTY2LC0yMzAwNDA2MDQsLTE5MDEyODM1MjEsNDA4NzM1
+ODU0LC0xMjAxOTAyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3MTQ4OT
+AsLTI1MTU0MDg5MSwtMzI4MTUxNDM3LDM3OTg4NzUwMSwtMTU0
+Nzk5NDg5OSw2NzIwNDc5MV19
 -->
