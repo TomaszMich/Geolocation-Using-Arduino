@@ -41,11 +41,14 @@ Jakub Włostowski:
 W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 
 - iteracja początkowa
+-- Wizja
  -- kontekst biznesowy (Tomasz Michalski)
  -- repozytorium projektu (Tomasz Michalski)
  -- model przypadków użycia (Jakub Włostowski)
  -- narzędzia (Jakub Włostowski)
-
+- druga iteracja
+-- Prototyp/model interfejsu użytkownika
+-- 
 #### Faza opracowania (Elaboration phase)
 
 
@@ -53,7 +56,8 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 
 #### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE5MDI2NjEsLTEwNDU1NDQxNjcsLT
-UzNzcxNDg5MCwtMjUxNTQwODkxLC0zMjgxNTE0MzcsMzc5ODg3
-NTAxLC0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
+eyJoaXN0b3J5IjpbLTQ4ODI4ODI0NSwtMTIwMTkwMjY2MSwtMT
+A0NTU0NDE2NywtNTM3NzE0ODkwLC0yNTE1NDA4OTEsLTMyODE1
+MTQzNywzNzk4ODc1MDEsLTE1NDc5OTQ4OTksNjcyMDQ3OTFdfQ
+==
 -->
