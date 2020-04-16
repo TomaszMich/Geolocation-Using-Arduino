@@ -28,6 +28,7 @@ Tomasz Michalski:
 - kontroler jakości
 
 Jakub Włostowski:
+- architekt oprogramowania
 - programista
 - projektant
 - specyfikujący wymagania
@@ -51,6 +52,6 @@ Jakub Włostowski:
 
 ### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mjk5NzgyMywtMzI4MTUxNDM3LDM3OT
+eyJoaXN0b3J5IjpbLTI1MTU0MDg5MSwtMzI4MTUxNDM3LDM3OT
 g4NzUwMSwtMTU0Nzk5NDg5OSw2NzIwNDc5MV19
 -->
