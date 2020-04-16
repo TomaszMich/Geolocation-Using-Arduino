@@ -90,11 +90,14 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 
 ### Wydania
+- wydanie 1.0
+- wydanie 2.0
+Co 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDU4NzcyNCwxOTcyMDIwNzA2LDEyNj
-Q4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1MDU2NiwtMjMwMDQw
-NjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NCwtMTIwMTkwMjY2MS
-wtMTA0NTU0NDE2NywtNTM3NzE0ODkwLC0yNTE1NDA4OTEsLTMy
-ODE1MTQzNywzNzk4ODc1MDEsLTE1NDc5OTQ4OTksNjcyMDQ3OT
-FdfQ==
+eyJoaXN0b3J5IjpbOTIyMDgyNDA3LDE0MTA1ODc3MjQsMTk3Mj
+AyMDcwNiwxMjY0ODY5ODQsLTEwNDA2NzM4OTcsLTIwMzY3NTA1
+NjYsLTIzMDA0MDYwNCwtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLT
+EyMDE5MDI2NjEsLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMjUx
+NTQwODkxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0OD
+k5LDY3MjA0NzkxXX0=
 -->
