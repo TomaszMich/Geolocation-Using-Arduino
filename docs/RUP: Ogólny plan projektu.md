@@ -90,12 +90,15 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 
 ### Wydania
-- wydanie 1.0
-- wydanie 2.0
+Co tydzień nowy Release Candidate, a co trzy tygodnie nowe wydanie.
+- wydanie 1 - 01.08.2020
+- wydanie 2 - 22.08.2020
+- ...
 - 
-Co tydzień nowy Release Candidate, a co trzy tygodnie nowe wydanie
+ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODE0MjgxOSwxNDEwNTg3NzI0LDE5Nz
+eyJoaXN0b3J5IjpbMTk5OTQ0MjMxNSwxNDEwNTg3NzI0LDE5Nz
 IwMjA3MDYsMTI2NDg2OTg0LC0xMDQwNjczODk3LC0yMDM2NzUw
 NTY2LC0yMzAwNDA2MDQsLTE5MDEyODM1MjEsNDA4NzM1ODU0LC
 0xMjAxOTAyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3MTQ4OTAsLTI1
