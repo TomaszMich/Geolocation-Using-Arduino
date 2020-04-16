@@ -81,7 +81,8 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 
 #### Faza przekazania systemu (Transition phase)
 - przekazanie nr 1
- -- plan iteracji (Tomasz Michalski)
+ -- plan iteracji
+ (Tomasz Michalski)
  -- plan wdrożenia (Tomasz Michalski)
  -- zestaw wdrożeniowy (Jakub Włostowski)
  -- pakiet produktu (Jakub Włostowski)
@@ -121,11 +122,11 @@ Zakoń0.2020
  czenie prac - 01.12.2020
 Późżniej utrzymanie i naprawa błęedów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDUwNTQzLC0xNzUxNjIzNzUzLDEwMj
-UzNzY4NTUsLTY0NTMxNTE3NiwxODE2MTc4MjA1LC0xODAwODkx
-MjAwLDEzMzMyODUzNTEsMTQxMDU4NzcyNCwxOTcyMDIwNzA2LD
-EyNjQ4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1MDU2NiwtMjMw
-MDQwNjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NCwtMTIwMTkwMj
-Y2MSwtMTA0NTU0NDE2NywtNTM3NzE0ODkwLC0yNTE1NDA4OTEs
-LTMyODE1MTQzN119
+eyJoaXN0b3J5IjpbMTU3ODE0Njc4MSwxNzQwNTA1NDMsLTE3NT
+E2MjM3NTMsMTAyNTM3Njg1NSwtNjQ1MzE1MTc2LDE4MTYxNzgy
+MDUsLTE4MDA4OTEyMDAsMTMzMzI4NTM1MSwxNDEwNTg3NzI0LD
+E5NzIwMjA3MDYsMTI2NDg2OTg0LC0xMDQwNjczODk3LC0yMDM2
+NzUwNTY2LC0yMzAwNDA2MDQsLTE5MDEyODM1MjEsNDA4NzM1OD
+U0LC0xMjAxOTAyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3MTQ4OTAs
+LTI1MTU0MDg5MV19
 -->
