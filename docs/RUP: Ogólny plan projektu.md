@@ -10,7 +10,7 @@ Ograniczeniami projektu:
 - są: termin ustalony na grudzień 2020 roku
 - dostępny czas, każdego, czas, którym dysponuje każdy z uczestników projektu
 - oraz ograniczone materiały wytwarzania ?
-- małe.
+- małe. zasoby ludzkie (dwu osobowy zespół)
 
 ## Organizacja zespołu - role
 
@@ -32,5 +32,5 @@ Jakub Włostowski:
 - kontroler jakości
 - specjalista ds. narzędzi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMDQ3OTEsLTU0MDM2NTk5Nl19
+eyJoaXN0b3J5IjpbLTg3MjI2Mjc1Nyw2NzIwNDc5MV19
 -->
