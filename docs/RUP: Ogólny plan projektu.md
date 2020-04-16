@@ -56,10 +56,10 @@ W nawiasie podana osoba odpowiedzialna za produkt.
  -- plan iteracji (Jakub Włostowski)
   -- model analityczny, projektowy, danych (Tomasz Michalski)
  -- definicja architektury oprogramowania (Tomasz Michalski)
-  -- model implementacyjny  (Jakub Włost
+  -- model implementacyjny  (Jakub Włostowski)
   -- definicja architektury oprogramowania (Tomasz Michalski)
     -- przypadki i skrypty testowe (Jakub Włostowski)
- -- aktualizacja i rozwój artefaktów z fazy Inception
+ -- aktualizacja i rozwój artefaktów z fazy Inception (Tomasz Michalski, Jakub Włostowski)
 
 - opracowanie nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
@@ -73,11 +73,11 @@ W nawiasie podana osoba odpowiedzialna za produkt.
  -- komponenty (Tomasz Michalski)
  -- produkt (Tomasz Michalski)
  -- plan wdrożenia (Jakub Włostowski)
--- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration
+-- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration (Tomasz Michalski, Jakub Włostowski)
 - konstrukcja nr 2
- -- aktualizacja i rozwój artefaktów z iteracji pierwszej
+ -- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 - konstrukcja nr 3
--- aktualizacja i rozwój artefaktów z iteracji drugiej
+-- aktualizacja i rozwój artefaktów z iteracji drugiej (Tomasz Michalski, Jakub Włostowski)
 
 #### Faza przekazania systemu (Transition phase)
 - przekazanie nr 1
@@ -122,7 +122,7 @@ Zakoń0.2020
  czenie prac - 01.12.2020
 Późżniej utrzymanie i naprawa błęedów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUxNDYwNzIsLTE3NTE2MjM3NTMsMT
+eyJoaXN0b3J5IjpbLTEyNjM5NDg4MjIsLTE3NTE2MjM3NTMsMT
 AyNTM3Njg1NSwtNjQ1MzE1MTc2LDE4MTYxNzgyMDUsLTE4MDA4
 OTEyMDAsMTMzMzI4NTM1MSwxNDEwNTg3NzI0LDE5NzIwMjA3MD
 YsMTI2NDg2OTg0LC0xMDQwNjczODk3LC0yMDM2NzUwNTY2LC0y
