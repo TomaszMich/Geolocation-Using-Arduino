@@ -33,7 +33,9 @@ Jakub Włostowski:
 - specjalista ds. narzędzi ae zasy udzkeuoooy zł
 
 ## Przebieg projektu
+
+### Faza rozpoczęci
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNTM1MDYyLDE3ODM0NDQ2Niw2NzIwND
+eyJoaXN0b3J5IjpbLTQ0MDM2NjgzLDk5MDUzNTA2Miw2NzIwND
 c5MV19
 -->
