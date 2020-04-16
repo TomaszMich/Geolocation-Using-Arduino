@@ -88,7 +88,8 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction
 - przekazanie nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
-
+- przekazanie nr 3
+ -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 ### Wydania
  Co tydzień nowy Release Candidate, a co trzy tygodnie nowe   produkcyjne 1 - 01.08.2020
 - wydanie produkcyjne 2 - 22.08.2020
@@ -108,9 +109,14 @@ Rozpoczęcie prac - 01.07.2020
 #### Construction phase
 - Iteracja 1 -- 1-15.09.2020
 - Iteracja 2 -- 16-30.09.2020
-- Iteracja 3 -- 
+- Iteracja 3 -- 1-15.10.2020
+#### Transition phase
+- Iteracja 1 -- 16-30.10.2020
+- Iteracja 2 -- 1-15.11.2020
+- Iteracja 3 -- 16-30.11.2020
+Zakoń
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTEzNDYyNCwtMTgwMDg5MTIwMCwxMz
+eyJoaXN0b3J5IjpbMTkzODc1MjUyMSwtMTgwMDg5MTIwMCwxMz
 MzMjg1MzUxLDE0MTA1ODc3MjQsMTk3MjAyMDcwNiwxMjY0ODY5
 ODQsLTEwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLTIzMDA0MDYwNC
 wtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEw
