@@ -68,7 +68,7 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 #### Faza konstrukcji (Construction phase)
 - konstrukcja nr 1
  -- plan iteracji (Tomasz Michalski)
-  -- model analityczny, projektowy, danych
+  -- model analityczny, projektowy, danych (Jakub Włostowski)
  (Jakub Włostowski)
  -- komponenty (Tomasz Michalski)
  -- produkt (Tomasz Michalski)
@@ -81,17 +81,16 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 
 #### Faza przekazania systemu (Transition phase)
 - przekazanie nr 1
- -- plan iteracji
- (Tomasz Michalski)
+ -- plan iteracji (Tomasz Michalski)
  -- plan wdrożenia (Tomasz Michalski)
  -- zestaw wdrożeniowy (Jakub Włostowski)
  -- pakiet produktu (Jakub Włostowski)
  -- materiały wspomagające użytkowników (Tomasz Michalski)
- -- aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction
+ -- aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction (Tomasz Michalski, Jakub Włostowski)
 - przekazanie nr 2
- -- aktualizacja i rozwój artefaktów z iteracji pierwszej
+ -- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 - przekazanie nr 3
- -- aktualizacja i rozwój artefaktów z iteracji pierwszej
+ -- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 ### Wydania
  Co tydzień nowy Release Candidate, a co trzy tygodnie nowe  wydanie 
  - wydanie produkcyjne 1 - 01.08.2020
@@ -122,11 +121,11 @@ Zakoń0.2020
  czenie prac - 01.12.2020
 Późżniej utrzymanie i naprawa błęedów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM5NDg4MjIsLTE3NTE2MjM3NTMsMT
-AyNTM3Njg1NSwtNjQ1MzE1MTc2LDE4MTYxNzgyMDUsLTE4MDA4
-OTEyMDAsMTMzMzI4NTM1MSwxNDEwNTg3NzI0LDE5NzIwMjA3MD
-YsMTI2NDg2OTg0LC0xMDQwNjczODk3LC0yMDM2NzUwNTY2LC0y
-MzAwNDA2MDQsLTE5MDEyODM1MjEsNDA4NzM1ODU0LC0xMjAxOT
-AyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3MTQ4OTAsLTI1MTU0MDg5
-MSwtMzI4MTUxNDM3XX0=
+eyJoaXN0b3J5IjpbMTc0MDUwNTQzLC0xNzUxNjIzNzUzLDEwMj
+UzNzY4NTUsLTY0NTMxNTE3NiwxODE2MTc4MjA1LC0xODAwODkx
+MjAwLDEzMzMyODUzNTEsMTQxMDU4NzcyNCwxOTcyMDIwNzA2LD
+EyNjQ4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1MDU2NiwtMjMw
+MDQwNjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NCwtMTIwMTkwMj
+Y2MSwtMTA0NTU0NDE2NywtNTM3NzE0ODkwLC0yNTE1NDA4OTEs
+LTMyODE1MTQzN119
 -->
