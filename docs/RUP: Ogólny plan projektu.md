@@ -95,13 +95,15 @@ Co tydzień nowy Release Candidate, a co trzy tygodnie nowe wydanie.
 - wydanie produkcyjne 2 - 22.08.2020
 - ...
 - Finalny produkt 1.0 - 06.12.2020
+
+Po premierze produktu dla klientów, comiesięczne patche z usprawnieniami i naprawami błędów.
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwNDg4OTI4LDE0MTA1ODc3MjQsMTk3Mj
-AyMDcwNiwxMjY0ODY5ODQsLTEwNDA2NzM4OTcsLTIwMzY3NTA1
-NjYsLTIzMDA0MDYwNCwtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLT
-EyMDE5MDI2NjEsLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMjUx
-NTQwODkxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0OD
-k5LDY3MjA0NzkxXX0=
+eyJoaXN0b3J5IjpbLTEwNjkyMzIxNzMsMTQxMDU4NzcyNCwxOT
+cyMDIwNzA2LDEyNjQ4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1
+MDU2NiwtMjMwMDQwNjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NC
+wtMTIwMTkwMjY2MSwtMTA0NTU0NDE2NywtNTM3NzE0ODkwLC0y
+NTE1NDA4OTEsLTMyODE1MTQzNywzNzk4ODc1MDEsLTE1NDc5OT
+Q4OTksNjcyMDQ3OTFdfQ==
 -->
