@@ -91,7 +91,8 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 - przekazanie nr 3
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 ### Wydania
- Co tydzień nowy Release Candidate, a co trzy tygodnie nowe   produkcyjne 1 - 01.08.2020
+ Co tydzień nowy Release Candidate, a co trzy tygodnie nowe  wydanie 
+ - wydanie produkcyjne 1 - 01.08.2020
 - wydanie produkcyjne 2 - 22.08.2020
 - ...
 - Finalny produkt 1.0 - 06.12.2020
@@ -114,10 +115,12 @@ Rozpoczęcie prac - 01.07.2020
 - Iteracja 1 -- 16-30.10.2020
 - Iteracja 2 -- 1-15.11.2020
 - Iteracja 3 -- 16-30.11.2020
+
 Zakoń5.08.2020
-- 
+- czenie prac - 01.12.2020
+Póżniej utrzymanie i naprawa błedów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjE3ODIwNSwxOTM4NzUyNTIxLC0xOD
+eyJoaXN0b3J5IjpbLTY3MjEwODQ1MiwxODE2MTc4MjA1LC0xOD
 AwODkxMjAwLDEzMzMyODUzNTEsMTQxMDU4NzcyNCwxOTcyMDIw
 NzA2LDEyNjQ4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1MDU2Ni
 wtMjMwMDQwNjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NCwtMTIw
