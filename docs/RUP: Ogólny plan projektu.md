@@ -56,7 +56,9 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- plan iteracji
  -- definicja architektury oprogramowania
  -- aktualizacja i rozwój artefaktów z fazy Inception
- -- prototyp urządzenia
+ -- prototyp architektoniczny
+ Architektura automatyzacji testów
+ • Model analityczny  • Model projektowy • Model danych • Model implementacyjny (ang. Implementation Model) • Zalecenia do programowania (ang. Programming Guidelines) • Prototyp architektoniczny • Architektura automatyzacji testów (ang. Test Automation Architecture) • Przypadki testowe (ang. Test Cases) • Skrypty testowe (ang. Test Scripts)
 - opracowanie nr 2
  -- rozwinięcie artefaktów z iteracji pierwszej
 
@@ -69,8 +71,8 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 
 #### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTQxOTAwMiw0MDg3MzU4NTQsLTEyMD
-E5MDI2NjEsLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQw
-ODkxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LD
-Y3MjA0NzkxXX0=
+eyJoaXN0b3J5IjpbMTkxOTgxMzQ2NywxNjA1NDE5MDAyLDQwOD
+czNTg1NCwtMTIwMTkwMjY2MSwtMTA0NTU0NDE2NywtNTM3NzE0
+ODkwLC0yNTE1NDA4OTEsLTMyODE1MTQzNywzNzk4ODc1MDEsLT
+E1NDc5OTQ4OTksNjcyMDQ3OTFdfQ==
 -->
