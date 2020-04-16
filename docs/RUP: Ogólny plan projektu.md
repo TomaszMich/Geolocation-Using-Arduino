@@ -41,8 +41,7 @@ Jakub Włostowski:
 W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 
 - iteracja początkowa
--- wizja
- (Tomasz Michalski, Jakub Włostowski)
+-- wizja (Tomasz Michalski, Jakub Włostowski)
 -- lista zagrożeń (Jakub Włostowski)
  -- kontekst biznesowy (Tomasz Michalski)
  -- plan wytwarzania oprogramowania (Tomasz Michalski)
@@ -50,8 +49,8 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 - druga iteracja
 -- repozytorium projektu (Tomasz Michalski)
  -- narzędzia (Jakub Włostowski)
--- Prototyp/model interfejsu użytkownika (Jaku
--- Struktura informacji UI
+-- Prototyp/model interfejsu użytkownika (Jakub Włostowski)
+-- Struktura informacji UI (Tomasz Michalski)
 #### Faza opracowania (Elaboration phase)
 - opracowanie nr 1
  -- plan iteracji
@@ -66,7 +65,7 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 
 #### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc2NDk3MjUsNTc1OTM2MDEzLC0xMj
+eyJoaXN0b3J5IjpbNDA4NzM1ODU0LC0xMTk3NjQ5NzI1LC0xMj
 AxOTAyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3MTQ4OTAsLTI1MTU0
 MDg5MSwtMzI4MTUxNDM3LDM3OTg4NzUwMSwtMTU0Nzk5NDg5OS
 w2NzIwNDc5MV19
