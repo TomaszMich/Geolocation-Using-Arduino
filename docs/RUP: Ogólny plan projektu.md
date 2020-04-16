@@ -88,10 +88,13 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction
 - przekazanie nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
+
+### Wydania
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjAyMDcwNiwxMjY0ODY5ODQsLTEwND
-A2NzM4OTcsLTIwMzY3NTA1NjYsLTIzMDA0MDYwNCwtMTkwMTI4
-MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEwNDU1NDQxNj
-csLTUzNzcxNDg5MCwtMjUxNTQwODkxLC0zMjgxNTE0MzcsMzc5
-ODg3NTAxLC0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
+eyJoaXN0b3J5IjpbMTQxMDU4NzcyNCwxOTcyMDIwNzA2LDEyNj
+Q4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1MDU2NiwtMjMwMDQw
+NjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NCwtMTIwMTkwMjY2MS
+wtMTA0NTU0NDE2NywtNTM3NzE0ODkwLC0yNTE1NDA4OTEsLTMy
+ODE1MTQzNywzNzk4ODc1MDEsLTE1NDc5OTQ4OTksNjcyMDQ3OT
+FdfQ==
 -->
