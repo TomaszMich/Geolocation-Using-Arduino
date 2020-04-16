@@ -68,11 +68,15 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- plan iteracji
  -- komponenty urządzenia
  -- finalny produkt
+ -- plan wdrożenia
+ -- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration
+- konstrukcja nr 2
+ -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 
 #### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTgxMzQ2NywxNjA1NDE5MDAyLDQwOD
-czNTg1NCwtMTIwMTkwMjY2MSwtMTA0NTU0NDE2NywtNTM3NzE0
-ODkwLC0yNTE1NDA4OTEsLTMyODE1MTQzNywzNzk4ODc1MDEsLT
-E1NDc5OTQ4OTksNjcyMDQ3OTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MDEyODM1MjEsMTkxOTgxMzQ2Nyw0MD
+g3MzU4NTQsLTEyMDE5MDI2NjEsLTEwNDU1NDQxNjcsLTUzNzcx
+NDg5MCwtMjUxNTQwODkxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC
+0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
 -->
