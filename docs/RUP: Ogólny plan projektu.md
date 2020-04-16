@@ -68,8 +68,7 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 #### Faza konstrukcji (Construction phase)
 - konstrukcja nr 1
  -- plan iteracji
- -- komponenty urządzenia
- -- finalny produkt
+ -- komponenty -- produkt
  -- plan wdrożenia
 -- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration
 - konstrukcja nr 2
@@ -88,7 +87,7 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 - przekazanie nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDg2OTg0LDM4NjE0NTkwNSwtMTA0MD
+eyJoaXN0b3J5IjpbMjYwNTAxNzUyLDEyNjQ4Njk4NCwtMTA0MD
 Y3Mzg5NywtMjAzNjc1MDU2NiwtMjMwMDQwNjA0LC0xOTAxMjgz
 NTIxLDQwODczNTg1NCwtMTIwMTkwMjY2MSwtMTA0NTU0NDE2Ny
 wtNTM3NzE0ODkwLC0yNTE1NDA4OTEsLTMyODE1MTQzNywzNzk4
