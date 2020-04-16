@@ -36,8 +36,8 @@ Jakub Włostowski:
 - specjalista ds. narzędzi 
 
 ## Przebieg projektu
-
-### Faza rozpoczęcia (Inception phase)
+### Fazy i iteracje
+#### Faza rozpoczęcia (Inception phase)
 W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 
 - iteracja początkowa
@@ -47,13 +47,13 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- narzędzia
 
 
-### Faza opracowania (Elaboration phase)
+#### Faza opracowania (Elaboration phase)
 
-### Faza konstrukcji (Construction phase)
+#### Faza konstrukcji (Construction phase)
 
-### Faza przekazania systemu (Transition phase)
+#### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzcxNDg5MCwzNjY3MDIxMiwtMjUxNT
-QwODkxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0ODk5
-LDY3MjA0NzkxXX0=
+eyJoaXN0b3J5IjpbLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMj
+UxNTQwODkxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0
+ODk5LDY3MjA0NzkxXX0=
 -->
