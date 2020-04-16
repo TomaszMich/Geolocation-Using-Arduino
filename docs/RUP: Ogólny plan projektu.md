@@ -38,7 +38,7 @@ Jakub Włostowski:
 ## Przebieg projektu
 ### Fazy i iteracje
 #### Faza rozpoczęcia (Inception phase)
-W nawiasie podana osoba odpowiedzialna za produkt iteracji.
+W nawiasie podana osoba odpowiedzialna za produkt.
 
 - iteracja początkowa
 -- wizja (Tomasz Michalski, Jakub Włostowski)
@@ -120,11 +120,11 @@ Zakoń0.2020
  czenie prac - 01.12.2020
 Późżniej utrzymanie i naprawa błęedów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTM3Njg1NSwtNjQ1MzE1MTc2LDE4MT
-YxNzgyMDUsLTE4MDA4OTEyMDAsMTMzMzI4NTM1MSwxNDEwNTg3
-NzI0LDE5NzIwMjA3MDYsMTI2NDg2OTg0LC0xMDQwNjczODk3LC
-0yMDM2NzUwNTY2LC0yMzAwNDA2MDQsLTE5MDEyODM1MjEsNDA4
-NzM1ODU0LC0xMjAxOTAyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3MT
-Q4OTAsLTI1MTU0MDg5MSwtMzI4MTUxNDM3LDM3OTg4NzUwMSwt
-MTU0Nzk5NDg5OV19
+eyJoaXN0b3J5IjpbMTE1MDMxMzA0OCwxMDI1Mzc2ODU1LC02ND
+UzMTUxNzYsMTgxNjE3ODIwNSwtMTgwMDg5MTIwMCwxMzMzMjg1
+MzUxLDE0MTA1ODc3MjQsMTk3MjAyMDcwNiwxMjY0ODY5ODQsLT
+EwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLTIzMDA0MDYwNCwtMTkw
+MTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEwNDU1ND
+QxNjcsLTUzNzcxNDg5MCwtMjUxNTQwODkxLC0zMjgxNTE0Mzcs
+Mzc5ODg3NTAxXX0=
 -->
