@@ -62,10 +62,14 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 
 
 #### Faza konstrukcji (Construction phase)
+- konstrukcja nr 1
+ -- plan iteracji
+ -- komponenty urządzenia
+ -- finalny produkt
 
 #### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTM4MTUxMCw0MDg3MzU4NTQsLTEyMD
+eyJoaXN0b3J5IjpbMTYwNTQxOTAwMiw0MDg3MzU4NTQsLTEyMD
 E5MDI2NjEsLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQw
 ODkxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LD
 Y3MjA0NzkxXX0=
