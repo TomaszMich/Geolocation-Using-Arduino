@@ -77,10 +77,14 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration
 - konstrukcja nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
+- konstrukcja nr 3
+-- aktualizacja i rozwój artefaktów z iteracji drugiej
 
 #### Faza przekazania systemu (Transition phase)
+- przekazanie nr 1
+ -- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU2ODUzMDAsMjExNjI0MTgxOCwtMT
+eyJoaXN0b3J5IjpbLTIzMDA0MDYwNCwtMTg1NTY4NTMwMCwtMT
 kwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEwNDU1
 NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQwODkxLC0zMjgxNTE0Mz
 csMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
