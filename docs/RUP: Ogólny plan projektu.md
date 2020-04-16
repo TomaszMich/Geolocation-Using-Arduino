@@ -56,9 +56,8 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- plan iteracji
   -- model analityczny, projektowy, danych
  -- definicja architektury oprogramowania
-  -- model implementacyjny  
-  -- definicja architektury oprogramowania
-  -- prototyp architektoniczny
+  -- model implementacyjny  -- definicja architektury oprogramowania
+ czny
    -- przypadki i skrypty testowe
  -- aktualizacja i rozwój artefaktów z fazy Inception
 
@@ -72,7 +71,7 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- komponenty urządzenia
  -- finalny produkt
  -- plan wdrożenia
- -- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration
+  i Elaboration
 - konstrukcja nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 - konstrukcja nr 3
@@ -80,10 +79,18 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 
 #### Faza przekazania systemu (Transition phase)
 - przekazanie nr 1
- -- 
+ -- plan iteracji
+ -- plan wdrożenia
+ -- zestaw wdrożeniowy
+ -- pakiet produktu
+ -- materiały wspomagające użytkowników
+ -- aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction
+- przekazanie nr 2
+ -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY3NTA1NjYsLTIzMDA0MDYwNCwtMT
-kwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEwNDU1
-NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQwODkxLC0zMjgxNTE0Mz
-csMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
+eyJoaXN0b3J5IjpbLTEwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLT
+IzMDA0MDYwNCwtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5
+MDI2NjEsLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQwOD
+kxLC0zMjgxNTE0MzcsMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LDY3
+MjA0NzkxXX0=
 -->
