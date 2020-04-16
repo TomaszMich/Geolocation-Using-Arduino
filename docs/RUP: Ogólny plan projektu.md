@@ -6,7 +6,11 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 
 ## Założenia planu
 
-Ograniczeniami projektu są: termin ustalony na grudzień 2020 roku, czas, którym dysponuje każdy z uczestników projektu oraz ograniczone materiały wytwarzania.
+Ograniczenia projektu: 
+- termin ustalony na grudzień 2020 roku
+- dostępny czas, każdego z uczestników projektu
+- ograniczone materiały wytwarzania ?
+- małe
 
 ## Organizacja zespołu - role
 
@@ -27,3 +31,6 @@ Jakub Włostowski:
 - inżynier procesu
 - kontroler jakości
 - specjalista ds. narzędzi
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU0MDM2NTk5Nl19
+-->
