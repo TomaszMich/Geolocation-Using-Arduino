@@ -71,7 +71,7 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- komponenty urządzenia
  -- finalny produkt
  -- plan wdrożenia
-  i Elaboration
+-- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration
 - konstrukcja nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 - konstrukcja nr 3
@@ -88,9 +88,9 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 - przekazanie nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MTQ1OTA1LC0xMDQwNjczODk3LC0yMD
-M2NzUwNTY2LC0yMzAwNDA2MDQsLTE5MDEyODM1MjEsNDA4NzM1
-ODU0LC0xMjAxOTAyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3MTQ4OT
-AsLTI1MTU0MDg5MSwtMzI4MTUxNDM3LDM3OTg4NzUwMSwtMTU0
-Nzk5NDg5OSw2NzIwNDc5MV19
+eyJoaXN0b3J5IjpbMTI2NDg2OTg0LDM4NjE0NTkwNSwtMTA0MD
+Y3Mzg5NywtMjAzNjc1MDU2NiwtMjMwMDQwNjA0LC0xOTAxMjgz
+NTIxLDQwODczNTg1NCwtMTIwMTkwMjY2MSwtMTA0NTU0NDE2Ny
+wtNTM3NzE0ODkwLC0yNTE1NDA4OTEsLTMyODE1MTQzNywzNzk4
+ODc1MDEsLTE1NDc5OTQ4OTksNjcyMDQ3OTFdfQ==
 -->
