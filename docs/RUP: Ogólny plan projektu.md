@@ -46,14 +46,14 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- model przypadków użycia (Jakub Włostowski)
  -- narzędzia (Jakub Włostowski)
 
-
 #### Faza opracowania (Elaboration phase)
+
 
 #### Faza konstrukcji (Construction phase)
 
 #### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzAxODA4MSwtMTA0NTU0NDE2NywtNT
-M3NzE0ODkwLC0yNTE1NDA4OTEsLTMyODE1MTQzNywzNzk4ODc1
-MDEsLTE1NDc5OTQ4OTksNjcyMDQ3OTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMDE5MDI2NjEsLTEwNDU1NDQxNjcsLT
+UzNzcxNDg5MCwtMjUxNTQwODkxLC0zMjgxNTE0MzcsMzc5ODg3
+NTAxLC0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
 -->
