@@ -50,14 +50,15 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 -- Prototyp/model interfejsu użytkownika
 -- 
 #### Faza opracowania (Elaboration phase)
+- opracowanie 
 
 
 #### Faza konstrukcji (Construction phase)
 
 #### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODI4ODI0NSwtMTIwMTkwMjY2MSwtMT
-A0NTU0NDE2NywtNTM3NzE0ODkwLC0yNTE1NDA4OTEsLTMyODE1
-MTQzNywzNzk4ODc1MDEsLTE1NDc5OTQ4OTksNjcyMDQ3OTFdfQ
-==
+eyJoaXN0b3J5IjpbLTE0NTk1MDI5NCwtNDg4Mjg4MjQ1LC0xMj
+AxOTAyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3MTQ4OTAsLTI1MTU0
+MDg5MSwtMzI4MTUxNDM3LDM3OTg4NzUwMSwtMTU0Nzk5NDg5OS
+w2NzIwNDc5MV19
 -->
