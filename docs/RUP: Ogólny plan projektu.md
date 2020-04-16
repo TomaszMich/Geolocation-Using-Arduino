@@ -35,8 +35,15 @@ Jakub Włostowski:
 
 ## Przebieg projektu
 
-### Faza rozpoczęci
+### Faza rozpoczęcia (Inception phase)
+
+
+### Faza opracowania (Elaboration phase)
+
+### Faza konstrukcji (Construction phase)
+
+### Faza przekazani
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NjczODAwLC00NDAzNjY4Myw2NzIwND
-c5MV19
+eyJoaXN0b3J5IjpbLTEyOTg4ODY5MTYsMjI5NjczODAwLDY3Mj
+A0NzkxXX0=
 -->
