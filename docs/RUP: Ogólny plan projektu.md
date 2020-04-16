@@ -11,8 +11,8 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 - ograniczony czas uczestników na pracęprojektu nad ema
 - zasoby ludzkie (dwuosobowy zespół)
 #### Produkty projektu
-- urządzenie oparte na module Arduino, komunikujące się z systemem
-- system 
+- urządzenie oparte na module Arduino aplikacja użytkownika do obsługi system
+- system koordynujący działanie urządzeń i aplikacji użytkownika
 
 ## Organizacja zespołu - role
 
@@ -45,6 +45,6 @@ Jakub Włostowski:
 
 ### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc5OTQ4OTksLTEwOTk0NTI1MDMsNj
-cyMDQ3OTFdfQ==
+eyJoaXN0b3J5IjpbMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LDY3Mj
+A0NzkxXX0=
 -->
