@@ -42,7 +42,7 @@ Jakub Włostowski:
  -- kontekst biznesowy
  -- repozytorium projektu
  -- model przypadków użycia
- -- 
+ -- narzędzia
 
 
 ### Faza opracowania (Elaboration phase)
@@ -51,6 +51,6 @@ Jakub Włostowski:
 
 ### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3OTU5NDUyLC0zMjgxNTE0MzcsMzc5OD
-g3NTAxLC0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
+eyJoaXN0b3J5IjpbMTM4NzY2MTcwOCwtMzI4MTUxNDM3LDM3OT
+g4NzUwMSwtMTU0Nzk5NDg5OSw2NzIwNDc5MV19
 -->
