@@ -116,11 +116,10 @@ Rozpoczęcie prac - 01.07.2020
 - Iteracja 2 -- 1-15.11.2020
 - Iteracja 3 -- 16-30.11.2020
 
-Zakoń5.08.2020
-- czenie prac - 01.12.2020
-Póżniej utrzymanie i naprawa błedów.
+Zakończenie prac - 01.12.2020
+Później utrzymanie i naprawa błędów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjEwODQ1MiwxODE2MTc4MjA1LC0xOD
+eyJoaXN0b3J5IjpbLTY0NTMxNTE3NiwxODE2MTc4MjA1LC0xOD
 AwODkxMjAwLDEzMzMyODUzNTEsMTQxMDU4NzcyNCwxOTcyMDIw
 NzA2LDEyNjQ4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1MDU2Ni
 wtMjMwMDQwNjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NCwtMTIw
