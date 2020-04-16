@@ -8,10 +8,11 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 
 #### Ograniczenia projektu: 
 - termin ustalony na grudzień 2020 roku
-- ograniczony czas uczestników na pracęprojektu nad ema
+- ograniczony czas uczestników na pracę nad projektem
 - zasoby ludzkie (dwuosobowy zespół)
 #### Produkty projektu
-- urządzenie oparte na module Arduino aplikacja użytkownika do obsługi system
+- urządzenie oparte na module Arduino
+- aplikacja użytkownika do obsługi system
 - system koordynujący działanie urządzeń i aplikacji użytkownika
 
 ## Organizacja zespołu - role
@@ -47,6 +48,6 @@ Jakub Włostowski:
 
 ### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyOTM4NjgwLDM3OTg4NzUwMSwtMTU0Nz
-k5NDg5OSw2NzIwNDc5MV19
+eyJoaXN0b3J5IjpbLTMyODE1MTQzNyw4NzI5Mzg2ODAsMzc5OD
+g3NTAxLC0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
 -->
