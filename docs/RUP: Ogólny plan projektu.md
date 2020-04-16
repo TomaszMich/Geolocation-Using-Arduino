@@ -40,7 +40,9 @@ Jakub Włostowski:
 ### Faza rozpoczęcia (Inception phase)
 - iteracja początkowa
  -- kontekst biznesowy
- --
+ -- repozytorium projektu
+ -- model przypadków użycia
+ -- 
 
 
 ### Faza opracowania (Elaboration phase)
@@ -49,6 +51,6 @@ Jakub Włostowski:
 
 ### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcxNjkwMTIsLTMyODE1MTQzNywzNz
-k4ODc1MDEsLTE1NDc5OTQ4OTksNjcyMDQ3OTFdfQ==
+eyJoaXN0b3J5IjpbNTE3OTU5NDUyLC0zMjgxNTE0MzcsMzc5OD
+g3NTAxLC0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
 -->
