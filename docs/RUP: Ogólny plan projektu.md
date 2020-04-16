@@ -90,7 +90,7 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 
 ### Wydania
-Co tydzień nowy Release Candidate, a co trzy tygodnie nowe wydanie.
+ wydanie  wydanietydzień nowy Release Candidate, a co trzy tygodnie nowe wydanie.
 - wydanie produkcyjne 1 - 01.08.2020
 - wydanie produkcyjne 2 - 22.08.2020
 - ...
@@ -100,10 +100,10 @@ Po premierze produktu dla klientów, comiesięczne patche z usprawnieniami i nap
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkyMzIxNzMsMTQxMDU4NzcyNCwxOT
-cyMDIwNzA2LDEyNjQ4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1
-MDU2NiwtMjMwMDQwNjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NC
-wtMTIwMTkwMjY2MSwtMTA0NTU0NDE2NywtNTM3NzE0ODkwLC0y
-NTE1NDA4OTEsLTMyODE1MTQzNywzNzk4ODc1MDEsLTE1NDc5OT
-Q4OTksNjcyMDQ3OTFdfQ==
+eyJoaXN0b3J5IjpbMTMzMzI4NTM1MSwtMTA2OTIzMjE3MywxND
+EwNTg3NzI0LDE5NzIwMjA3MDYsMTI2NDg2OTg0LC0xMDQwNjcz
+ODk3LC0yMDM2NzUwNTY2LC0yMzAwNDA2MDQsLTE5MDEyODM1Mj
+EsNDA4NzM1ODU0LC0xMjAxOTAyNjYxLC0xMDQ1NTQ0MTY3LC01
+Mzc3MTQ4OTAsLTI1MTU0MDg5MSwtMzI4MTUxNDM3LDM3OTg4Nz
+UwMSwtMTU0Nzk5NDg5OSw2NzIwNDc5MV19
 -->
