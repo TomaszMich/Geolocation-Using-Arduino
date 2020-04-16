@@ -37,6 +37,8 @@ Jakub Włostowski:
 ## Przebieg projektu
 
 ### Faza rozpoczęcia (Inception phase)
+- iteracja początkowa
+
 
 
 ### Faza opracowania (Elaboration phase)
@@ -45,6 +47,6 @@ Jakub Włostowski:
 
 ### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LDY3Mj
-A0NzkxXX0=
+eyJoaXN0b3J5IjpbODcyOTM4NjgwLDM3OTg4NzUwMSwtMTU0Nz
+k5NDg5OSw2NzIwNDc5MV19
 -->
