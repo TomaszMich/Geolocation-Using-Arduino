@@ -58,12 +58,15 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
   -- model projektowy 
   -- model danych
  -- definicja architektury oprogramowania
-  • Model implementacyjny  • Architektura automatyzacji testów • rzypadki testowe i skrypty testowe
+  • Model implementacyjny  •-- definicja architektury oprogramowania
  -- aktualizacja i rozwój artefaktów z fazy Inception
- -- prototyp architektoniczny Architektura automatyzacji testów
+ -- prototyp architektoniczny
+ Architektura automatyzacji testów
+ • rzypadki testowe i skrypty testowe
+ -- aktualizacja i rozwój artefaktów z fazy Inception -- rototyp architektoniczny Architektura automatyzacji testów
 
 - opracowanie nr 2
- -- rozwinięcie artefaktów z iteracji pierwszej
+ -- aktualizacja i rozwój artefaktów z iteracji pierwszej
 
 
 #### Faza konstrukcji (Construction phase)
@@ -78,8 +81,8 @@ W nawiasie podana osoba odpowiedzialna za produkt iteracji.
 
 #### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE1OTU0MzksLTE5MDEyODM1MjEsND
-A4NzM1ODU0LC0xMjAxOTAyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3
-MTQ4OTAsLTI1MTU0MDg5MSwtMzI4MTUxNDM3LDM3OTg4NzUwMS
-wtMTU0Nzk5NDg5OSw2NzIwNDc5MV19
+eyJoaXN0b3J5IjpbMjExNjI0MTgxOCwtMTIxMTU5NTQzOSwtMT
+kwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEwNDU1
+NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQwODkxLC0zMjgxNTE0Mz
+csMzc5ODg3NTAxLC0xNTQ3OTk0ODk5LDY3MjA0NzkxXX0=
 -->
