@@ -53,25 +53,26 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 -- Struktura informacji UI (Tomasz Michalski)
 #### Faza opracowania (Elaboration phase)
 - opracowanie nr 1
- -- plan iteracji
-  -- model analityczny, projektowy, danych
- -- definicja architektury oprogramowania
-  -- model implementacyjny  
-  -- definicja architektury oprogramowania
-    -- przypadki i skrypty testowe
+ -- plan iteracji (Jakub Włostowski)
+  -- model analityczny, projektowy, danych (Tomasz Michalski)
+ -- definicja architektury oprogramowania (Tomasz Michalski)
+  -- model implementacyjny  (Jakub Włost
+  -- definicja architektury oprogramowania (Tomasz Michalski)
+    -- przypadki i skrypty testowe (Jakub Włostowski)
  -- aktualizacja i rozwój artefaktów z fazy Inception
 
 - opracowanie nr 2
- -- aktualizacja i rozwój artefaktów z iteracji pierwszej
+ -- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 
 
 #### Faza konstrukcji (Construction phase)
 - konstrukcja nr 1
- -- plan iteracji
+ -- plan iteracji (Tomasz Michalski)
   -- model analityczny, projektowy, danych
- -- komponenty 
- -- produkt
- -- plan wdrożenia
+ (Jakub Włostowski)
+ -- komponenty (Tomasz Michalski)
+ -- produkt (Tomasz Michalski)
+ -- plan wdrożenia (Jakub Włostowski)
 -- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration
 - konstrukcja nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
@@ -81,10 +82,11 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 #### Faza przekazania systemu (Transition phase)
 - przekazanie nr 1
  -- plan iteracji
- -- plan wdrożenia
- -- zestaw wdrożeniowy
- -- pakiet produktu
- -- materiały wspomagające użytkowników
+ (Tomasz Michalski)
+ -- plan wdrożenia (Tomasz Michalski)
+ -- zestaw wdrożeniowy (Jakub Włostowski)
+ -- pakiet produktu (Jakub Włostowski)
+ -- materiały wspomagające użytkowników (Tomasz Michalski)
  -- aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction
 - przekazanie nr 2
  -- aktualizacja i rozwój artefaktów z iteracji pierwszej
@@ -120,11 +122,11 @@ Zakoń0.2020
  czenie prac - 01.12.2020
 Późżniej utrzymanie i naprawa błęedów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE2MjM3NTMsMTE1MDMxMzA0OCwxMD
-I1Mzc2ODU1LC02NDUzMTUxNzYsMTgxNjE3ODIwNSwtMTgwMDg5
-MTIwMCwxMzMzMjg1MzUxLDE0MTA1ODc3MjQsMTk3MjAyMDcwNi
-wxMjY0ODY5ODQsLTEwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLTIz
-MDA0MDYwNCwtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MD
-I2NjEsLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQwODkx
-LC0zMjgxNTE0MzddfQ==
+eyJoaXN0b3J5IjpbLTEwNzUxNDYwNzIsLTE3NTE2MjM3NTMsMT
+AyNTM3Njg1NSwtNjQ1MzE1MTc2LDE4MTYxNzgyMDUsLTE4MDA4
+OTEyMDAsMTMzMzI4NTM1MSwxNDEwNTg3NzI0LDE5NzIwMjA3MD
+YsMTI2NDg2OTg0LC0xMDQwNjczODk3LC0yMDM2NzUwNTY2LC0y
+MzAwNDA2MDQsLTE5MDEyODM1MjEsNDA4NzM1ODU0LC0xMjAxOT
+AyNjYxLC0xMDQ1NTQ0MTY3LC01Mzc3MTQ4OTAsLTI1MTU0MDg5
+MSwtMzI4MTUxNDM3XX0=
 -->
