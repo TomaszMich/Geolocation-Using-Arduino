@@ -46,7 +46,7 @@ W nawiasie podana osoba odpowiedzialna za produkt.
  -- kontekst biznesowy (Tomasz Michalski)
  -- plan wytwarzania oprogramowania (Tomasz Michalski)
  -- model przypadków użycia (Jakub Włostowski)
-- druga iteracja
+- druga iteracja początkowa
 -- repozytorium projektu (Tomasz Michalski)
  -- narzędzia (Jakub Włostowski)
 -- Prototyp/model interfejsu użytkownika (Jakub Włostowski)
@@ -120,11 +120,11 @@ Zakoń0.2020
  czenie prac - 01.12.2020
 Późżniej utrzymanie i naprawa błęedów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDMxMzA0OCwxMDI1Mzc2ODU1LC02ND
-UzMTUxNzYsMTgxNjE3ODIwNSwtMTgwMDg5MTIwMCwxMzMzMjg1
-MzUxLDE0MTA1ODc3MjQsMTk3MjAyMDcwNiwxMjY0ODY5ODQsLT
-EwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLTIzMDA0MDYwNCwtMTkw
-MTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEwNDU1ND
-QxNjcsLTUzNzcxNDg5MCwtMjUxNTQwODkxLC0zMjgxNTE0Mzcs
-Mzc5ODg3NTAxXX0=
+eyJoaXN0b3J5IjpbLTE3NTE2MjM3NTMsMTE1MDMxMzA0OCwxMD
+I1Mzc2ODU1LC02NDUzMTUxNzYsMTgxNjE3ODIwNSwtMTgwMDg5
+MTIwMCwxMzMzMjg1MzUxLDE0MTA1ODc3MjQsMTk3MjAyMDcwNi
+wxMjY0ODY5ODQsLTEwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLTIz
+MDA0MDYwNCwtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MD
+I2NjEsLTEwNDU1NDQxNjcsLTUzNzcxNDg5MCwtMjUxNTQwODkx
+LC0zMjgxNTE0MzddfQ==
 -->
