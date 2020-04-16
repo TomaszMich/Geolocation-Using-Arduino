@@ -33,7 +33,7 @@ Jakub Włostowski:
 - specyfikujący wymagania
 - inżynier procesu
 - kontroler jakości
-- specjalista ds. narzędzi ae zasy udzkeuoooy zł
+- specjalista ds. narzędzi 
 
 ## Przebieg projektu
 
@@ -51,6 +51,6 @@ Jakub Włostowski:
 
 ### Faza przekazania systemu (Transition phase)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzY2MTcwOCwtMzI4MTUxNDM3LDM3OT
+eyJoaXN0b3J5IjpbMTE0Mjk5NzgyMywtMzI4MTUxNDM3LDM3OT
 g4NzUwMSwtMTU0Nzk5NDg5OSw2NzIwNDc5MV19
 -->
