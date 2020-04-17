@@ -58,7 +58,7 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 	 - definicja architektury oprogramowania (Tomasz Michalski)
 	  - model implementacyjny  (Jakub Włostowski)
 	  - definicja architektury oprogramowania (Tomasz Michalski)
-	  - przypadki i skrypty testowe (Jakub Włostowski)
+	- przypadki i skrypty testowe (Jakub Włostowski)
 	 - aktualizacja i rozwój artefaktów z fazy Inception (Tomasz Michalski, Jakub Włostowski)
 
 - opracowanie nr 2
@@ -119,11 +119,11 @@ Rozpoczęcie prac - 01.07.2020
 Zakończenie prac - 01.12.2020
 Później utrzymanie i naprawa błędów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczMjQ5ODQzLC00MTE2MDYwNjIsMTU3OD
-E0Njc4MSwxNzQwNTA1NDMsLTE3NTE2MjM3NTMsMTAyNTM3Njg1
-NSwtNjQ1MzE1MTc2LDE4MTYxNzgyMDUsLTE4MDA4OTEyMDAsMT
-MzMzI4NTM1MSwxNDEwNTg3NzI0LDE5NzIwMjA3MDYsMTI2NDg2
-OTg0LC0xMDQwNjczODk3LC0yMDM2NzUwNTY2LC0yMzAwNDA2MD
-QsLTE5MDEyODM1MjEsNDA4NzM1ODU0LC0xMjAxOTAyNjYxLC0x
-MDQ1NTQ0MTY3XX0=
+eyJoaXN0b3J5IjpbLTEzOTM2Njk2NDUsLTQxMTYwNjA2MiwxNT
+c4MTQ2NzgxLDE3NDA1MDU0MywtMTc1MTYyMzc1MywxMDI1Mzc2
+ODU1LC02NDUzMTUxNzYsMTgxNjE3ODIwNSwtMTgwMDg5MTIwMC
+wxMzMzMjg1MzUxLDE0MTA1ODc3MjQsMTk3MjAyMDcwNiwxMjY0
+ODY5ODQsLTEwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLTIzMDA0MD
+YwNCwtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEs
+LTEwNDU1NDQxNjddfQ==
 -->
