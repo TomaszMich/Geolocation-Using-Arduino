@@ -41,16 +41,16 @@ Jakub Włostowski:
 W nawiasie podana osoba odpowiedzialna za produkt.
 
 - iteracja początkowa
--- wizja (Tomasz Michalski, Jakub Włostowski)
--- lista zagrożeń (Jakub Włostowski)
- -- kontekst biznesowy (Tomasz Michalski)
- -- plan wytwarzania oprogramowania (Tomasz Michalski)
- -- model przypadków użycia (Jakub Włostowski)
+	- wizja (Tomasz Michalski, Jakub Włostowski)
+	- lista zagrożeń (Jakub Włostowski)
+	 - kontekst biznesowy (Tomasz Michalski)
+	 - plan wytwarzania oprogramowania (Tomasz Michalski)
+	 - model przypadków użycia (Jakub Włostowski)
 - druga iteracja początkowa
--- repozytorium projektu (Tomasz Michalski)
- -- narzędzia (Jakub Włostowski)
--- Prototyp/model interfejsu użytkownika (Jakub Włostowski)
--- Struktura informacji UI (Tomasz Michalski)
+	- repozytorium projektu (Tomasz Michalski)
+	 - narzędzia (Jakub Włostowski)
+	- Prototyp/model interfejsu użytkownika (Jakub Włostowski)
+	- Struktura informacji UI (Tomasz Michalski)
 #### Faza opracowania (Elaboration phase)
 - opracowanie nr 1
  -- plan iteracji (Jakub Włostowski)
@@ -121,11 +121,11 @@ Rozpoczęcie prac - 01.07.2020
 Zakończenie prac - 01.12.2020
 Później utrzymanie i naprawa błędów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTYwNjA2MiwxNTc4MTQ2NzgxLDE3ND
-A1MDU0MywtMTc1MTYyMzc1MywxMDI1Mzc2ODU1LC02NDUzMTUx
-NzYsMTgxNjE3ODIwNSwtMTgwMDg5MTIwMCwxMzMzMjg1MzUxLD
-E0MTA1ODc3MjQsMTk3MjAyMDcwNiwxMjY0ODY5ODQsLTEwNDA2
-NzM4OTcsLTIwMzY3NTA1NjYsLTIzMDA0MDYwNCwtMTkwMTI4Mz
-UyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEwNDU1NDQxNjcs
-LTUzNzcxNDg5MF19
+eyJoaXN0b3J5IjpbMzA3MzcwNjEsLTQxMTYwNjA2MiwxNTc4MT
+Q2NzgxLDE3NDA1MDU0MywtMTc1MTYyMzc1MywxMDI1Mzc2ODU1
+LC02NDUzMTUxNzYsMTgxNjE3ODIwNSwtMTgwMDg5MTIwMCwxMz
+MzMjg1MzUxLDE0MTA1ODc3MjQsMTk3MjAyMDcwNiwxMjY0ODY5
+ODQsLTEwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLTIzMDA0MDYwNC
+wtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEw
+NDU1NDQxNjddfQ==
 -->
