@@ -53,45 +53,43 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 	- Struktura informacji UI (Tomasz Michalski)
 #### Faza opracowania (Elaboration phase)
 - opracowanie nr 1
- -- plan iteracji (Jakub Włostowski)
-  -- model analityczny, projektowy, danych (Tomasz Michalski)
- -- definicja architektury oprogramowania (Tomasz Michalski)
-  -- model implementacyjny  (Jakub Włostowski)
-  -- definicja architektury oprogramowania (Tomasz Michalski)
-    -- przypadki i skrypty testowe (Jakub Włostowski)
- -- aktualizacja i rozwój artefaktów z fazy Inception (Tomasz Michalski, Jakub Włostowski)
+	 - plan iteracji (Jakub Włostowski)
+	  - model analityczny, projektowy, danych (Tomasz Michalski)
+	 - definicja architektury oprogramowania (Tomasz Michalski)
+	  - model implementacyjny  (Jakub Włostowski)
+	  - definicja architektury oprogramowania (Tomasz Michalski)
+	   - przypadki i skrypty testowe (Jakub Włostowski)
+	 - aktualizacja i rozwój artefaktów z fazy Inception (Tomasz Michalski, Jakub Włostowski)
 
 - opracowanie nr 2
- -- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
+	 - aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 
 
 #### Faza konstrukcji (Construction phase)
 - konstrukcja nr 1
- -- plan iteracji (Tomasz Michalski)
-  -- model analityczny, projektowy, danych (Jakub Włostowski)
- (Jakub Włostowski)
- -- komponenty (Tomasz Michalski)
- -- produkt (Tomasz Michalski)
- -- plan wdrożenia (Jakub Włostowski)
--- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration (Tomasz Michalski, Jakub Włostowski)
+	 - plan iteracji (Tomasz Michalski)
+	  - model analityczny, projektowy, danych (Jakub Włostowski)
+	 - komponenty (Tomasz Michalski)
+	 - produkt (Tomasz Michalski)
+	 - plan wdrożenia (Jakub Włostowski)
+	- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration (Tomasz Michalski, Jakub Włostowski)
 - konstrukcja nr 2
- -- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
+	 - aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 - konstrukcja nr 3
--- aktualizacja i rozwój artefaktów z iteracji drugiej (Tomasz Michalski, Jakub Włostowski)
+	- aktualizacja i rozwój artefaktów z iteracji drugiej (Tomasz Michalski, Jakub Włostowski)
 
 #### Faza przekazania systemu (Transition phase)
 - przekazanie nr 1
- -- plan iteracji
- (Tomasz Michalski)
- -- plan wdrożenia (Tomasz Michalski)
- -- zestaw wdrożeniowy (Jakub Włostowski)
- -- pakiet produktu (Jakub Włostowski)
- -- materiały wspomagające użytkowników (Tomasz Michalski)
- -- aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction (Tomasz Michalski, Jakub Włostowski)
+	 - plan iteracji (Tomasz Michalski)
+	 - plan wdrożenia (Tomasz Michalski)
+	 - zestaw wdrożeniowy (Jakub Włostowski)
+	 - pakiet produktu (Jakub Włostowski)
+	 - materiały wspomagające użytkowników (Tomasz Michalski)
+	 - aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction (Tomasz Michalski, Jakub Włostowski)
 - przekazanie nr 2
- -- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
+	 - aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 - przekazanie nr 3
- -- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
+	 - aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 ### Wydania
  Co tydzień nowy Release Candidate, a co trzy tygodnie nowe  wydanie 
  - wydanie produkcyjne 1 - 01.08.2020
@@ -121,11 +119,11 @@ Rozpoczęcie prac - 01.07.2020
 Zakończenie prac - 01.12.2020
 Później utrzymanie i naprawa błędów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3MzcwNjEsLTQxMTYwNjA2MiwxNTc4MT
-Q2NzgxLDE3NDA1MDU0MywtMTc1MTYyMzc1MywxMDI1Mzc2ODU1
-LC02NDUzMTUxNzYsMTgxNjE3ODIwNSwtMTgwMDg5MTIwMCwxMz
-MzMjg1MzUxLDE0MTA1ODc3MjQsMTk3MjAyMDcwNiwxMjY0ODY5
-ODQsLTEwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLTIzMDA0MDYwNC
-wtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEsLTEw
-NDU1NDQxNjddfQ==
+eyJoaXN0b3J5IjpbMTU1ODI1OTAwNSwtNDExNjA2MDYyLDE1Nz
+gxNDY3ODEsMTc0MDUwNTQzLC0xNzUxNjIzNzUzLDEwMjUzNzY4
+NTUsLTY0NTMxNTE3NiwxODE2MTc4MjA1LC0xODAwODkxMjAwLD
+EzMzMyODUzNTEsMTQxMDU4NzcyNCwxOTcyMDIwNzA2LDEyNjQ4
+Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1MDU2NiwtMjMwMDQwNj
+A0LC0xOTAxMjgzNTIxLDQwODczNTg1NCwtMTIwMTkwMjY2MSwt
+MTA0NTU0NDE2N119
 -->
