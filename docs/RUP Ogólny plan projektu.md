@@ -72,29 +72,30 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 	- plan iteracji (Tomasz Michalski)
 	- model analityczny, projektowy, danych (Jakub Włostowski)
 	- komponenty (Tomasz Michalski)
-	 - produkt (Tomasz Michalski)
-	 - plan wdrożenia (Jakub Włostowski)
+	- produkt (Tomasz Michalski)
+	- plan wdrożenia (Jakub Włostowski)
 	- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration (Tomasz Michalski, Jakub Włostowski)
 - konstrukcja nr 2
-	 - aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
+	- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 - konstrukcja nr 3
 	- aktualizacja i rozwój artefaktów z iteracji drugiej (Tomasz Michalski, Jakub Włostowski)
 
 #### Faza przekazania systemu (Transition phase)
 - przekazanie nr 1
-	 - plan iteracji (Tomasz Michalski)
-	 - plan wdrożenia (Tomasz Michalski)
-	 - zestaw wdrożeniowy (Jakub Włostowski)
-	 - pakiet produktu (Jakub Włostowski)
-	 - materiały wspomagające użytkowników (Tomasz Michalski)
-	 - aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction (Tomasz Michalski, Jakub Włostowski)
+	- plan iteracji (Tomasz Michalski)
+	- plan wdrożenia (Tomasz Michalski)
+	- zestaw wdrożeniowy (Jakub Włostowski)
+	- pakiet produktu (Jakub Włostowski)
+	- materiały wspomagające użytkowników (Tomasz Michalski)
+	- aktualizacja i rozwój artefaktów z fazy Inception, Elaboration i Construction (Tomasz Michalski, Jakub Włostowski)
 - przekazanie nr 2
-	 - aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
+	- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 - przekazanie nr 3
-	 - aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
+	- aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
 ### Wydania
- Co tydzień nowy Release Candidate, a co trzy tygodnie nowe  wydanie 
- - wydanie produkcyjne 1 - 01.08.2020
+ Co tydzień nowy Release Candidate, a co trzy tygodnie nowe wydanie
+  
+- wydanie produkcyjne 1 - 01.08.2020
 - wydanie produkcyjne 2 - 22.08.2020
 - ...
 - Finalny produkt 1.0 - 06.12.2020
@@ -119,13 +120,14 @@ Rozpoczęcie prac - 01.07.2020
 - Iteracja 3 -- 16-30.11.2020
 
 Zakończenie prac - 01.12.2020
+
 Później utrzymanie i naprawa błędów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODI3MzI1MywtMTM5MzY2OTY0NSwtND
-ExNjA2MDYyLDE1NzgxNDY3ODEsMTc0MDUwNTQzLC0xNzUxNjIz
-NzUzLDEwMjUzNzY4NTUsLTY0NTMxNTE3NiwxODE2MTc4MjA1LC
-0xODAwODkxMjAwLDEzMzMyODUzNTEsMTQxMDU4NzcyNCwxOTcy
-MDIwNzA2LDEyNjQ4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1MD
-U2NiwtMjMwMDQwNjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NCwt
-MTIwMTkwMjY2MV19
+eyJoaXN0b3J5IjpbLTE0NTYxMjA1MjcsLTEzOTM2Njk2NDUsLT
+QxMTYwNjA2MiwxNTc4MTQ2NzgxLDE3NDA1MDU0MywtMTc1MTYy
+Mzc1MywxMDI1Mzc2ODU1LC02NDUzMTUxNzYsMTgxNjE3ODIwNS
+wtMTgwMDg5MTIwMCwxMzMzMjg1MzUxLDE0MTA1ODc3MjQsMTk3
+MjAyMDcwNiwxMjY0ODY5ODQsLTEwNDA2NzM4OTcsLTIwMzY3NT
+A1NjYsLTIzMDA0MDYwNCwtMTkwMTI4MzUyMSw0MDg3MzU4NTQs
+LTEyMDE5MDI2NjFdfQ==
 -->
