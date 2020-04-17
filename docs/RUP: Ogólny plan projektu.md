@@ -1,4 +1,4 @@
-RUP Ogólny plan projektu
+# 1. RUP: Ogólny plan projektu
 
 ## O projekcie
 
