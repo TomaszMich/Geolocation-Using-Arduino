@@ -20,6 +20,7 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 Obsada poszczególnych ról w zespole:
 
 Tomasz Michalski:
+
 - kierownik projektu
 - programista
 - projektant
@@ -28,6 +29,7 @@ Tomasz Michalski:
 - kontroler jakości
 
 Jakub Włostowski:
+
 - architekt oprogramowania
 - programista
 - projektant
@@ -43,23 +45,23 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 - iteracja początkowa
 	- wizja (Tomasz Michalski, Jakub Włostowski)
 	- lista zagrożeń (Jakub Włostowski)
-	 - kontekst biznesowy (Tomasz Michalski)
-	 - plan wytwarzania oprogramowania (Tomasz Michalski)
-	 - model przypadków użycia (Jakub Włostowski)
+	- kontekst biznesowy (Tomasz Michalski)
+	- plan wytwarzania oprogramowania (Tomasz Michalski)
+	- model przypadków użycia (Jakub Włostowski)
 - druga iteracja początkowa
 	- repozytorium projektu (Tomasz Michalski)
-	 - narzędzia (Jakub Włostowski)
+	- narzędzia (Jakub Włostowski)
 	- Prototyp/model interfejsu użytkownika (Jakub Włostowski)
 	- Struktura informacji UI (Tomasz Michalski)
 #### Faza opracowania (Elaboration phase)
 - opracowanie nr 1
-	 - plan iteracji (Jakub Włostowski)
-	  - model analityczny, projektowy, danych (Tomasz Michalski)
-	 - definicja architektury oprogramowania (Tomasz Michalski)
-	  - model implementacyjny  (Jakub Włostowski)
-	  - definicja architektury oprogramowania (Tomasz Michalski)
+	- plan iteracji (Jakub Włostowski)
+	- model analityczny, projektowy, danych (Tomasz Michalski)
+	- definicja architektury oprogramowania (Tomasz Michalski)
+	- model implementacyjny  (Jakub Włostowski)
+	- definicja architektury oprogramowania (Tomasz Michalski)
 	- przypadki i skrypty testowe (Jakub Włostowski)
-	 - aktualizacja i rozwój artefaktów z fazy Inception (Tomasz Michalski, Jakub Włostowski)
+	- aktualizacja i rozwój artefaktów z fazy Inception (Tomasz Michalski, Jakub Włostowski)
 
 - opracowanie nr 2
 	 - aktualizacja i rozwój artefaktów z iteracji pierwszej (Tomasz Michalski, Jakub Włostowski)
@@ -67,9 +69,9 @@ W nawiasie podana osoba odpowiedzialna za produkt.
 
 #### Faza konstrukcji (Construction phase)
 - konstrukcja nr 1
-	 - plan iteracji (Tomasz Michalski)
-	  - model analityczny, projektowy, danych (Jakub Włostowski)
-	 - komponenty (Tomasz Michalski)
+	- plan iteracji (Tomasz Michalski)
+	- model analityczny, projektowy, danych (Jakub Włostowski)
+	- komponenty (Tomasz Michalski)
 	 - produkt (Tomasz Michalski)
 	 - plan wdrożenia (Jakub Włostowski)
 	- aktualizacja i rozwój artefaktów z fazy Inception i Elaboration (Tomasz Michalski, Jakub Włostowski)
@@ -119,11 +121,11 @@ Rozpoczęcie prac - 01.07.2020
 Zakończenie prac - 01.12.2020
 Później utrzymanie i naprawa błędów.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM2Njk2NDUsLTQxMTYwNjA2MiwxNT
-c4MTQ2NzgxLDE3NDA1MDU0MywtMTc1MTYyMzc1MywxMDI1Mzc2
-ODU1LC02NDUzMTUxNzYsMTgxNjE3ODIwNSwtMTgwMDg5MTIwMC
-wxMzMzMjg1MzUxLDE0MTA1ODc3MjQsMTk3MjAyMDcwNiwxMjY0
-ODY5ODQsLTEwNDA2NzM4OTcsLTIwMzY3NTA1NjYsLTIzMDA0MD
-YwNCwtMTkwMTI4MzUyMSw0MDg3MzU4NTQsLTEyMDE5MDI2NjEs
-LTEwNDU1NDQxNjddfQ==
+eyJoaXN0b3J5IjpbLTQ3ODI3MzI1MywtMTM5MzY2OTY0NSwtND
+ExNjA2MDYyLDE1NzgxNDY3ODEsMTc0MDUwNTQzLC0xNzUxNjIz
+NzUzLDEwMjUzNzY4NTUsLTY0NTMxNTE3NiwxODE2MTc4MjA1LC
+0xODAwODkxMjAwLDEzMzMyODUzNTEsMTQxMDU4NzcyNCwxOTcy
+MDIwNzA2LDEyNjQ4Njk4NCwtMTA0MDY3Mzg5NywtMjAzNjc1MD
+U2NiwtMjMwMDQwNjA0LC0xOTAxMjgzNTIxLDQwODczNTg1NCwt
+MTIwMTkwMjY2MV19
 -->
