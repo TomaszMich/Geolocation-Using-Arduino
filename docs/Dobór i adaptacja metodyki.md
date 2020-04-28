@@ -12,8 +12,8 @@ Projekt będzie realizowany w grupie 3-osobowej, a więc ze względu na rozmiar 
 
 ### Krytyczność
 
-
+Straty na skutek defektów urządzenia Ardui
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY3ODkyNjYsOTk5NDUxNCwtODY0Mz
-gzNzgyXX0=
+eyJoaXN0b3J5IjpbLTMwNTkzMDgyNiwtMTkzNjc4OTI2Niw5OT
+k0NTE0LC04NjQzODM3ODJdfQ==
 -->
