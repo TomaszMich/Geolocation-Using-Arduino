@@ -23,10 +23,12 @@ Wymagania w naszym projekcie nie będą się zmieniały zbyt często i będą ra
 
 ### Kultura
 
-Osoby
+Osoby w zespole są skłonne do porządku w specyfikacjach i wymaganiach.
+
+Biorąc pod uwagę powyższe kryteriac 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzgzMzYwMTAsLTExNjc3NzY0LC0xOT
-M2Nzg5MjY2LDk5OTQ1MTQsLTg2NDM4Mzc4Ml19
+eyJoaXN0b3J5IjpbMTc3MTg5MzU5NCwtMTE2Nzc3NjQsLTE5Mz
+Y3ODkyNjYsOTk5NDUxNCwtODY0MzgzNzgyXX0=
 -->
