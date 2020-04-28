@@ -8,7 +8,9 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 
 ### Rozmiar realizowanego projektu
 
-Projekt będzie realizowany w grupie 3-osobowej, a więc ze względu na rozmiar zespołu odpowiedniejsza będzie 
+Projekt będzie realizowany w grupie 3-osobowej, a więc ze względu na rozmiar zespołu odpowiedniejsza będzie metodyka zwinna.
+
+### Krytyczność
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1MzIzMjk1LC04NjQzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbOTk5NDUxNCwtODY0MzgzNzgyXX0=
 -->
