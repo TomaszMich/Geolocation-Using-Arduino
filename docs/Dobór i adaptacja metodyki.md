@@ -43,9 +43,23 @@ Biorąc pod uwagę powyższe kryteria oceny naszego projektu nadaje się on bard
 
 #### Relacja z klientem
 
-#### Plano
+#### Planowanie i nadzorowanie
+
+#### Komunikacja
+
+### Techniczne
+
+#### Wymagania
+
+#### Wytwarzanie
+
+#### Testowanie
+
+### Osoby
+
+#### Klien
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyMTU4Nzk3LDIyNTM5MjU2NiwxNzQzMD
-Q2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYs
-OTk5NDUxNCwtODY0MzgzNzgyXX0=
+eyJoaXN0b3J5IjpbMTMzNzcxNzgxNCwyMjUzOTI1NjYsMTc0Mz
+A0NjYxNiwtMzE3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2
+LDk5OTQ1MTQsLTg2NDM4Mzc4Ml19
 -->
