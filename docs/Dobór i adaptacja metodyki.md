@@ -12,8 +12,8 @@ Projekt będzie realizowany w grupie 3-osobowej, a więc ze względu na rozmiar 
 
 ### Krytyczność
 
-Straty na skutek defektów urządzenia Ard
+Straty na skutek defektów działania urządzenia wpływają na kluczowe fundusze, ponieważ będziemy mieć do dyspozycji tylko jedno urządzenie Arduino.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjkwMTgzNCwtMTkzNjc4OTI2Niw5OT
+eyJoaXN0b3J5IjpbLTIzMzc1OTcwNywtMTkzNjc4OTI2Niw5OT
 k0NTE0LC04NjQzODM3ODJdfQ==
 -->
