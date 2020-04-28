@@ -57,8 +57,10 @@ Jawna, udokumentowana wiedza.
 #### Wymagania
 
 #### Wytwarzanie
+Prosty projekt, krótkie przyrosty, refaktoryzacja z założenia możliwa i tania.
 
 #### Testowanie
+Wykonywalne testy definiują wymagania.
 
 ### Osoby
 
@@ -68,7 +70,7 @@ Jawna, udokumentowana wiedza.
 
 #### Kultura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDAxOTc3LC0xNTk0MDM0ODAwLDIyNT
+eyJoaXN0b3J5IjpbMTk0NDM4ODEwLC0xNTk0MDM0ODAwLDIyNT
 M5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQs
 LTE5MzY3ODkyNjYsOTk5NDUxNCwtODY0MzgzNzgyXX0=
 -->
