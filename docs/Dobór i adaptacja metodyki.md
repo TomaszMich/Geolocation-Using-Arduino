@@ -18,10 +18,15 @@ Straty na skutek defektów działania urządzenia wpływają na kluczowe fundusz
 
 Wymagania w naszym projekcie nie będą się zmieniały zbyt często i będą raczej z góry ustalone przed rozpoczęciem prac implementacyjnych.
 
-### Osoby i kultura
+### Osoby 
+
+
+### Kultura
+
+Osoby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OT
-Q1MTQsLTg2NDM4Mzc4Ml19
+eyJoaXN0b3J5IjpbLTEwMzgzMzYwMTAsLTExNjc3NzY0LC0xOT
+M2Nzg5MjY2LDk5OTQ1MTQsLTg2NDM4Mzc4Ml19
 -->
