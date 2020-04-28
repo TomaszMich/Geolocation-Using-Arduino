@@ -35,7 +35,9 @@ Biorąc pod uwagę powyższe kryteria oceny naszego projektu nadaje się on bard
 
 #### Główne cele
 
+
 #### Rozmiar
+Mały zespół 3-osobowy
 
 ####  Środowisko
 
@@ -57,9 +59,13 @@ Biorąc pod uwagę powyższe kryteria oceny naszego projektu nadaje się on bard
 
 ### Osoby
 
-#### Klien
+#### Klient
+
+#### Wykonawcy 
+
+#### Kultura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzcxNzgxNCwyMjUzOTI1NjYsMTc0Mz
-A0NjYxNiwtMzE3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2
-LDk5OTQ1MTQsLTg2NDM4Mzc4Ml19
+eyJoaXN0b3J5IjpbLTExNjcwMTY1OTQsMjI1MzkyNTY2LDE3ND
+MwNDY2MTYsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2
+Niw5OTk0NTE0LC04NjQzODM3ODJdfQ==
 -->
