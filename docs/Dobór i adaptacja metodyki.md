@@ -31,9 +31,21 @@ Biorąc pod uwagę powyższe kryteria oceny naszego projektu nadaje się on bard
 
 ## Ocena według modelu pełnego
 
+### Zastosowanie
 
+#### Główne cele
+
+#### Rozmiar
+
+####  Środowisko
+
+### Zarządzanie
+
+#### Relacja z klientem
+
+#### Plano
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MzkyNTY2LDE3NDMwNDY2MTYsLTMxNz
-g2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OTk0NTE0LC04
-NjQzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbMzYyMTU4Nzk3LDIyNTM5MjU2NiwxNzQzMD
+Q2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYs
+OTk5NDUxNCwtODY0MzgzNzgyXX0=
 -->
