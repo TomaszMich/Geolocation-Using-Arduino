@@ -45,11 +45,12 @@ Stabilne i wolnozmienne.
 ### Zarządzanie
 
 #### Relacja z klientem
-
+Klient wyznaczony na miejscu, bez przeprowadzania spotkań.
 
 #### Planowanie i nadzorowanie
 
 #### Komunikacja
+Jawna, udokumentowana wiedza.
 
 ### Techniczne
 
@@ -67,7 +68,7 @@ Stabilne i wolnozmienne.
 
 #### Kultura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQwMzQ4MDAsMjI1MzkyNTY2LDE3ND
-MwNDY2MTYsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2
-Niw5OTk0NTE0LC04NjQzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbMTA1NDAxOTc3LC0xNTk0MDM0ODAwLDIyNT
+M5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQs
+LTE5MzY3ODkyNjYsOTk5NDUxNCwtODY0MzgzNzgyXX0=
 -->
