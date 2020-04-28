@@ -27,10 +27,11 @@ Osoby w zespole są skłonne do porządku w specyfikacjach i wymaganiach.
 
 
 
-Biorąc pod uwagę powyższe kryteria oceny naszego projektu nadaje się on bardziej pod metodyki sterowane planem, w głównej mierze dlatego, że wymagania nie będą się zmieniać prawie wcale 
+Biorąc pod uwagę powyższe kryteria oceny naszego projektu nadaje się on bardziej pod metodyki sterowane planem, w głównej mierze dlatego, że wymagania nie będą się zmieniać prawie wcale, a ze względu na straty mogą ucierpieć kluczowe fundusze. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNj
-c4OTI2Niw5OTk0NTE0LC04NjQzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbMTc0MzA0NjYxNiwtMzE3ODY2ODEsLTExNj
+c3NzY0LC0xOTM2Nzg5MjY2LDk5OTQ1MTQsLTg2NDM4Mzc4Ml19
+
 -->
