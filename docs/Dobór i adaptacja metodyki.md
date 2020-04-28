@@ -69,8 +69,9 @@ Wykonywalne testy definiują wymagania.
 #### Wykonawcy 
 
 #### Kultura
+Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDM4ODEwLC0xNTk0MDM0ODAwLDIyNT
-M5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQs
-LTE5MzY3ODkyNjYsOTk5NDUxNCwtODY0MzgzNzgyXX0=
+eyJoaXN0b3J5IjpbLTE0NjQ1MjQ2NjUsLTE1OTQwMzQ4MDAsMj
+I1MzkyNTY2LDE3NDMwNDY2MTYsLTMxNzg2NjgxLC0xMTY3Nzc2
+NCwtMTkzNjc4OTI2Niw5OTk0NTE0LC04NjQzODM3ODJdfQ==
 -->
