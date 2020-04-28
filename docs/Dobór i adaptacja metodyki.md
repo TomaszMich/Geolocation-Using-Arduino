@@ -16,8 +16,8 @@ Straty na skutek defektów działania urządzenia wpływają na kluczowe fundusz
 
 ### Dynamika
 
-
+Wymagania w naszym projekcie nie będą się zmieniały zbyt często i będą raczej z góry ustalone przed rozpoczęciem prac implementacyjnyc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTk0MDMyNiwtMTkzNjc4OTI2Niw5OT
-k0NTE0LC04NjQzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbLTE4OTQ3ODgzMjIsLTE5MzY3ODkyNjYsOT
+k5NDUxNCwtODY0MzgzNzgyXX0=
 -->
