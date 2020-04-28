@@ -37,13 +37,15 @@ Biorąc pod uwagę powyższe kryteria oceny naszego projektu nadaje się on bard
 
 
 #### Rozmiar
-Mały zespół 3-osobowy
+Mały zespół 3-osobowy.
 
 ####  Środowisko
+Stabilne i wolnozmienne.
 
 ### Zarządzanie
 
 #### Relacja z klientem
+
 
 #### Planowanie i nadzorowanie
 
@@ -65,7 +67,7 @@ Mały zespół 3-osobowy
 
 #### Kultura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjcwMTY1OTQsMjI1MzkyNTY2LDE3ND
+eyJoaXN0b3J5IjpbLTE1OTQwMzQ4MDAsMjI1MzkyNTY2LDE3ND
 MwNDY2MTYsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2
 Niw5OTk0NTE0LC04NjQzODM3ODJdfQ==
 -->
