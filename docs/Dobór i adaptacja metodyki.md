@@ -68,7 +68,7 @@ Wykonywalne testy definiują wymagania.
 ### Osoby
 
 #### Klient
-
+Dostępny przez cały czas, 
 #### Wykonawcy 
 Wszyscy wykonawcy średnio-zaawansowani, mało doświadczeni w rozwoju projektu od zera.
 
@@ -77,7 +77,7 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDYxNjI4MiwyMTExOTE2NjcyLC0xND
+eyJoaXN0b3J5IjpbMTY0NzkzNzU3NywyMTExOTE2NjcyLC0xND
 Y0NTI0NjY1LC0xNTk0MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2
 NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOT
 k5NDUxNCwtODY0MzgzNzgyXX0=
