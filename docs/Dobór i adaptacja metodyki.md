@@ -70,15 +70,15 @@ Wykonywalne testy definiują wymagania.
 #### Klient
 
 #### Wykonawcy 
-Wszyscy wyko
+Wszyscy wykonawcy średnio-zaawansowani, mało doświadczeni w rozwoju projektu od zera.
 
 #### Kultura
 Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MjIwNjUsMjExMTkxNjY3MiwtMTQ2ND
-UyNDY2NSwtMTU5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0NjYx
-NiwtMzE3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OT
-Q1MTQsLTg2NDM4Mzc4Ml19
+eyJoaXN0b3J5IjpbLTcxMDYxNjI4MiwyMTExOTE2NjcyLC0xND
+Y0NTI0NjY1LC0xNTk0MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2
+NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOT
+k5NDUxNCwtODY0MzgzNzgyXX0=
 -->
