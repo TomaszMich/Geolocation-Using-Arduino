@@ -49,6 +49,7 @@ Stabilne i wolnozmienne.
 Klient wyznaczony na miejscu, bez przeprowadzania spotkań.
 
 #### Planowanie i nadzorowanie
+Jawnie udokumentowane plany w dokumentacji projektu, dostępne dla każdego 
 
 #### Komunikacja
 Jawna, udokumentowana wiedza.
@@ -75,8 +76,8 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5NDEzOTgwLDIxMTE5MTY2NzIsLTE0Nj
-Q1MjQ2NjUsLTE1OTQwMzQ4MDAsMjI1MzkyNTY2LDE3NDMwNDY2
-MTYsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OT
-k0NTE0LC04NjQzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbMTcwMjYwMzAyOSwyMTExOTE2NjcyLC0xND
+Y0NTI0NjY1LC0xNTk0MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2
+NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOT
+k5NDUxNCwtODY0MzgzNzgyXX0=
 -->
