@@ -49,7 +49,7 @@ Stabilne i wolnozmienne.
 Klient wyznaczony na miejscu, bez przeprowadzania spotkań.
 
 #### Planowanie i nadzorowanie
-Jawnie udokumentowane plany w dokumentacji projektu, dostępne dla każdego 
+Jawnie udokumentowane plany w dokumentacji projektu, dostępne dla każdego wykonawcy projektu w zdalnym repozytorium. Będziemy nadzorować ilość wykonywanych zadań wchodzących w skład projektu.
 
 #### Komunikacja
 Jawna, udokumentowana wiedza.
@@ -70,14 +70,15 @@ Wykonywalne testy definiują wymagania.
 #### Klient
 
 #### Wykonawcy 
+Wszyscy wyko
 
 #### Kultura
 Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjYwMzAyOSwyMTExOTE2NjcyLC0xND
-Y0NTI0NjY1LC0xNTk0MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2
-NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOT
-k5NDUxNCwtODY0MzgzNzgyXX0=
+eyJoaXN0b3J5IjpbNjc0MjIwNjUsMjExMTkxNjY3MiwtMTQ2ND
+UyNDY2NSwtMTU5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0NjYx
+NiwtMzE3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OT
+Q1MTQsLTg2NDM4Mzc4Ml19
 -->
