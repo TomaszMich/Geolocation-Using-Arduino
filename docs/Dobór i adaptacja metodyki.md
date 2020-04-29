@@ -55,6 +55,7 @@ Jawna, udokumentowana wiedza.
 ### Techniczne
 
 #### Wymagania
+Będziemy wykorzystywać sformalizowane wymagania i specyfikacje, ewolucja wymagań będzie raczej przewidywalna i wolnozmienna.
 
 #### Wytwarzanie
 Prosty projekt, krótkie przyrosty, refaktoryzacja z założenia możliwa i tania.
@@ -73,8 +74,8 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTkxNjY3MiwtMTQ2NDUyNDY2NSwtMT
-U5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0NjYxNiwtMzE3ODY2
-ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OTQ1MTQsLTg2ND
-M4Mzc4Ml19
+eyJoaXN0b3J5IjpbLTcxMjU1NDUwMSwyMTExOTE2NjcyLC0xND
+Y0NTI0NjY1LC0xNTk0MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2
+NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOT
+k5NDUxNCwtODY0MzgzNzgyXX0=
 -->
