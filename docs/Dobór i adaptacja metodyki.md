@@ -56,7 +56,7 @@ Jawna, udokumentowana wiedza - metodyka sterowana planem.
 ### Techniczne
 
 #### Wymagania
-Będziemy wykorzystywać sformalizowane wymagania i specyfikacje, ewolucja wymagań będzie raczej przewidywalna i wolnozmienna.
+Będziemy wykorzystywać sformalizowane wymagania i specyfikacje, ewolucja wymagań będzie raczej przewidywalna i wolnozmienna, co jest 
 
 #### Wytwarzanie
 Prosty projekt, krótkie przyrosty, refaktoryzacja z założenia możliwa i tania.
@@ -76,9 +76,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNTMxMjk2LDYxNDYzMzUxNSwtMTUzOT
-U1MjQ2OCwtMTUyNTEzNDYzNywyMTExOTE2NjcyLC0xNDY0NTI0
-NjY1LC0xNTk0MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2NjE2LC
-0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOTk5NDUx
-NCwtODY0MzgzNzgyXX0=
+eyJoaXN0b3J5IjpbMTQ3NjE3NTQzNiwzMDI1MzEyOTYsNjE0Nj
+MzNTE1LC0xNTM5NTUyNDY4LC0xNTI1MTM0NjM3LDIxMTE5MTY2
+NzIsLTE0NjQ1MjQ2NjUsLTE1OTQwMzQ4MDAsMjI1MzkyNTY2LD
+E3NDMwNDY2MTYsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4
+OTI2Niw5OTk0NTE0LC04NjQzODM3ODJdfQ==
 -->
