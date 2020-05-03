@@ -8,7 +8,7 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 
 ### Rozmiar realizowanego projektu
 
-Projekt będzie realizowany w grupie 3-osobowej, a więc ze względu na rozmiar zespołu odpowiedniejsza będzie metodyka zwinna.
+Projekt będzie realizowany w grupie 2-osobowej, a więc ze względu na rozmiar zespołu odpowiedniejsza byłaby metodyka zwinna.
 
 ### Krytyczność
 
@@ -23,7 +23,7 @@ Klient projektu będzie wyznaczony i dostępny od początku trwania prac. Wykona
 
 ### Kultura
 
-Osoby w zespole są skłonne do porządku w specyfikacjach i wymaganiach.
+Osoby w zespole są skłonne do porządku w specyfikacjach i wymaganiach, co jest cechą metodyk sterowanych planem.
 
 
 
@@ -77,7 +77,7 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjM4MjQzMiwtMTUzOTU1MjQ2OCwtMT
+eyJoaXN0b3J5IjpbLTEyMTU4NzAzMCwtMTUzOTU1MjQ2OCwtMT
 UyNTEzNDYzNywyMTExOTE2NjcyLC0xNDY0NTI0NjY1LC0xNTk0
 MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MS
 wtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOTk5NDUxNCwtODY0Mzgz
