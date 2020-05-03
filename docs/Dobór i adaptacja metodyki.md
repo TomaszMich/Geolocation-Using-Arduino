@@ -19,7 +19,7 @@ Straty na skutek defektów działania urządzenia wpływają na kluczowe fundusz
 Wymagania w naszym projekcie będą z góry ustalone przed rozpoczęciem prac implementacyjnych i nie planuje się rozszerzania zakresu prac w trakcie realizacji. Sugeruje to użycie metodyki sterowanej planem.
 
 ### Osoby 
-Klient projektu będzie wyznaczony i dostępny od początku trwania prac
+Klient projektu będzie wyznaczony i dostępny od początku trwania prac. Wykonawcy nie są ekspertami poziomu 3, a raczej niższych poziomów, co wskazywałoby na użycie metodyki zwinnej.
 
 ### Kultura
 
@@ -77,9 +77,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyODU4NDA5LC0xNTM5NTUyNDY4LC0xNT
-I1MTM0NjM3LDIxMTE5MTY2NzIsLTE0NjQ1MjQ2NjUsLTE1OTQw
-MzQ4MDAsMjI1MzkyNTY2LDE3NDMwNDY2MTYsLTMxNzg2NjgxLC
-0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OTk0NTE0LC04NjQzODM3
-ODJdfQ==
+eyJoaXN0b3J5IjpbMTg2NjM4MjQzMiwtMTUzOTU1MjQ2OCwtMT
+UyNTEzNDYzNywyMTExOTE2NjcyLC0xNDY0NTI0NjY1LC0xNTk0
+MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MS
+wtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOTk5NDUxNCwtODY0Mzgz
+NzgyXX0=
 -->
