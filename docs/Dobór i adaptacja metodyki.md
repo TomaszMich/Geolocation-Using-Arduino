@@ -33,11 +33,10 @@ Biorąc pod uwagę powyższe kryteria oceny naszego projektu, pasuje on bardziej
 ### Zastosowanie
 
 #### Główne cele
-Przewidywalność i stabilność projektu, niewiele zmian w trakcie implementacji, sugeruje użycie metodyki sterewanej planem/
-
+Przewidywalność i stabilność projektu, niewiele zmian w trakcie implementacji, sugeruje użycie metodyki sterowanej planem.
 
 #### Rozmiar
-Mały zespół 3-osobowy.
+Mały dwuosobowy zespół realizujący mały projekt, a więc "podwórko" metodyki zwinnej.
 
 ####  Środowisko
 Stabilne i wolnozmienne.
@@ -76,9 +75,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI5ODAzMDQsNjE0NjMzNTE1LC0xNT
-M5NTUyNDY4LC0xNTI1MTM0NjM3LDIxMTE5MTY2NzIsLTE0NjQ1
-MjQ2NjUsLTE1OTQwMzQ4MDAsMjI1MzkyNTY2LDE3NDMwNDY2MT
-YsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OTk0
-NTE0LC04NjQzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbMjg2Mzk2Nyw2MTQ2MzM1MTUsLTE1Mzk1NT
+I0NjgsLTE1MjUxMzQ2MzcsMjExMTkxNjY3MiwtMTQ2NDUyNDY2
+NSwtMTU5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0NjYxNiwtMz
+E3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OTQ1MTQs
+LTg2NDM4Mzc4Ml19
 -->
