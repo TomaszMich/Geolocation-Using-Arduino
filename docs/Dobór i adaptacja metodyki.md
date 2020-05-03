@@ -69,14 +69,14 @@ Wykonywalne testy definiują wymagania - "podwórko" metodyki zwinnej.
 #### Klient
 Dostępny przez cały czas. Co to CRACK?
 #### Wykonawcy 
-Wszyscy wykonawcy średnio-zaawansowani, mało doświadczeni w rozwoju projektu od zera, obecni przez cały czas trwania projektu.
+Wszyscy wykonawcy średnio-zaawansowani, mało doświadczeni w rozwoju projektu od zera, obecni przez cały czas trwania projektu. Cecha nie pasuje idealnie do żadnej z metodyk.
 
 #### Kultura
-Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
+Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku), a więc cecha metodyki sterowanej .
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDk2OTYxMSw4MDgxNDMzOTQsMzAyNT
+eyJoaXN0b3J5IjpbLTY2OTUwOTgxMSw4MDgxNDMzOTQsMzAyNT
 MxMjk2LDYxNDYzMzUxNSwtMTUzOTU1MjQ2OCwtMTUyNTEzNDYz
 NywyMTExOTE2NjcyLC0xNDY0NTI0NjY1LC0xNTk0MDM0ODAwLD
 IyNTM5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3
