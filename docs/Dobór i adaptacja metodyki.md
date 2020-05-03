@@ -67,18 +67,18 @@ Wykonywalne testy definiują wymagania - "podwórko" metodyki zwinnej.
 ### Osoby
 
 #### Klient
-Dostępny przez cały czas.
+Dostępny przez cały czas. Co to CRACK?
 #### Wykonawcy 
-Wszyscy wykonawcy średnio-zaawansowani, mało doświadczeni w rozwoju projektu od zera.
+Wszyscy wykonawcy średnio-zaawansowani, mało doświadczeni w rozwoju projektu od zera, obecni przez cały czas trwania projektu.
 
 #### Kultura
 Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4MTQzMzk0LDMwMjUzMTI5Niw2MTQ2Mz
-M1MTUsLTE1Mzk1NTI0NjgsLTE1MjUxMzQ2MzcsMjExMTkxNjY3
-MiwtMTQ2NDUyNDY2NSwtMTU5NDAzNDgwMCwyMjUzOTI1NjYsMT
-c0MzA0NjYxNiwtMzE3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5
-MjY2LDk5OTQ1MTQsLTg2NDM4Mzc4Ml19
+eyJoaXN0b3J5IjpbLTg2NDk2OTYxMSw4MDgxNDMzOTQsMzAyNT
+MxMjk2LDYxNDYzMzUxNSwtMTUzOTU1MjQ2OCwtMTUyNTEzNDYz
+NywyMTExOTE2NjcyLC0xNDY0NTI0NjY1LC0xNTk0MDM0ODAwLD
+IyNTM5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3
+NjQsLTE5MzY3ODkyNjYsOTk5NDUxNCwtODY0MzgzNzgyXX0=
 -->
