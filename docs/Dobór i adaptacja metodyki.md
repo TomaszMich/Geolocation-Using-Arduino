@@ -51,7 +51,7 @@ Cechy zarówno metodyki zwinnej, jak i sterowanej planem.
 Jawnie udokumentowane plany projektu, dostępne dla każdego wykonawcy projektu w zdalnym repozytorium. Będziemy stosować nadzór ilościowy, a więc jest to "podwórko" metodyki sterowanej planem.
 
 #### Komunikacja
-Jawna, udokumentowana wiedza.
+Jawna, udokumentowana wiedza - metodyka sterowana planem.
 
 ### Techniczne
 
@@ -76,9 +76,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE2NDUwNTQsNjE0NjMzNTE1LC0xNT
-M5NTUyNDY4LC0xNTI1MTM0NjM3LDIxMTE5MTY2NzIsLTE0NjQ1
-MjQ2NjUsLTE1OTQwMzQ4MDAsMjI1MzkyNTY2LDE3NDMwNDY2MT
-YsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OTk0
-NTE0LC04NjQzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbMzAyNTMxMjk2LDYxNDYzMzUxNSwtMTUzOT
+U1MjQ2OCwtMTUyNTEzNDYzNywyMTExOTE2NjcyLC0xNDY0NTI0
+NjY1LC0xNTk0MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2NjE2LC
+0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOTk5NDUx
+NCwtODY0MzgzNzgyXX0=
 -->
