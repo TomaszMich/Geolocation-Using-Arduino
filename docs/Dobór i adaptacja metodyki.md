@@ -75,8 +75,9 @@ Wszyscy wykonawcy średnio-zaawansowani, mało doświadczeni w rozwoju projektu 
 Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku), a więc cecha metodyki sterowanej planem.
 
 ## Metodyka i jej adaptacja
+Biorąc pod uwagę sugestię metodyk z oceny według modelu uproszczonego, jak i pełnego, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyOTA1ODIwLDgwODE0MzM5NCwzMDI1Mz
+eyJoaXN0b3J5IjpbNzY5MDEwODY3LDgwODE0MzM5NCwzMDI1Mz
 EyOTYsNjE0NjMzNTE1LC0xNTM5NTUyNDY4LC0xNTI1MTM0NjM3
 LDIxMTE5MTY2NzIsLTE0NjQ1MjQ2NjUsLTE1OTQwMzQ4MDAsMj
 I1MzkyNTY2LDE3NDMwNDY2MTYsLTMxNzg2NjgxLC0xMTY3Nzc2
