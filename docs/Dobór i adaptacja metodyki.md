@@ -39,7 +39,7 @@ Przewidywalność i stabilność projektu, niewiele zmian w trakcie implementacj
 Mały dwuosobowy zespół realizujący mały projekt, a więc "podwórko" metodyki zwinnej.
 
 ####  Środowisko
-Stabilne i wolnozmienne.
+Zgodne z charakterystyką użycia metodyki sterowanej planem, a więc.
 
 ### Zarządzanie
 
@@ -75,9 +75,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2Mzk2Nyw2MTQ2MzM1MTUsLTE1Mzk1NT
-I0NjgsLTE1MjUxMzQ2MzcsMjExMTkxNjY3MiwtMTQ2NDUyNDY2
-NSwtMTU5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0NjYxNiwtMz
-E3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OTQ1MTQs
-LTg2NDM4Mzc4Ml19
+eyJoaXN0b3J5IjpbNzI1ODk1NzA3LDYxNDYzMzUxNSwtMTUzOT
+U1MjQ2OCwtMTUyNTEzNDYzNywyMTExOTE2NjcyLC0xNDY0NTI0
+NjY1LC0xNTk0MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2NjE2LC
+0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOTk5NDUx
+NCwtODY0MzgzNzgyXX0=
 -->
