@@ -19,7 +19,7 @@ Straty na skutek defektów działania urządzenia wpływają na kluczowe fundusz
 Wymagania w naszym projekcie będą z góry ustalone przed rozpoczęciem prac implementacyjnych i nie planuje się rozszerzania zakresu prac w trakcie realizacji. Sugeruje to użycie metodyki sterowanej planem.
 
 ### Osoby 
-Podczas pracy nad projektem cały czas będą obecne osoby na poziomie 2 i 3, wynika to również z wielkości zespołu. 
+Podczas pracy nad projektem cały czas będą obecne osoby na poziomie 2 i 3, wynika to również z wielkości zespołu. Charakterystyka ta wskazuje na użycie metodyki zwinnej.
 
 ### Kultura
 
@@ -33,7 +33,7 @@ Biorąc pod uwagę powyższe kryteria oceny naszego projektu, pasuje on bardziej
 ### Zastosowanie
 
 #### Główne cele
-Przewidywalność i stabilność projektu, niewiele zmian w trakcie implementacji.
+Przewidywalność i stabilność projektu, niewiele zmian w trakcie implementacji, sugeruje użycie metodyki sterewanej planem/
 
 
 #### Rozmiar
@@ -76,7 +76,7 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU2MTgyMzksNjE0NjMzNTE1LC0xNT
+eyJoaXN0b3J5IjpbLTE5MTI5ODAzMDQsNjE0NjMzNTE1LC0xNT
 M5NTUyNDY4LC0xNTI1MTM0NjM3LDIxMTE5MTY2NzIsLTE0NjQ1
 MjQ2NjUsLTE1OTQwMzQ4MDAsMjI1MzkyNTY2LDE3NDMwNDY2MT
 YsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OTk0
