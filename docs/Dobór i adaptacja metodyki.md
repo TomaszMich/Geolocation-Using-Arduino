@@ -56,13 +56,13 @@ Jawna, udokumentowana wiedza - metodyka sterowana planem.
 ### Techniczne
 
 #### Wymagania
-Będziemy wykorzystywać sformalizowane wymagania i specyfikacje, ewolucja wymagań będzie raczej przewidywalna i wolnozmienna, co jest 
+Będziemy wykorzystywać sformalizowane wymagania i specyfikacje, ewolucja wymagań będzie raczej przewidywalna i wolnozmienna, co sugeruje użycie metodyki sterowanej planem.
 
 #### Wytwarzanie
-Prosty projekt, krótkie przyrosty, refaktoryzacja z założenia możliwa i tania.
+Prosty projekt, krótkie przyrosty, refaktoryzacja z założenia możliwa i tania, co wskazywałoby na metodykę zwinną.
 
 #### Testowanie
-Wykonywalne testy definiują wymagania.
+Wykonywalne testy definiują wymagania - "podwórko" metodyki zwinnej.
 
 ### Osoby
 
@@ -76,9 +76,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjE3NTQzNiwzMDI1MzEyOTYsNjE0Nj
-MzNTE1LC0xNTM5NTUyNDY4LC0xNTI1MTM0NjM3LDIxMTE5MTY2
-NzIsLTE0NjQ1MjQ2NjUsLTE1OTQwMzQ4MDAsMjI1MzkyNTY2LD
-E3NDMwNDY2MTYsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4
-OTI2Niw5OTk0NTE0LC04NjQzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbODA4MTQzMzk0LDMwMjUzMTI5Niw2MTQ2Mz
+M1MTUsLTE1Mzk1NTI0NjgsLTE1MjUxMzQ2MzcsMjExMTkxNjY3
+MiwtMTQ2NDUyNDY2NSwtMTU5NDAzNDgwMCwyMjUzOTI1NjYsMT
+c0MzA0NjYxNiwtMzE3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5
+MjY2LDk5OTQ1MTQsLTg2NDM4Mzc4Ml19
 -->
