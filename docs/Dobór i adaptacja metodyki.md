@@ -72,13 +72,13 @@ Dostępny przez cały czas. Co to CRACK?
 Wszyscy wykonawcy średnio-zaawansowani, mało doświadczeni w rozwoju projektu od zera, obecni przez cały czas trwania projektu. Cecha nie pasuje idealnie do żadnej z metodyk.
 
 #### Kultura
-Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku), a więc cecha metodyki sterowanej .
+Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku), a więc cecha metodyki sterowanej planem.
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTUwOTgxMSw4MDgxNDMzOTQsMzAyNT
-MxMjk2LDYxNDYzMzUxNSwtMTUzOTU1MjQ2OCwtMTUyNTEzNDYz
-NywyMTExOTE2NjcyLC0xNDY0NTI0NjY1LC0xNTk0MDM0ODAwLD
-IyNTM5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3
-NjQsLTE5MzY3ODkyNjYsOTk5NDUxNCwtODY0MzgzNzgyXX0=
+eyJoaXN0b3J5IjpbNzYyOTA1ODIwLDgwODE0MzM5NCwzMDI1Mz
+EyOTYsNjE0NjMzNTE1LC0xNTM5NTUyNDY4LC0xNTI1MTM0NjM3
+LDIxMTE5MTY2NzIsLTE0NjQ1MjQ2NjUsLTE1OTQwMzQ4MDAsMj
+I1MzkyNTY2LDE3NDMwNDY2MTYsLTMxNzg2NjgxLC0xMTY3Nzc2
+NCwtMTkzNjc4OTI2Niw5OTk0NTE0LC04NjQzODM3ODJdfQ==
 -->
