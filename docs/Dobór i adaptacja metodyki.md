@@ -28,6 +28,8 @@ Osoby w zespole są skłonne do porządku w specyfikacjach i wymaganiach, co jes
 ---
 Biorąc pod uwagę powyższe kryteria oceny naszego projektu, pasuje on bardziej pod metodyki sterowane planem, w głównej mierze dlatego, iż wymagania nie będą się zmieniać prawie wcale, a ze względu na straty mogą ucierpieć kluczowe fundusze. 
 
+
+
 ## Ocena według modelu pełnego
 
 ### Zastosowanie
@@ -79,10 +81,10 @@ Biorąc pod uwagę sugestię metodyk z oceny według modelu uproszczonego, jak i
 Nie jest ona jednak stuprocentowym dopasowaniem do naszych potrzeb.  Rozmiar projektu, jak i zespołu i jego poziomu, wskazywałby bardziej na użycie metodyki zwinnej. Tak samo jak prostota projektu, łatwość refaktoryzacji i podejście do testowania również nie wskazują na metodykę sterowaną planem.
 Z powyższymi niedopasowaniami poradzimy sobie modyfikując metodykę sterowaną planem, jednocześnie przeplatając ją z elementami metodyki zwinnej. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMDUzMTE3LC04MjQ3OTA5MTUsODA4MT
-QzMzk0LDMwMjUzMTI5Niw2MTQ2MzM1MTUsLTE1Mzk1NTI0Njgs
-LTE1MjUxMzQ2MzcsMjExMTkxNjY3MiwtMTQ2NDUyNDY2NSwtMT
-U5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0NjYxNiwtMzE3ODY2
-ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OTQ1MTQsLTg2ND
-M4Mzc4Ml19
+eyJoaXN0b3J5IjpbMTc3MTEwMzUxMyw3NjMwNTMxMTcsLTgyND
+c5MDkxNSw4MDgxNDMzOTQsMzAyNTMxMjk2LDYxNDYzMzUxNSwt
+MTUzOTU1MjQ2OCwtMTUyNTEzNDYzNywyMTExOTE2NjcyLC0xND
+Y0NTI0NjY1LC0xNTk0MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2
+NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOT
+k5NDUxNCwtODY0MzgzNzgyXX0=
 -->
