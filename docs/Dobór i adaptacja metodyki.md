@@ -67,7 +67,7 @@ Wykonywalne testy definiują wymagania - "podwórko" metodyki zwinnej.
 ### Osoby
 
 #### Klient
-Reprezentanci klienta klasy CRACK będą angażowani czasowo w prace projektu, jest to cechą metodyki sterowaje
+Reprezentanci klienta klasy CRACK będą angażowani czasowo w prace projektu, jest to cechą metodyki sterowanej planem.
 #### Wykonawcy 
 Wszyscy wykonawcy średnio-zaawansowani, mało doświadczeni w rozwoju projektu od zera, obecni przez cały czas trwania projektu. Cecha nie pasuje idealnie do żadnej z metodyk.
 
@@ -79,10 +79,10 @@ Biorąc pod uwagę sugestię metodyk z oceny według modelu uproszczonego, jak i
 Nie jest ona jednak stuprocentowym dopasowaniem do naszych potrzeb.  Rozmiar projektu, jak i zespołu i jego poziomu, wskazywałby bardziej na użycie metodyki zwinnej. Tak samo jak prostota projektu, łatwość refaktoryzacji i podejście do testowania również nie wskazują na metodykę sterowaną planem.
 Z powyższymi niedopasowaniami poradzimy sobie modyfikując metodykę sterowaną planem, jednocześnie przeplatając ją z elementami metodyki zwinnej. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjA3MTAwNCwtODI0NzkwOTE1LDgwOD
-E0MzM5NCwzMDI1MzEyOTYsNjE0NjMzNTE1LC0xNTM5NTUyNDY4
-LC0xNTI1MTM0NjM3LDIxMTE5MTY2NzIsLTE0NjQ1MjQ2NjUsLT
-E1OTQwMzQ4MDAsMjI1MzkyNTY2LDE3NDMwNDY2MTYsLTMxNzg2
-NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OTk0NTE0LC04Nj
-QzODM3ODJdfQ==
+eyJoaXN0b3J5IjpbNzYzMDUzMTE3LC04MjQ3OTA5MTUsODA4MT
+QzMzk0LDMwMjUzMTI5Niw2MTQ2MzM1MTUsLTE1Mzk1NTI0Njgs
+LTE1MjUxMzQ2MzcsMjExMTkxNjY3MiwtMTQ2NDUyNDY2NSwtMT
+U5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0NjYxNiwtMzE3ODY2
+ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OTQ1MTQsLTg2ND
+M4Mzc4Ml19
 -->
