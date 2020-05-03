@@ -48,7 +48,7 @@ Klient wyznaczony na miejscu, jednak występować będą również spotkania z k
 Cechy zarówno metodyki zwinnej, jak i sterowanej planem.
 
 #### Planowanie i nadzorowanie
-Jawnie udokumentowane plany w dokumentacji projektu, dostępne dla każdego wykonawcy projektu w zdalnym repozytorium. Będziemy nadzorować ilość wykonywanych zadań wchodzących w skład projektu. 
+Jawnie udokumentowane plany projektu, dostępne dla każdego wykonawcy projektu w zdalnym repozytorium. Będziemy stosować nadzór ilościowy, a więc jest to "podwórko" metodyki sterowanej planem.
 
 #### Komunikacja
 Jawna, udokumentowana wiedza.
@@ -76,9 +76,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjEyNDc4Miw2MTQ2MzM1MTUsLTE1Mz
-k1NTI0NjgsLTE1MjUxMzQ2MzcsMjExMTkxNjY3MiwtMTQ2NDUy
-NDY2NSwtMTU5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0NjYxNi
-wtMzE3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OTQ1
-MTQsLTg2NDM4Mzc4Ml19
+eyJoaXN0b3J5IjpbLTE2MjE2NDUwNTQsNjE0NjMzNTE1LC0xNT
+M5NTUyNDY4LC0xNTI1MTM0NjM3LDIxMTE5MTY2NzIsLTE0NjQ1
+MjQ2NjUsLTE1OTQwMzQ4MDAsMjI1MzkyNTY2LDE3NDMwNDY2MT
+YsLTMxNzg2NjgxLC0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OTk0
+NTE0LC04NjQzODM3ODJdfQ==
 -->
