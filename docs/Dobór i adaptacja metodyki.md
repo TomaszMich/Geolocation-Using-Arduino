@@ -19,7 +19,7 @@ Straty na skutek defektów działania urządzenia wpływają na kluczowe fundusz
 Wymagania w naszym projekcie będą z góry ustalone przed rozpoczęciem prac implementacyjnych i nie planuje się rozszerzania zakresu prac w trakcie realizacji. Sugeruje to użycie metodyki sterowanej planem.
 
 ### Osoby 
-
+Klient projektu będzie wyznaczony i dostępny od początku trwania prac
 
 ### Kultura
 
@@ -77,8 +77,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk1NTI0NjgsLTE1MjUxMzQ2MzcsMj
-ExMTkxNjY3MiwtMTQ2NDUyNDY2NSwtMTU5NDAzNDgwMCwyMjUz
-OTI1NjYsMTc0MzA0NjYxNiwtMzE3ODY2ODEsLTExNjc3NzY0LC
-0xOTM2Nzg5MjY2LDk5OTQ1MTQsLTg2NDM4Mzc4Ml19
+eyJoaXN0b3J5IjpbODIyODU4NDA5LC0xNTM5NTUyNDY4LC0xNT
+I1MTM0NjM3LDIxMTE5MTY2NzIsLTE0NjQ1MjQ2NjUsLTE1OTQw
+MzQ4MDAsMjI1MzkyNTY2LDE3NDMwNDY2MTYsLTMxNzg2NjgxLC
+0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OTk0NTE0LC04NjQzODM3
+ODJdfQ==
 -->
