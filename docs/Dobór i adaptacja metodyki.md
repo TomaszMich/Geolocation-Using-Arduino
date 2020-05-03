@@ -25,9 +25,8 @@ Klient projektu będzie wyznaczony i dostępny od początku trwania prac. Wykona
 
 Osoby w zespole są skłonne do porządku w specyfikacjach i wymaganiach, co jest cechą metodyk sterowanych planem.
 
-
-
-Biorąc pod uwagę powyższe kryteria oceny naszego projektu nadaje się on bardziej pod metodyki sterowane planem, w głównej mierze dlatego, że wymagania nie będą się zmieniać prawie wcale, a ze względu na straty mogą ucierpieć kluczowe fundusze. 
+---
+Biorąc pod uwagę powyższe kryteria oceny naszego projektu, pasuje on bardziej pod metodyki sterowane planem, w głównej mierze dlatego, iż wymagania nie będą się zmieniać prawie wcale, a ze względu na straty mogą ucierpieć kluczowe fundusze. 
 
 ## Ocena według modelu pełnego
 
@@ -77,9 +76,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU4NzAzMCwtMTUzOTU1MjQ2OCwtMT
-UyNTEzNDYzNywyMTExOTE2NjcyLC0xNDY0NTI0NjY1LC0xNTk0
-MDM0ODAwLDIyNTM5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MS
-wtMTE2Nzc3NjQsLTE5MzY3ODkyNjYsOTk5NDUxNCwtODY0Mzgz
-NzgyXX0=
+eyJoaXN0b3J5IjpbNjE0NjMzNTE1LC0xNTM5NTUyNDY4LC0xNT
+I1MTM0NjM3LDIxMTE5MTY2NzIsLTE0NjQ1MjQ2NjUsLTE1OTQw
+MzQ4MDAsMjI1MzkyNTY2LDE3NDMwNDY2MTYsLTMxNzg2NjgxLC
+0xMTY3Nzc2NCwtMTkzNjc4OTI2Niw5OTk0NTE0LC04NjQzODM3
+ODJdfQ==
 -->
