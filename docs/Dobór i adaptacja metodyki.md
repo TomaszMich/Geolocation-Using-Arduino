@@ -16,7 +16,7 @@ Straty na skutek defektów działania urządzenia wpływają na kluczowe fundusz
 
 ### Dynamika
 
-Wymagania w naszym projekcie nie będą się zmieniały zbyt często i będą raczej z góry ustalone przed rozpoczęciem prac implementacyjnych.
+Wymagania w naszym projekcie będą z góry ustalone przed rozpoczęciem prac implementacyjnych i nie planuje się rozszerzania zakresu prac w trakcie realizacji.
 
 ### Osoby 
 
@@ -77,8 +77,8 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUxMzQ2MzcsMjExMTkxNjY3MiwtMT
-Q2NDUyNDY2NSwtMTU5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0
-NjYxNiwtMzE3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LD
-k5OTQ1MTQsLTg2NDM4Mzc4Ml19
+eyJoaXN0b3J5IjpbMTQyODc5MzkwMywtMTUyNTEzNDYzNywyMT
+ExOTE2NjcyLC0xNDY0NTI0NjY1LC0xNTk0MDM0ODAwLDIyNTM5
+MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3NjQsLT
+E5MzY3ODkyNjYsOTk5NDUxNCwtODY0MzgzNzgyXX0=
 -->
