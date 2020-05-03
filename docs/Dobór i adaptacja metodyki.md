@@ -76,9 +76,9 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku), a
 
 ## Metodyka i jej adaptacja
 Biorąc pod uwagę sugestię metodyk z oceny według modelu uproszczonego, jak i pełnego, zalecaną dla nas metodyką będzie metodyka sterowana planem. Nie jest ona jednak stuprocentowym dopasowaniem do naszych potrzeb.  
-Rozmiar projektu, jak i zespołu i jego poziomu, wskazywałby bardziej na użycie metodyki zwinnej. Tak samo jak 
+Rozmiar projektu, jak i zespołu i jego poziomu, wskazywałby bardziej na użycie metodyki zwinnej. Tak samo jak prostota projektu, łatwość refaktoryzacji i podejście do testowania 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTE2MzIwNyw4MDgxNDMzOTQsMzAyNT
+eyJoaXN0b3J5IjpbLTg1MjA2MzEwNSw4MDgxNDMzOTQsMzAyNT
 MxMjk2LDYxNDYzMzUxNSwtMTUzOTU1MjQ2OCwtMTUyNTEzNDYz
 NywyMTExOTE2NjcyLC0xNDY0NTI0NjY1LC0xNTk0MDM0ODAwLD
 IyNTM5MjU2NiwxNzQzMDQ2NjE2LC0zMTc4NjY4MSwtMTE2Nzc3
