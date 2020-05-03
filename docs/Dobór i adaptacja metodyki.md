@@ -44,7 +44,8 @@ Zgodne z charakterystyką użycia metodyki sterowanej planem, a więc stabilne, 
 ### Zarządzanie
 
 #### Relacja z klientem
-Klient wyznaczony na miejscu, bez przeprowadzania spotkań.
+Klient wyznaczony na miejscu, jednak występować będą również spotkania z klientem gdy potrzeba, w celu sprecyzowania wymagań i specyfikacji projektu. 
+
 
 #### Planowanie i nadzorowanie
 Jawnie udokumentowane plany w dokumentacji projektu, dostępne dla każdego wykonawcy projektu w zdalnym repozytorium. Będziemy nadzorować ilość wykonywanych zadań wchodzących w skład projektu.
@@ -75,7 +76,7 @@ Zadowolenie i moc poprzez zestaw zasad i procedur (skłonność do porządku).
 
 ## Metodyka i jej adaptacja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzY1MzE2Myw2MTQ2MzM1MTUsLTE1Mz
+eyJoaXN0b3J5IjpbLTYxNzgxODE3NSw2MTQ2MzM1MTUsLTE1Mz
 k1NTI0NjgsLTE1MjUxMzQ2MzcsMjExMTkxNjY3MiwtMTQ2NDUy
 NDY2NSwtMTU5NDAzNDgwMCwyMjUzOTI1NjYsMTc0MzA0NjYxNi
 wtMzE3ODY2ODEsLTExNjc3NzY0LC0xOTM2Nzg5MjY2LDk5OTQ1
