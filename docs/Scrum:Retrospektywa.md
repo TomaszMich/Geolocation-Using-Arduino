@@ -14,8 +14,8 @@ Po wykonaniu rysunków należy poprosić zespół, aby zastanowił się nad elem
 
 Po tej części należy poprosić zespół, aby zidentyfikował te elementy sprintu, które uznają za burzowe (takie, które sprawiają problemy, czy kłopoty w zespole) oraz słoneczne (takie, które mogą pozytywnie wpłynąć na zespół, polepszyć atmosferę). Należy przedyskutować wybrane elementy z zespołem.
 
-Ostatnim etapem jest zdefiniowanie działań mających na celu ulepszenie wskazanych elementów 
+Ostatnim etapem jest zdefiniowanie działań mających na celu ulepszenie wskazanych elementów. Warto użyć na przykład modelu S.M.A.R.T.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjgzMzI1NiwxNTE0NDc4MjEwLC0xMT
+eyJoaXN0b3J5IjpbLTMzNDYxNzMzMSwxNTE0NDc4MjEwLC0xMT
 g0NjI1NzA3XX0=
 -->
