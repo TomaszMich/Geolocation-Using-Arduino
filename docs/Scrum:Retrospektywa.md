@@ -24,7 +24,13 @@ Data odbycia: 14-05-2020 r.
 Uczestnicy: Jakub Włostowski, Tomasz Michalski
 Czas trwania: 60 minut
 Moderator: Tomasz Michalski
+Osoba notująca: Jakub Włostowski
+
+
+## 4. Zadania do wykonania - action items
+
+## 5. Wnioski
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzE2NjI5LDE1MTQ0NzgyMTAsLTExOD
-Q2MjU3MDddfQ==
+eyJoaXN0b3J5IjpbLTU0MDQ0Njg5OSwxNTE0NDc4MjEwLC0xMT
+g0NjI1NzA3XX0=
 -->
