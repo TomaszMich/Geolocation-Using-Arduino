@@ -6,7 +6,7 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 
 ## 2. Wybrana technika retrospektywy
 
-Wybraną techniką retrospektywy będzie technika hot air balloon 
+Wybraną techniką retrospektywy będzie technika hot air balloon ([https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294](https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294)).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjM4MjcwMCwtMTE4NDYyNTcwN119
+eyJoaXN0b3J5IjpbMTUxNDQ3ODIxMCwtMTE4NDYyNTcwN119
 -->
