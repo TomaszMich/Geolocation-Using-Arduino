@@ -11,7 +11,9 @@ Wybraną techniką retrospektywy będzie technika hot air balloon ([https://medi
 Zacząć trzeba od przygotowania rysunku balonu wraz z workami z piaskiem u dołu i płomieniami, które pomagają unosić się balonowi. Następnie należy narysować chmurę z piorunami po lewej stronie balona oraz słońce po prawej. 
 
 Po wykonaniu rysunków należy poprosić zespół, aby zastanowił się nad elementami sprintu, które spowalniały (worki z piaskiem) oraz które przyspieszały zespół (płomienie). Wybrane elementy należy umieścić w odpowiednich miejscach na balonie, najlepiej na kartkach samoprzylepnych. Należy przedyskutować wybrane elementy z zespołem.
+
+Po tej części należy poprosić zespół, aby zidentyfikował te elementy sprintu, które uznają za burzowe (takie, które sprawiają problemy, czy kłopoty w zespole) oraz słoneczne (takie)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODgxMTY1OCwxNTE0NDc4MjEwLC0xMT
-g0NjI1NzA3XX0=
+eyJoaXN0b3J5IjpbLTE1MTMzMjIzNTcsMTUxNDQ3ODIxMCwtMT
+E4NDYyNTcwN119
 -->
