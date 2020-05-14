@@ -19,7 +19,12 @@ Ostatnim etapem jest zdefiniowanie działań mających na celu ulepszenie wskaza
 Wybraliśmy technikę hot air balloon z uwagi na duże nastawienie na dyskusję w zespole oraz dobre zobrazowanie wszystkich elementów sprintu .
 
 ## 3. Przebieg i wyniki retrospektywy
+
+Data odbycia: 14-05-2020 r.
+Uczestnicy: Jakub Włostowski, Tomasz Michalski
+Czas trwania: 60 minut
+Moderator: Tomasz Michalski
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjgyNTM3NywxNTE0NDc4MjEwLC0xMT
-g0NjI1NzA3XX0=
+eyJoaXN0b3J5IjpbLTM4MzE2NjI5LDE1MTQ0NzgyMTAsLTExOD
+Q2MjU3MDddfQ==
 -->
