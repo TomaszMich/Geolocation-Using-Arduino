@@ -12,8 +12,8 @@ Zacząć trzeba od przygotowania rysunku balonu wraz z workami z piaskiem u doł
 
 Po wykonaniu rysunków należy poprosić zespół, aby zastanowił się nad elementami sprintu, które spowalniały (worki z piaskiem) oraz które przyspieszały zespół (płomienie). Wybrane elementy należy umieścić w odpowiednich miejscach na balonie, najlepiej na kartkach samoprzylepnych. Należy przedyskutować wybrane elementy z zespołem.
 
-Po tej części należy poprosić zespół, aby zidentyfikował te elementy sprintu, które uznają za burzowe (takie, które sprawiają problemy, czy kłopoty w zespole) oraz słoneczne (takie, które mogą poz)
+Po tej części należy poprosić zespół, aby zidentyfikował te elementy sprintu, które uznają za burzowe (takie, które sprawiają problemy, czy kłopoty w zespole) oraz słoneczne (takie, które mogą pozytywnie wpłynąć na zespół, polepszyć atmosferę). Należy przedyskutować wybrane elementy z zespołem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjA3MjEyNSwxNTE0NDc4MjEwLC0xMT
-g0NjI1NzA3XX0=
+eyJoaXN0b3J5IjpbNzIzODY3OTU3LDE1MTQ0NzgyMTAsLTExOD
+Q2MjU3MDddfQ==
 -->
