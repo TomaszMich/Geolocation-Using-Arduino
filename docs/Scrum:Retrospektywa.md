@@ -15,7 +15,11 @@ Po wykonaniu rysunków należy poprosić zespół, aby zastanowił się nad elem
 Po tej części należy poprosić zespół, aby zidentyfikował te elementy sprintu, które uznają za burzowe (takie, które sprawiają problemy, czy kłopoty w zespole) oraz słoneczne (takie, które mogą pozytywnie wpłynąć na zespół, polepszyć atmosferę). Należy przedyskutować wybrane elementy z zespołem.
 
 Ostatnim etapem jest zdefiniowanie działań mających na celu ulepszenie wskazanych elementów. Warto użyć na przykład modelu S.M.A.R.T.
+
+Wybraliśmy technikę hot air balloon z uwagi na 
+
+## 3. Przebieg i wyniki retrospektywy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDYxNzMzMSwxNTE0NDc4MjEwLC0xMT
-g0NjI1NzA3XX0=
+eyJoaXN0b3J5IjpbNzU3MjY3NjE2LDE1MTQ0NzgyMTAsLTExOD
+Q2MjU3MDddfQ==
 -->
