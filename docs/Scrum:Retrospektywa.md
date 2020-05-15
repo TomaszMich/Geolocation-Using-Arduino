@@ -25,12 +25,12 @@ Uczestnicy: Jakub Włostowski, Tomasz Michalski
 Czas trwania: 60 minut
 Moderator: Tomasz Michalski
 Osoba notująca: Jakub Włostowski
-
+Używane narzędzia: tablica, karteczki samoprzylepne
 
 ## 4. Zadania do wykonania - action items
 
 ## 5. Wnioski
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDQ0Njg5OSwxNTE0NDc4MjEwLC0xMT
-g0NjI1NzA3XX0=
+eyJoaXN0b3J5IjpbMTI5OTY2OTk1OSwtNTQwNDQ2ODk5LDE1MT
+Q0NzgyMTAsLTExODQ2MjU3MDddfQ==
 -->
