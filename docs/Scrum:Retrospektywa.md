@@ -33,10 +33,10 @@ Używane narzędzia: tablica, karteczki samoprzylepne
 
 
 ## 4. Zadania do wykonania - action items
-
+- Szybsze wykonywanie Code Review
 ## 5. Wnioski
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczNDI0MzA0LDQ0NzI2NDE5LDEwODE4MD
-I4MCwzMDc0MTQ2MDAsLTE0MTMxOTg4NTgsMTI5OTY2OTk1OSwt
-NTQwNDQ2ODk5LDE1MTQ0NzgyMTAsLTExODQ2MjU3MDddfQ==
+eyJoaXN0b3J5IjpbMTY3MDA1MzY2Nyw0NDcyNjQxOSwxMDgxOD
+AyODAsMzA3NDE0NjAwLC0xNDEzMTk4ODU4LDEyOTk2Njk5NTks
+LTU0MDQ0Njg5OSwxNTE0NDc4MjEwLC0xMTg0NjI1NzA3XX0=
 -->
