@@ -31,7 +31,7 @@ Osoba notująca: Jakub Włostowski
 Używane narzędzia: tablica, karteczki samoprzylepne
 
 
-
+Problemy: kłopoty w komunikacji 
 
 
 ## 4. Zadania do wykonania - action items
@@ -41,8 +41,8 @@ Używane narzędzia: tablica, karteczki samoprzylepne
 ## 5. Wnioski
 Zastosowana technika *Hot air baloon* jest bardzo czytelna, prosta w użyciu i dobrze sprawdziła się w naszym zespole. Pięciominutowy wstęp na temat techniki i kilka przykładów użycia wystarczyło, aby członkowie zespołu byli w stanie efektywnie jej używać. Technika pomogła wyszczególnić, co poszło dobrze i co powinniśmy kontynuować, co zrobiliśmy nie najlepiej w ostatnim sprincie oraz przy jej użyciu udało się wyznaczyć zadania do wykonania. Uczestnikom spodobała się technika *Hot air baloon* i wyrazili chęć używania jej w przyszłości.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTE2NjM0NiwtMTQzMjIyNTk0OCwtMj
-A0MTcxMzkyLC0xMTA3OTU3MDk3LDQ0NzI2NDE5LDEwODE4MDI4
-MCwzMDc0MTQ2MDAsLTE0MTMxOTg4NTgsMTI5OTY2OTk1OSwtNT
-QwNDQ2ODk5LDE1MTQ0NzgyMTAsLTExODQ2MjU3MDddfQ==
+eyJoaXN0b3J5IjpbLTE4NzM2OTgyNiwtMjQ1MTY2MzQ2LC0yMD
+QxNzEzOTIsLTExMDc5NTcwOTcsNDQ3MjY0MTksMTA4MTgwMjgw
+LDMwNzQxNDYwMCwtMTQxMzE5ODg1OCwxMjk5NjY5OTU5LC01ND
+A0NDY4OTksMTUxNDQ3ODIxMCwtMTE4NDYyNTcwN119
 -->
