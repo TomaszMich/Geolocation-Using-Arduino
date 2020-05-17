@@ -35,10 +35,11 @@ Używane narzędzia: tablica, karteczki samoprzylepne
 ## 4. Zadania do wykonania - action items
 - Szybciej rozpoczynać Code Review
 - Poprawić komunikację w zespole na temat napotkanych problemów i ich rozwiązań, aby nie duplikować pracy - opisywać kroki w dokumentach
-- Trzymać się planu spotkania i nie zbaczać z tematu. Scrum master p
+- Trzymać się planu spotkania i nie zbaczać z tematu, w celu efektywniejszego wykorzystania czasu. Scrum master powinien tego pilnować.
 ## 5. Wnioski
+Zastosowana technika *Hot air baloon* jest bardzo czytelna, prosta w u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE0NjkwMjUsNDQ3MjY0MTksMTA4MT
-gwMjgwLDMwNzQxNDYwMCwtMTQxMzE5ODg1OCwxMjk5NjY5OTU5
-LC01NDA0NDY4OTksMTUxNDQ3ODIxMCwtMTE4NDYyNTcwN119
+eyJoaXN0b3J5IjpbMTM2NDYyMzM2NCw0NDcyNjQxOSwxMDgxOD
+AyODAsMzA3NDE0NjAwLC0xNDEzMTk4ODU4LDEyOTk2Njk5NTks
+LTU0MDQ0Njg5OSwxNTE0NDc4MjEwLC0xMTg0NjI1NzA3XX0=
 -->
