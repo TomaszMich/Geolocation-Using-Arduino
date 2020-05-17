@@ -37,9 +37,9 @@ Używane narzędzia: tablica, karteczki samoprzylepne
 - Poprawić komunikację w zespole na temat napotkanych problemów i ich rozwiązań, aby nie duplikować pracy - opisywać kroki w dokumentach
 - Trzymać się planu spotkania i nie zbaczać z tematu, w celu efektywniejszego wykorzystania czasu. Scrum master powinien tego pilnować.
 ## 5. Wnioski
-Zastosowana technika *Hot air baloon* jest bardzo czytelna, prosta w u
+Zastosowana technika *Hot air baloon* jest bardzo czytelna, prosta w użyciu i dobrze sprawdziła się w naszym zespole. Wystarczyło 5 minut opisu techniki i uczestnicy spotkania zrozu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDYyMzM2NCw0NDcyNjQxOSwxMDgxOD
-AyODAsMzA3NDE0NjAwLC0xNDEzMTk4ODU4LDEyOTk2Njk5NTks
-LTU0MDQ0Njg5OSwxNTE0NDc4MjEwLC0xMTg0NjI1NzA3XX0=
+eyJoaXN0b3J5IjpbLTM5MjM2MzU2LDQ0NzI2NDE5LDEwODE4MD
+I4MCwzMDc0MTQ2MDAsLTE0MTMxOTg4NTgsMTI5OTY2OTk1OSwt
+NTQwNDQ2ODk5LDE1MTQ0NzgyMTAsLTExODQ2MjU3MDddfQ==
 -->
