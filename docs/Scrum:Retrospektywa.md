@@ -18,6 +18,8 @@ Ostatnim etapem jest zdefiniowanie działań mających na celu ulepszenie wskaza
 
 Wybraliśmy technikę *hot air balloon* z uwagi na duże nastawienie na dyskusję w zespole oraz dobre zobrazowanie wszystkich elementów sprintu.
 
+![image](https://drive.google.com/uc?export=view&id=1xfnXHs9jWMHUlpOCLRwWzDvUXIoeF222 )
+
 ## 3. Przebieg i wyniki retrospektywy
 
 Data odbycia: 14-05-2020 r.
@@ -33,7 +35,7 @@ Używane narzędzia: tablica, karteczki samoprzylepne
 
 ## 5. Wnioski
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NDE0NjAwLC0xNDEzMTk4ODU4LDEyOT
-k2Njk5NTksLTU0MDQ0Njg5OSwxNTE0NDc4MjEwLC0xMTg0NjI1
-NzA3XX0=
+eyJoaXN0b3J5IjpbMTA4MTgwMjgwLDMwNzQxNDYwMCwtMTQxMz
+E5ODg1OCwxMjk5NjY5OTU5LC01NDA0NDY4OTksMTUxNDQ3ODIx
+MCwtMTE4NDYyNTcwN119
 -->
