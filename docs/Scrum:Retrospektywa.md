@@ -33,11 +33,11 @@ Używane narzędzia: tablica, karteczki samoprzylepne
 
 
 ## 4. Zadania do wykonania - action items
-- Szybsze rozpoczynanie Code Review i wyższy priorytet ich ukończenia
-- 
+- Szybciej rozpoczynać Code Review
+- Poprawić komunikację w zespole na tema
 ## 5. Wnioski
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYwOTQyNzYsNDQ3MjY0MTksMTA4MT
-gwMjgwLDMwNzQxNDYwMCwtMTQxMzE5ODg1OCwxMjk5NjY5OTU5
-LC01NDA0NDY4OTksMTUxNDQ3ODIxMCwtMTE4NDYyNTcwN119
+eyJoaXN0b3J5IjpbLTIzMTU3NDQxNyw0NDcyNjQxOSwxMDgxOD
+AyODAsMzA3NDE0NjAwLC0xNDEzMTk4ODU4LDEyOTk2Njk5NTks
+LTU0MDQ0Njg5OSwxNTE0NDc4MjEwLC0xMTg0NjI1NzA3XX0=
 -->
