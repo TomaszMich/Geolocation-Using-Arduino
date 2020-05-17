@@ -19,7 +19,7 @@ Ostatnim etapem jest zdefiniowanie działań mających na celu ulepszenie wskaza
 Wybraliśmy technikę *hot air balloon* z uwagi na duże nastawienie na dyskusję w zespole oraz dobre zobrazowanie wszystkich elementów sprintu.
 
 ![hot air baloon](https://drive.google.com/uc?export=view&id=1DQyFuXm02CxV81Hn_L2uaRxSYQocBP_I )
-Zmniejszyć obrazek o połowę
+
 
 ## 3. Przebieg i wyniki retrospektywy
 
@@ -41,8 +41,8 @@ Używane narzędzia: tablica, karteczki samoprzylepne
 ## 5. Wnioski
 Zastosowana technika *Hot air baloon* jest bardzo czytelna, prosta w użyciu i dobrze sprawdziła się w naszym zespole. Pięciominutowy wstęp na temat techniki i kilka przykładów użycia wystarczyło, aby członkowie zespołu byli w stanie efektywnie jej używać. Technika pomogła wyszczególnić co poszło dobrze i co powinniśmy kontynuować, co zrobiliśmy nie najlepiej w ostatnim sprincie oraz przy jej użyciu udało się wyznaczyć zadania do wykonania. Uczestnikom spodobała się technika *Hot air baloon* i wyrazili chęć używania jej w przyszłości.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDExODgwMywtMjA0MTcxMzkyLC0xMT
-A3OTU3MDk3LDQ0NzI2NDE5LDEwODE4MDI4MCwzMDc0MTQ2MDAs
-LTE0MTMxOTg4NTgsMTI5OTY2OTk1OSwtNTQwNDQ2ODk5LDE1MT
-Q0NzgyMTAsLTExODQ2MjU3MDddfQ==
+eyJoaXN0b3J5IjpbLTE0MzIyMjU5NDgsLTI3NDExODgwMywtMj
+A0MTcxMzkyLC0xMTA3OTU3MDk3LDQ0NzI2NDE5LDEwODE4MDI4
+MCwzMDc0MTQ2MDAsLTE0MTMxOTg4NTgsMTI5OTY2OTk1OSwtNT
+QwNDQ2ODk5LDE1MTQ0NzgyMTAsLTExODQ2MjU3MDddfQ==
 -->
