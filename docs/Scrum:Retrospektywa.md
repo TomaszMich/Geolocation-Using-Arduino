@@ -24,14 +24,21 @@ Wybraliśmy technikę *ot air balloon* z uwagi na duże nastawienie na dyskusję
 ## 3. Przebieg i wyniki retrospektywy
 
 Data odbycia: 14-05-2020 r.
+
 Uczestnicy: Jakub Włostowski, Tomasz Michalski
+
 Czas trwania: 60 minut
+
 Moderator: Tomasz Michalski
+
 Osoba notująca: Jakub Włostowski
+
 Używane narzędzia: tablica, karteczki samoprzylepne, flamastry, brulion papieru
 
 
+
 Problemy: kłopoty w komunikacji z uczestnikami sprintu, mało efektywne spotkania, zbyt długo trwające Code Review
+
 Sukcesy: zakończenie z powodzeniem pierwszego epica, zrealizowanie wszystkich zadań w sprincie
 
 
@@ -42,9 +49,9 @@ Sukcesy: zakończenie z powodzeniem pierwszego epica, zrealizowanie wszystkich z
 ## 5. Wnioski
 Zastosowana technika *Hot air baloon* jest bardzo czytelna, prosta w użyciu i dobrze sprawdziła się w naszym zespole. Pięciominutowy wstęp na temat techniki i kilka przykładów użycia wystarczyło, aby członkowie zespołu byli w stanie efektywnie jej używać. Technika pomogła wyszczególnić, co poszło dobrze i co powinniśmy kontynuować, co zrobiliśmy nie najlepiej w ostatnim sprincie oraz przy jej użyciu udało się wyznaczyć zadania do wykonania. Uczestnikom spodobała się technika *Hot air baloon* i wyrazili chęć używania jej w przyszłości.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTEzODM2MiwtNjQzODQyNTc2LC0yMj
-U4MDIwMDcsLTIwNDE3MTM5MiwtMTEwNzk1NzA5Nyw0NDcyNjQx
-OSwxMDgxODAyODAsMzA3NDE0NjAwLC0xNDEzMTk4ODU4LDEyOT
-k2Njk5NTksLTU0MDQ0Njg5OSwxNTE0NDc4MjEwLC0xMTg0NjI1
-NzA3XX0=
+eyJoaXN0b3J5IjpbLTI1NzYxMDg0MCwxNTA1MTM4MzYyLC02ND
+M4NDI1NzYsLTIyNTgwMjAwNywtMjA0MTcxMzkyLC0xMTA3OTU3
+MDk3LDQ0NzI2NDE5LDEwODE4MDI4MCwzMDc0MTQ2MDAsLTE0MT
+MxOTg4NTgsMTI5OTY2OTk1OSwtNTQwNDQ2ODk5LDE1MTQ0Nzgy
+MTAsLTExODQ2MjU3MDddfQ==
 -->
