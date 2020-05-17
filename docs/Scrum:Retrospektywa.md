@@ -6,7 +6,7 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 
 ## 2. Wybrana technika retrospektywy
 
-Wybraną techniką retrospektywy była technika *hot air balloon* ([https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294](https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294)). Maksymalny czas przewidziany na retrospektywę to 90 minut. 
+Wybraną techniką retrospektywy była technika *ot air balloon* ([https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294](https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294)). Maksymalny czas przewidziany na retrospektywę to 90 minut. 
 
 Zacząć trzeba od przygotowania rysunku balonu wraz z workami z piaskiem u dołu i płomieniami, które pomagają unosić się balonowi. Następnie należy narysować chmurę z piorunami po lewej stronie balona oraz słońce po prawej. 
 
@@ -16,7 +16,7 @@ Po tej części należy poprosić zespół, aby zidentyfikował te elementy spri
 
 Ostatnim etapem jest zdefiniowanie działań mających na celu ulepszenie wskazanych elementów. Warto użyć na przykład modelu S.M.A.R.T.
 
-Wybraliśmy technikę *hot air balloon* z uwagi na duże nastawienie na dyskusję w zespole oraz dobre zobrazowanie wszystkich elementów sprintu.
+Wybraliśmy technikę *ot air balloon* z uwagi na duże nastawienie na dyskusję w zespole oraz dobre zobrazowanie wszystkich elementów sprintu.
 
 ![hot air baloon](https://drive.google.com/uc?export=view&id=1DQyFuXm02CxV81Hn_L2uaRxSYQocBP_I )
 
@@ -41,8 +41,8 @@ Problemy: kłopoty w komunikacji
 ## 5. Wnioski
 Zastosowana technika *Hot air baloon* jest bardzo czytelna, prosta w użyciu i dobrze sprawdziła się w naszym zespole. Pięciominutowy wstęp na temat techniki i kilka przykładów użycia wystarczyło, aby członkowie zespołu byli w stanie efektywnie jej używać. Technika pomogła wyszczególnić, co poszło dobrze i co powinniśmy kontynuować, co zrobiliśmy nie najlepiej w ostatnim sprincie oraz przy jej użyciu udało się wyznaczyć zadania do wykonania. Uczestnikom spodobała się technika *Hot air baloon* i wyrazili chęć używania jej w przyszłości.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM2OTgyNiwtMjQ1MTY2MzQ2LC0yMD
-QxNzEzOTIsLTExMDc5NTcwOTcsNDQ3MjY0MTksMTA4MTgwMjgw
-LDMwNzQxNDYwMCwtMTQxMzE5ODg1OCwxMjk5NjY5OTU5LC01ND
-A0NDY4OTksMTUxNDQ3ODIxMCwtMTE4NDYyNTcwN119
+eyJoaXN0b3J5IjpbLTE5NjA1MTMyOTYsLTE4NzM2OTgyNiwtMj
+A0MTcxMzkyLC0xMTA3OTU3MDk3LDQ0NzI2NDE5LDEwODE4MDI4
+MCwzMDc0MTQ2MDAsLTE0MTMxOTg4NTgsMTI5OTY2OTk1OSwtNT
+QwNDQ2ODk5LDE1MTQ0NzgyMTAsLTExODQ2MjU3MDddfQ==
 -->
