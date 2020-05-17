@@ -6,7 +6,7 @@ System geolokalizacji z wykorzystaniem modułu Arduino, przeznaczony do celów p
 
 ## 2. Wybrana technika retrospektywy
 
-Wybraną techniką retrospektywy była technika hot air balloon ([https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294](https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294)). Maksymalny czas przewidziany na retrospektywę to 90 minut. 
+Wybraną techniką retrospektywy była technika *hot air balloon* ([https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294](https://medium.com/@leanscrummaster/hot-air-balloon-retrospective-265c5f180294)). Maksymalny czas przewidziany na retrospektywę to 90 minut. 
 
 Zacząć trzeba od przygotowania rysunku balonu wraz z workami z piaskiem u dołu i płomieniami, które pomagają unosić się balonowi. Następnie należy narysować chmurę z piorunami po lewej stronie balona oraz słońce po prawej. 
 
@@ -16,7 +16,7 @@ Po tej części należy poprosić zespół, aby zidentyfikował te elementy spri
 
 Ostatnim etapem jest zdefiniowanie działań mających na celu ulepszenie wskazanych elementów. Warto użyć na przykład modelu S.M.A.R.T.
 
-Wybraliśmy technikę hot air balloon z uwagi na duże nastawienie na dyskusję w zespole oraz dobre zobrazowanie wszystkich elementów sprintu .
+Wybraliśmy technikę *hot air balloon* z uwagi na duże nastawienie na dyskusję w zespole oraz dobre zobrazowanie wszystkich elementów sprintu.
 
 ## 3. Przebieg i wyniki retrospektywy
 
@@ -33,6 +33,7 @@ Używane narzędzia: tablica, karteczki samoprzylepne
 
 ## 5. Wnioski
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMxOTg4NTgsMTI5OTY2OTk1OSwtNT
-QwNDQ2ODk5LDE1MTQ0NzgyMTAsLTExODQ2MjU3MDddfQ==
+eyJoaXN0b3J5IjpbMzA3NDE0NjAwLC0xNDEzMTk4ODU4LDEyOT
+k2Njk5NTksLTU0MDQ0Njg5OSwxNTE0NDc4MjEwLC0xMTg0NjI1
+NzA3XX0=
 -->
